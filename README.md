@@ -6,7 +6,7 @@ Dotfiles backup until I change my laptop based on arch-monochrome
 - ttf-roboto
 # main dependencies
 - bspwm / sxhkd
-- firefox
+- rofi
 - thunar
 - alacritty / kitty
 - gdm (gnome display manager)
