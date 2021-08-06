@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>Safe Doc</title>
+  <style>
+    html, body {
+      height: 100%;
+    }
+    body {
+      margin: 0;
+      height: auto !important;
+    }
+    .error-container {
+      box-sizing: border-box;
+      font-size: 1em;
+      line-height: 1.6em;
+      margin: 14vh auto 0;
+      max-width: 600px;
+      width: 100%;
+    }
+    .broken-icon {
+      height: 72px;
+      width: 72px;
+      margin-bottom: 40px;
+    }
+    .title {
+      font-size: 24px;
+      font-weight: 500;
+      font-family: sans-serif;
+    }
+    .subtitle {
+      font-size: 20px;
+      font-weight: 400;
+    }
+    .notes {
+      font-size: 16px;
+      font-weight: 300;
+    }
+    .mt-4 {
+      margin-top: 16px;
+    }
+    .mt-10 {
+      margin-top: 40px;
+    }
+    .d-flex {
+      display: flex;
+    }
+    .align-content-end {
+      justify-content: flex-end;
+    }
+    .button {
+      display: inline-block;
+      font-weight: 400;
+      color: #fff;
+      background-color: #007bff;
+      border-color: #007bff;
+      text-align: center;
+      vertical-align: middle;
+      cursor: pointer;
+      user-select: none;
+      padding: .375rem .75rem;
+      font-size: 1rem;
+      line-height: 1.5;
+      border-radius: .25rem;
+      transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    }
+    .button:focus {
+      border-color: #0062cc;
+      box-shadow: 0 0 0 0.2rem rgba(38, 143, 255, .5);
+      outline-color: #00000000;
+    }
+  </style>
+  <script>
+    const urlSearchParams = new URLSearchParams(window.location.search)
+    document.addEventListener('DOMContentLoaded', function () {
+      const meetingId = urlSearchParams.get('id')
+      document.getElementById('meeting-code').innerText = meetingId
+      document.getElementById('reload-btn').onclick = function () {
+        window.location = `https://meet.google.com/${meetingId}`
+      }
+    })
+  </script>
+</head>
+<body>
+  <div class="error-container">
+    <div style="width: 600px;">
+      <div>
+        <img src="/img/broken-2x.png" alt="blocked meeting" class="broken-icon"/>
+      </div>
+      <div class="title">
+        The meeting is blocked by your administrator
+      </div>
+      <div class="subtitle mt-4">
+        Try contacting your supervisor
+      </div>
+      <div class="notes mt-10">
+        MEETING CODE
+      </div>
+      <div class="notes" id="meeting-code">
+
+      </div>
+      <div class="d-flex align-content-end mt-10">
+        <button id="reload-btn" type="button" class="button">Reload</button>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

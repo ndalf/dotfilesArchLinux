@@ -1,0 +1,5 @@
+2021/06/13-14:46:12.567 6f0 Reusing MANIFEST /home/taz/.config/google-chrome/Default/IndexedDB/https_www.raiplay.it_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/13-14:46:31.175 6f0 Level-0 table #5: started
+2021/06/13-14:46:31.181 6f0 Level-0 table #5: 2545 bytes OK
+2021/06/13-14:46:31.182 6f0 Delete type=0 #3
+2021/06/13-14:46:31.182 6f0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

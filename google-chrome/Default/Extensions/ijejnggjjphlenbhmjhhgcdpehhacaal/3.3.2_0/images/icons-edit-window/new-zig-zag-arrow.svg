@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="22px" viewBox="0 0 20 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>012-toolbar-arrow</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="editor-icons-broken" transform="translate(-372.000000, -144.000000)">
+            <g id="012-toolbar-arrow" transform="translate(373.000000, 144.000000)">
+                <g id="Group-4">
+                    <path d="M0.225846816,21.5402871 C0.0845040726,20.7222379 0.00980478937,20.1402645 0.00174896627,19.7943669 M0.242519647,18.163356 C0.758208565,16.8470411 2.09631042,16.359857 4.25682521,16.7018038 C9.91695377,17.597638 10.2338899,16.3686347 9.3562816,13.7466086 C8.68258337,11.7338036 9.28294524,10.8021528 12.2268782,10.4267011 C14.8620509,10.0906268 14.8609976,7.45675434 15.3986736,6.93478261" id="Shape" stroke="#434343" stroke-linecap="round"></path>
+                    <polygon id="Path-2" fill="#434343" transform="translate(15.939787, 6.025464) rotate(-22.000000) translate(-15.939787, -6.025464) " points="19.9397867 2.02546419 11.9397867 4.64550753 17.2791271 10.0254642"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

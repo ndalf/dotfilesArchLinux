@@ -1,0 +1,5 @@
+2021/04/27-20:17:07.720 3605 Reusing MANIFEST /home/taz/.config/google-chrome/Default/IndexedDB/https_euc-word-view.officeapps.live.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/27-20:17:18.688 35d1 Level-0 table #5: started
+2021/04/27-20:17:18.693 35d1 Level-0 table #5: 853 bytes OK
+2021/04/27-20:17:18.694 35d1 Delete type=0 #3
+2021/04/27-20:17:18.695 35d1 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

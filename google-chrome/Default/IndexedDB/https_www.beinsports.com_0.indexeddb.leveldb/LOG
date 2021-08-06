@@ -1,0 +1,5 @@
+2021/05/28-14:42:12.913 51d6 Reusing MANIFEST /home/taz/.config/google-chrome/Default/IndexedDB/https_www.beinsports.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/28-14:42:54.625 51d6 Level-0 table #5: started
+2021/05/28-14:42:54.630 51d6 Level-0 table #5: 2850 bytes OK
+2021/05/28-14:42:54.632 51d6 Delete type=0 #3
+2021/05/28-14:42:54.632 51d6 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

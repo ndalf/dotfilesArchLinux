@@ -1,0 +1,34 @@
+00:00:00.002018 main     VirtualBox XPCOM Server 6.1.22 r144080 linux.amd64 (May 11 2021 19:59:25) release log
+00:00:00.002024 main     Log opened 2021-07-30T06:02:05.945154000Z
+00:00:00.002025 main     Build Type: release
+00:00:00.002028 main     OS Product: Linux
+00:00:00.002030 main     OS Release: 5.9.16-1-MANJARO
+00:00:00.002031 main     OS Version: #1 SMP PREEMPT Mon Dec 21 22:00:46 UTC 2020
+00:00:00.002065 main     DMI Product Name: XPS 13 9310
+00:00:00.002078 main     DMI Product Version: 
+00:00:00.002086 main     Firmware type: UEFI
+00:00:00.003392 main     Secure Boot: Disabled
+00:00:00.003451 main     Host RAM: 15741MB (15.3GB) total, 14911MB (14.5GB) available
+00:00:00.003457 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.003458 main     Process ID: 12726
+00:00:00.003459 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.006708 main     IPC socket path: /tmp/.vbox-taz-ipc/ipcd
+00:00:00.117921 nspr-2   VirtualBox: object creation starts
+00:00:00.118039 nspr-2   Home directory: '/home/taz/.config/VirtualBox'
+00:00:00.118437 nspr-2   Loading settings file "/home/taz/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.133265 nspr-2   HostDnsMonitor: initializing
+00:00:00.133704 nspr-2   HostDnsMonitor: updating information
+00:00:00.133717 nspr-2   HostDnsMonitor: unchanged
+00:00:00.138769 nspr-2   VD: VDInit finished with VINF_SUCCESS
+00:00:00.146668 nspr-2   Loading settings file "/home/taz/VirtualBox VMs/cape_ubuntu20.04-x64/cape_ubuntu20.04-x64.vbox" with version "1.17-linux"
+00:00:00.148115 nspr-2   Loading settings file "/home/taz/VirtualBox VMs/win10-x64_analysis/win10-x64_analysis.vbox" with version "1.15-linux"
+00:00:00.150313 nspr-2   VirtualBox: object created
+00:00:05.166229 main     VirtualBox: object deletion starts
+00:00:05.166308 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/taz/VirtualBox VMs/cape_ubuntu20.04-x64/cape_ubuntu20.04-x64.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:00:05.166529 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/taz/VirtualBox VMs/win10-x64_analysis/Snapshots/{80786cb6-2b32-4745-97c2-6a643789d9df}.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:00:05.166549 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/taz/VirtualBox VMs/win10-x64_analysis/win10-x64_analysis.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:00:05.167102 main     HostDnsMonitor: shutting down ...
+00:00:05.171465 main     HostDnsMonitor: shut down
+00:00:05.653388 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:10.171725 main     {00007f9688016670} HostPowerServiceLinux::~HostPowerServiceLinux: RTThreadWait() for 5000 ms failed with VERR_TIMEOUT
+00:00:10.175773 main     VirtualBox: object deleted

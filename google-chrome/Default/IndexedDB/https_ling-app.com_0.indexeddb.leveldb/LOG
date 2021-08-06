@@ -1,0 +1,5 @@
+2021/04/13-09:24:46.718 3461 Reusing MANIFEST /home/taz/.config/google-chrome/Default/IndexedDB/https_ling-app.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/13-09:26:05.260 2b75 Level-0 table #5: started
+2021/04/13-09:26:05.262 2b75 Level-0 table #5: 1871 bytes OK
+2021/04/13-09:26:05.263 2b75 Delete type=0 #3
+2021/04/13-09:26:05.263 2b75 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

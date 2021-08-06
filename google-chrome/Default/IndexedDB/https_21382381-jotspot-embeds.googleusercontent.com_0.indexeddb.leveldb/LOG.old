@@ -1,0 +1,5 @@
+2021/05/28-13:39:11.854 760 Reusing MANIFEST /home/taz/.config/google-chrome/Default/IndexedDB/https_21382381-jotspot-embeds.googleusercontent.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/28-13:48:42.908 106a Level-0 table #5: started
+2021/05/28-13:48:42.910 106a Level-0 table #5: 26948 bytes OK
+2021/05/28-13:48:42.912 106a Delete type=0 #3
+2021/05/28-13:48:42.912 106a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

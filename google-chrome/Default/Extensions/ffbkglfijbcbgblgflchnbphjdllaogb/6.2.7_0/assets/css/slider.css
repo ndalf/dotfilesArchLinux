@@ -1,0 +1,61 @@
+.slider {
+    cursor: pointer;
+
+    margin-bottom: 0px;
+    margin-top: 0px !important;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.sliderBackground {
+    height: 40px;
+    width: 100px;
+
+    border: 1px solid #efefef;
+    -moz-border-radius: 15px;
+    -webkit-border-radius: 15px;
+    border-radius: 15px;
+}
+
+.button {
+    width: 60px;
+    height: 60px;
+
+    -moz-border-radius: 30px;
+    -webkit-border-radius: 30px;
+    border-radius: 30px;
+
+    background-color: #ffcc00;
+
+    display: block;
+    position: relative;
+
+    margin-top: -50px;
+    margin-left: -10px;
+
+    color: #cb311a;
+}
+
+.animation .button {
+    -moz-transition: all .25s ease-out;
+    -webkit-transition: all .25s ease-out;
+    -o-transition: all .25s ease-out;
+    transition: all .25s ease-out;
+}
+
+.active .button {
+    margin-left: 50px;
+    color: #6c9f32;
+}
+
+.button:before {
+    font-family: 'Glyphicons Halflings';
+    content: "\e017";
+    font-size: 40px;
+    position: relative;
+    top: 2px;
+}

@@ -1,0 +1,45 @@
+2021/06/10-08:36:43.146 87a Reusing MANIFEST /home/taz/.config/Notion/Partitions/notion/Local Storage/leveldb/MANIFEST-000001
+2021/06/10-08:36:43.146 87a Recovering log #28
+2021/06/10-08:36:43.146 87a Reusing old log /home/taz/.config/Notion/Partitions/notion/Local Storage/leveldb/000028.log 
+2021/06/10-08:40:04.587 bdc Level-0 table #32: started
+2021/06/10-08:40:04.589 bdc Level-0 table #32: 19680 bytes OK
+2021/06/10-08:40:04.590 bdc Delete type=0 #28
+2021/06/10-09:01:39.640 bdc Level-0 table #34: started
+2021/06/10-09:01:39.643 bdc Level-0 table #34: 18384 bytes OK
+2021/06/10-09:01:39.644 bdc Delete type=0 #31
+2021/06/10-09:06:49.620 132c Level-0 table #36: started
+2021/06/10-09:06:49.625 132c Level-0 table #36: 13721 bytes OK
+2021/06/10-09:06:49.627 132c Delete type=0 #33
+2021/06/10-09:06:49.627 87b Compacting 4@0 + 1@1 files
+2021/06/10-09:06:49.632 87b Generated table #37@0: 89 keys, 110658 bytes
+2021/06/10-09:06:49.632 87b Compacted 4@0 + 1@1 files => 110658 bytes
+2021/06/10-09:06:49.634 87b compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/06/10-09:06:49.634 87b Delete type=2 #29
+2021/06/10-09:06:49.634 87b Delete type=2 #27
+2021/06/10-09:06:49.634 87b Delete type=2 #32
+2021/06/10-09:06:49.634 87b Delete type=2 #36
+2021/06/10-09:06:49.634 87b Delete type=2 #34
+2021/06/10-09:31:35.076 132c Level-0 table #39: started
+2021/06/10-09:31:35.078 132c Level-0 table #39: 14228 bytes OK
+2021/06/10-09:31:35.080 132c Delete type=0 #35
+2021/06/10-09:49:15.801 3850 Level-0 table #41: started
+2021/06/10-09:49:15.804 3850 Level-0 table #41: 17664 bytes OK
+2021/06/10-09:49:15.806 3850 Delete type=0 #38
+2021/06/10-09:51:35.105 315f Level-0 table #43: started
+2021/06/10-09:51:35.107 315f Level-0 table #43: 17188 bytes OK
+2021/06/10-09:51:35.109 315f Delete type=0 #40
+2021/06/10-10:06:49.620 315f Level-0 table #45: started
+2021/06/10-10:06:49.625 315f Level-0 table #45: 13701 bytes OK
+2021/06/10-10:06:49.627 315f Delete type=0 #42
+2021/06/10-10:06:49.627 3ca1 Compacting 4@0 + 1@1 files
+2021/06/10-10:06:49.630 3ca1 Generated table #46@0: 112 keys, 110868 bytes
+2021/06/10-10:06:49.630 3ca1 Compacted 4@0 + 1@1 files => 110868 bytes
+2021/06/10-10:06:49.632 3ca1 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/06/10-10:06:49.633 3ca1 Delete type=2 #41
+2021/06/10-10:06:49.633 3ca1 Delete type=2 #39
+2021/06/10-10:06:49.633 3ca1 Delete type=2 #43
+2021/06/10-10:06:49.633 3ca1 Delete type=2 #37
+2021/06/10-10:06:49.633 3ca1 Delete type=2 #45
+2021/06/10-10:31:35.076 3ca1 Level-0 table #48: started
+2021/06/10-10:31:35.079 3ca1 Level-0 table #48: 14218 bytes OK
+2021/06/10-10:31:35.080 3ca1 Delete type=0 #44

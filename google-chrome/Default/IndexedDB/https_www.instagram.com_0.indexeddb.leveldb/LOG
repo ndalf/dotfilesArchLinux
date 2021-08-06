@@ -1,0 +1,9 @@
+2021/07/23-10:11:37.539 19d4 Reusing MANIFEST /home/taz/.config/google-chrome/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/23-10:11:37.539 19d4 Recovering log #16
+2021/07/23-10:11:37.542 19d4 Reusing old log /home/taz/.config/google-chrome/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/000016.log 
+2021/07/23-10:12:42.582 1aa1 Compacting 1@0 + 1@1 files
+2021/07/23-10:12:42.586 1aa1 Generated table #19@0: 805 keys, 88980 bytes
+2021/07/23-10:12:42.586 1aa1 Compacted 1@0 + 1@1 files => 88980 bytes
+2021/07/23-10:12:42.587 1aa1 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/07/23-10:12:42.587 1aa1 Delete type=2 #15
+2021/07/23-10:12:42.587 1aa1 Delete type=2 #17

@@ -1,0 +1,5 @@
+2021/05/02-18:23:09.993 703 Reusing MANIFEST /home/taz/.config/google-chrome/Default/IndexedDB/https_onefootball.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/02-19:16:42.316 2ca4 Level-0 table #5: started
+2021/05/02-19:16:42.317 2ca4 Level-0 table #5: 810 bytes OK
+2021/05/02-19:16:42.318 2ca4 Delete type=0 #3
+2021/05/02-19:16:42.318 2ca4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

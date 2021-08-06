@@ -1,0 +1,5 @@
+2021/04/20-18:00:11.924 c007 Reusing MANIFEST /home/taz/.config/google-chrome/Default/IndexedDB/https_www.750g.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/20-18:00:52.999 c006 Level-0 table #5: started
+2021/04/20-18:00:53.001 c006 Level-0 table #5: 2094 bytes OK
+2021/04/20-18:00:53.002 c006 Delete type=0 #3
+2021/04/20-18:00:53.002 c006 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

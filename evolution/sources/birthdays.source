@@ -27,6 +27,7 @@ DisplayName[hu]=Születésnapok és évfordulók
 DisplayName[id]=Ulang Tahun & Perayaan Tahunan
 DisplayName[it]=Compleanni e anniversari
 DisplayName[ja]=誕生日や記念日
+DisplayName[kk]=Туған күндер мен мерейтойлар
 DisplayName[kn]=ಹುಟ್ಟುಹಬ್ಬಗಳು ಹಾಗು ವಾರ್ಷಿಕೋತ್ಸವಗಳು
 DisplayName[ko]=생일 및 기념일
 DisplayName[lt]=Gimtadieniai ir jubiliejai
@@ -67,6 +68,8 @@ Color=#fed4d3
 Enabled=true
 Writable=false
 Selected=true
+
+Order=0
 
 [Offline]
 StaySynchronized=true

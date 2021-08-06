@@ -1,0 +1,5 @@
+2021/03/19-17:11:43.904 1ff2 Reusing MANIFEST /home/taz/.config/google-chrome/Default/IndexedDB/https_www.bluewin.ch_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/19-17:23:42.388 2407 Level-0 table #5: started
+2021/03/19-17:23:42.392 2407 Level-0 table #5: 1017 bytes OK
+2021/03/19-17:23:42.395 2407 Delete type=0 #3
+2021/03/19-17:23:42.395 2407 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

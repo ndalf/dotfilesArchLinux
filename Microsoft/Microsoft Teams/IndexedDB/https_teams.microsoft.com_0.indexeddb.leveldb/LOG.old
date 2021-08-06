@@ -1,0 +1,14 @@
+2021/05/28-13:48:56.650 11ad Reusing MANIFEST /home/taz/.config/Microsoft/Microsoft Teams/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/28-13:48:56.650 11ad Recovering log #30
+2021/05/28-13:48:56.660 11ad Reusing old log /home/taz/.config/Microsoft/Microsoft Teams/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/000030.log 
+2021/05/28-14:11:58.586 24b7 Level-0 table #36: started
+2021/05/28-14:11:58.605 24b7 Level-0 table #36: 1819751 bytes OK
+2021/05/28-14:11:58.607 24b7 Delete type=0 #30
+2021/05/28-14:56:57.601 24b7 Compacting 1@1 + 2@2 files
+2021/05/28-14:56:57.667 24b7 Generated table #37@1: 7456 keys, 2159502 bytes
+2021/05/28-14:56:57.689 24b7 Generated table #38@1: 1514 keys, 986202 bytes
+2021/05/28-14:56:57.689 24b7 Compacted 1@1 + 2@2 files => 3145704 bytes
+2021/05/28-14:56:57.691 24b7 compacted to: files[ 0 0 2 0 0 0 0 ]
+2021/05/28-14:56:57.691 24b7 Delete type=2 #32
+2021/05/28-14:56:57.691 24b7 Delete type=2 #33
+2021/05/28-14:56:57.691 24b7 Delete type=2 #36

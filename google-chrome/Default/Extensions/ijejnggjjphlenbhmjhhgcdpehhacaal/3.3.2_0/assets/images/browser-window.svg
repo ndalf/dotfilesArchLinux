@@ -1,0 +1,24 @@
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>browser-window</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0,13.2845154 L0,3 C0,1.34314575 1.34314575,0 3,0 L3,0 L21,0 C22.6568542,0 24,1.34314575 24,3 L24,21 C24,22.6568542 22.6568542,24 21,24 L3,24 C1.34314575,24 0,22.6568542 0,21 L0,18.26901" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="scrnli-popup-UI" transform="translate(-65.000000, -220.000000)">
+            <g id="browser-window" transform="translate(66.000000, 221.000000)">
+                <g id="Rectangle">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" stroke="#0096FE" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" xlink:href="#path-1"></use>
+                    <path d="M3,0 L21,0 C22.6568542,-3.04359188e-16 24,1.34314575 24,3 L24,6 L0,6 L0,3 C-2.02906125e-16,1.34314575 1.34314575,3.04359188e-16 3,0 Z" stroke="#0096FE" fill="#B2DFFE" mask="url(#mask-2)"></path>
+                </g>
+                <circle id="Oval-Copy-5" fill="#0096FE" cx="4" cy="3" r="1"></circle>
+                <circle id="Oval-Copy-6" fill="#0096FE" cx="6.85714286" cy="3" r="1"></circle>
+                <circle id="Oval-Copy-7" fill="#0096FE" cx="10" cy="3" r="1"></circle>
+                <path d="M0,6 L24,6" id="Path" stroke="#0096FE"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,29 @@
+[Data Source]
+DisplayName=nathandalfollo@gmail.com
+Enabled=true
+Parent=b0d54f14795bfe9501de489c92353f7d12eba435
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=5dead36b1e28b539d0fbfe0c08ae8b23b7e69813
+RepliesToOriginFolder=false
+UseSentFolder=true
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://local/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=
+StartBottom=inconsistent
+TopSignature=inconsistent
+Language=
+
+[Mail Identity]
+Address=nathandalfollo@gmail.com
+Aliases=
+Name=
+Organization=
+ReplyTo=
+SignatureUid=none

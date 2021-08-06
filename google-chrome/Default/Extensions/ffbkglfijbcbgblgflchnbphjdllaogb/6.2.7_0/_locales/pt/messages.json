@@ -1,0 +1,17 @@
+{
+   "countryLang": {
+      "message": "pt-br"
+   },
+   "disabled": {
+      "message": "O CyberGhost está desabilitado"
+   },
+   "disabled_desc": {
+      "message": "Você está utilizando sua\u003Cbr/>conexão de internet normal\u003Cbr/>e seu IP está exposto."
+   },
+   "enabled": {
+      "message": "O CyberGhost está habilitado"
+   },
+   "enabled_desc": {
+      "message": "Você está conectado a um\u003Cbr/>servidor CyberGhost\u003Cbr/>e seu IP está oculto."
+   }
+}

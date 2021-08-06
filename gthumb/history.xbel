@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/taz/projet-epicuria/projetEpicuria_siteWeb/imgs" added="2021-05-21T13:53:55.241805Z" modified="2021-05-21T13:53:55.241814Z" visited="2021-05-21T13:53:55.241806Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2021-05-21T13:53:55.241810Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/taz/Downloads" added="2021-05-21T13:53:55.241816Z" modified="2021-05-21T13:53:55.241821Z" visited="2021-05-21T13:53:55.241817Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2021-05-21T13:53:55.241818Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/taz/ctf/shc-2021/hiddenDataPDF" added="2021-05-21T13:53:55.241824Z" modified="2021-05-21T13:53:55.241827Z" visited="2021-05-21T13:53:55.241824Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2021-05-21T13:53:55.241826Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/taz/ctf/shc-2021" added="2021-05-21T13:53:55.241829Z" modified="2021-05-21T13:53:55.241833Z" visited="2021-05-21T13:53:55.241830Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2021-05-21T13:53:55.241831Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/taz/ctf" added="2021-05-21T13:53:55.241835Z" modified="2021-05-21T13:53:55.241841Z" visited="2021-05-21T13:53:55.241835Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2021-05-21T13:53:55.241838Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/taz" added="2021-05-21T13:53:55.241842Z" modified="2021-05-21T13:53:55.241847Z" visited="2021-05-21T13:53:55.241843Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2021-05-21T13:53:55.241844Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/taz/Pictures/wallappers" added="2021-05-21T13:53:55.241849Z" modified="2021-05-21T13:53:55.241854Z" visited="2021-05-21T13:53:55.241850Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2021-05-21T13:53:55.241852Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/taz/Pictures" added="2021-05-21T13:53:55.241860Z" modified="2021-05-21T13:53:55.241866Z" visited="2021-05-21T13:53:55.241860Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2021-05-21T13:53:55.241862Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/taz/Downloads/01-Epicuria-logo" added="2021-05-21T13:53:55.241868Z" modified="2021-05-21T13:53:55.241873Z" visited="2021-05-21T13:53:55.241869Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2021-05-21T13:53:55.241870Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/taz/Videos" added="2021-05-21T13:53:55.241875Z" modified="2021-05-21T13:53:55.241879Z" visited="2021-05-21T13:53:55.241875Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2021-05-21T13:53:55.241877Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/taz/projetEpicuria_siteWeb/imgs" added="2021-05-21T13:53:55.241882Z" modified="2021-05-21T13:53:55.241886Z" visited="2021-05-21T13:53:55.241882Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2021-05-21T13:53:55.241884Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/taz/.config/spicetify/Themes/Dribbblish" added="2021-05-21T13:53:55.241888Z" modified="2021-05-21T13:53:55.241893Z" visited="2021-05-21T13:53:55.241889Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2021-05-21T13:53:55.241890Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/taz/Documents" added="2021-05-21T13:53:55.241895Z" modified="2021-05-21T13:53:55.241899Z" visited="2021-05-21T13:53:55.241896Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2021-05-21T13:53:55.241897Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/taz/Desktop" added="2021-05-21T13:53:55.241901Z" modified="2021-05-21T13:53:55.241906Z" visited="2021-05-21T13:53:55.241902Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2021-05-21T13:53:55.241904Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/taz/www.foireduvalais.ch" added="2021-05-21T13:53:55.241909Z" modified="2021-05-21T13:53:55.241914Z" visited="2021-05-21T13:53:55.241910Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2021-05-21T13:53:55.241911Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

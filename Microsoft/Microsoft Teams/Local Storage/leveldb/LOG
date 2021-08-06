@@ -1,0 +1,21 @@
+2021/06/01-19:57:58.975 bf2 Reusing MANIFEST /home/taz/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/MANIFEST-000001
+2021/06/01-19:57:58.976 bf2 Recovering log #115
+2021/06/01-19:57:58.976 bf2 Reusing old log /home/taz/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/000115.log 
+2021/06/01-19:58:10.345 d13 Level-0 table #119: started
+2021/06/01-19:58:10.355 d13 Level-0 table #119: 182171 bytes OK
+2021/06/01-19:58:10.357 d13 Delete type=0 #115
+2021/06/01-20:28:33.945 d13 Level-0 table #121: started
+2021/06/01-20:28:33.947 d13 Level-0 table #121: 44185 bytes OK
+2021/06/01-20:28:33.949 d13 Delete type=0 #118
+2021/06/01-20:58:10.163 d13 Level-0 table #123: started
+2021/06/01-20:58:10.169 d13 Level-0 table #123: 46503 bytes OK
+2021/06/01-20:58:10.171 d13 Delete type=0 #120
+2021/06/01-20:58:10.171 d13 Compacting 4@0 + 1@1 files
+2021/06/01-20:58:10.189 d13 Generated table #124@0: 254 keys, 519632 bytes
+2021/06/01-20:58:10.189 d13 Compacted 4@0 + 1@1 files => 519632 bytes
+2021/06/01-20:58:10.191 d13 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/06/01-20:58:10.191 d13 Delete type=2 #116
+2021/06/01-20:58:10.191 d13 Delete type=2 #119
+2021/06/01-20:58:10.191 d13 Delete type=2 #114
+2021/06/01-20:58:10.191 d13 Delete type=2 #121
+2021/06/01-20:58:10.191 d13 Delete type=2 #123

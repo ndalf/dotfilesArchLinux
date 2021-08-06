@@ -1,0 +1,15 @@
+2021/05/29-14:43:09.721 3094 Reusing MANIFEST /home/taz/.config/google-chrome/Default/IndexedDB/https_talk.jekyllrb.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/29-14:43:09.722 3094 Recovering log #4
+2021/05/29-14:43:09.722 3094 Reusing old log /home/taz/.config/google-chrome/Default/IndexedDB/https_talk.jekyllrb.com_0.indexeddb.leveldb/000004.log 
+2021/05/29-14:44:57.160 3095 Level-0 table #8: started
+2021/05/29-14:44:57.161 3095 Level-0 table #8: 2617 bytes OK
+2021/05/29-14:44:57.163 3095 Delete type=0 #4
+2021/05/29-14:44:57.163 3095 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/05/29-14:44:57.163 3095 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01 \x03\x00`6}\x82\x9bwB\x00\x01A\x00d\x00i\x00s\x00c\x00o\x00u\x00r\x00s\x00e\x00-\x001\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00t\x00a\x00l\x00k\x00.\x00j\x00e\x00k\x00y\x00l\x00l\x00r\x00b\x00.\x00c\x00o\x00m\x00/\x00l\x00a\x00t\x00e\x00s\x00t\x00.\x00j\x00s\x00o\x00n\x00?\x00a\x00s\x00c\x00e\x00n\x00d\x00i\x00n\x00g\x00=\x00f\x00a\x00l\x00s\x00e' @ 167 : 1
+2021/05/29-14:44:57.163 3095 Compacting 1@1 + 1@2 files
+2021/05/29-14:44:57.165 3095 Generated table #9@1: 39 keys, 1612 bytes
+2021/05/29-14:44:57.165 3095 Compacted 1@1 + 1@2 files => 1612 bytes
+2021/05/29-14:44:57.167 3095 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/05/29-14:44:57.167 3095 Delete type=2 #5
+2021/05/29-14:44:57.167 3095 Delete type=2 #8
+2021/05/29-14:44:57.168 3095 Manual compaction at level-1 from '\x00\x01\x01 \x03\x00`6}\x82\x9bwB\x00\x01A\x00d\x00i\x00s\x00c\x00o\x00u\x00r\x00s\x00e\x00-\x001\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00t\x00a\x00l\x00k\x00.\x00j\x00e\x00k\x00y\x00l\x00l\x00r\x00b\x00.\x00c\x00o\x00m\x00/\x00l\x00a\x00t\x00e\x00s\x00t\x00.\x00j\x00s\x00o\x00n\x00?\x00a\x00s\x00c\x00e\x00n\x00d\x00i\x00n\x00g\x00=\x00f\x00a\x00l\x00s\x00e' @ 167 : 1 .. (end); will stop at (end)

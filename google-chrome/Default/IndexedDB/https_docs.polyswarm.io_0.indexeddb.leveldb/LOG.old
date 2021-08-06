@@ -1,0 +1,5 @@
+2021/04/07-14:14:17.008 109b5 Reusing MANIFEST /home/taz/.config/google-chrome/Default/IndexedDB/https_docs.polyswarm.io_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/07-14:14:49.151 10bf2 Level-0 table #5: started
+2021/04/07-14:14:49.152 10bf2 Level-0 table #5: 1194 bytes OK
+2021/04/07-14:14:49.153 10bf2 Delete type=0 #3
+2021/04/07-14:14:49.153 10bf2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

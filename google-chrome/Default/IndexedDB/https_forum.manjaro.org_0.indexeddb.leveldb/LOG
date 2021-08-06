@@ -1,0 +1,5 @@
+2021/04/09-13:26:31.484 912 Reusing MANIFEST /home/taz/.config/google-chrome/Default/IndexedDB/https_forum.manjaro.org_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/09-13:27:04.803 94a Level-0 table #5: started
+2021/04/09-13:27:04.807 94a Level-0 table #5: 64567 bytes OK
+2021/04/09-13:27:04.808 94a Delete type=0 #3
+2021/04/09-13:27:04.809 94a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

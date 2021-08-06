@@ -1,0 +1,1284 @@
+[2021-05-20 09:47:11.936] [debug] **[overlay]  { type: '@@redux/INIT' }
+[2021-05-20 09:47:11.941] [debug] **[overlay]  { type: '@@redux/PROBE_UNKNOWN_ACTION_6.l.5.h.y.f' }
+[2021-05-20 09:47:11.990] [debug] **[overlay]  { type: '@@redux/INIT' }
+[2021-05-20 09:47:11.996] [debug] **[overlay]  { type: 'SET_MY_LINK_UPDATING', value: true }
+[2021-05-20 09:47:12.071] [debug] **[overlay]  { type: 'CONTENT_TYPE', value: 'dashboard' }
+[2021-05-20 09:47:12.077] [debug] **[overlay]  { type: 'SET_HISTORY_REFRESH_INDICATOR', value: true }
+[2021-05-20 09:47:12.079] [debug] **[overlay]  { type: 'SELECT_MY_LINK_DEVICE_ID', value: '' }
+[2021-05-20 09:47:12.447] [debug] **[overlay]  { type: 'SET_ACCOUNT_PLAN_TYPE', value: 0 }
+[2021-05-20 09:47:12.451] [debug] **[overlay]  { type: 'SET_TRANSFER_ARRAY', value: [] }
+[2021-05-20 09:47:12.453] [debug] **[overlay]  { type: 'SET_HISTORY_REFRESH_INDICATOR', value: false }
+[2021-05-20 09:47:12.455] [debug] **[overlay]  { type: 'CHANGE_TRANSFER_INFOS', value: [] }
+[2021-05-20 09:47:12.459] [debug] **[overlay]  { type: 'MY_LINK_INFO_LIST', value: [] }
+[2021-05-20 09:47:12.461] [debug] **[overlay]  { type: 'SET_MY_DEVICE_IDS', value: [ '' ] }
+[2021-05-20 09:47:12.465] [debug] **[overlay]  { type: 'SET_MY_LINK_REFRESH_INDICATOR', value: false }
+[2021-05-20 09:47:12.467] [debug] **[overlay]  { type: 'SET_MY_LINK_UPDATING', value: false }
+[2021-05-20 09:47:12.471] [debug] **[overlay]  {
+  type: 'MY_KEY_INFO_LIST',
+  value: [
+    {
+      key: 'help',
+      deviceId: '0000000000001',
+      thumbnailUrl: '../../assets/thumb/icn_help.svg'
+    }
+  ]
+}
+[2021-05-20 09:47:12.489] [debug] **[overlay]  { type: 'SET_TRANSFER_ARRAY', value: [] }
+[2021-05-20 09:47:12.494] [debug] **[overlay]  { type: 'SET_HISTORY_REFRESH_INDICATOR', value: false }
+[2021-05-20 09:47:12.496] [debug] **[overlay]  { type: 'CHANGE_TRANSFER_INFOS', value: [] }
+[2021-05-20 09:47:12.514] [debug] **[overlay]  { type: 'MY_LINK_INFO_LIST', value: [] }
+[2021-05-20 09:47:12.519] [debug] **[overlay]  { type: 'SET_MY_DEVICE_IDS', value: [ '' ] }
+[2021-05-20 09:47:12.523] [debug] **[overlay]  { type: 'SET_MY_LINK_REFRESH_INDICATOR', value: false }
+[2021-05-20 09:47:12.525] [debug] **[overlay]  { type: 'SET_MY_LINK_UPDATING', value: false }
+[2021-05-20 09:47:12.528] [debug] **[overlay]  {
+  type: 'MY_KEY_INFO_LIST',
+  value: [
+    {
+      key: 'help',
+      deviceId: '0000000000001',
+      thumbnailUrl: '../../assets/thumb/icn_help.svg'
+    }
+  ]
+}
+[2021-05-20 09:47:12.540] [debug] **[overlay]  { type: 'TOP_PROFILE_NAME', value: 'nemo' }
+[2021-05-20 09:47:12.544] [debug] **[overlay]  { type: 'TOP_PROFILE_SERVER_TYPE', value: '0' }
+[2021-05-20 09:47:12.668] [debug] **[overlay]  { type: 'SHOW_IN_APP_DIRECT_AD', value: { activation: false } }
+[2021-05-20 09:47:12.672] [debug] **[overlay]  {
+  type: 'SHOW_IN_APP_DIRECT_AD',
+  value: { activation: true, interval: 60 }
+}
+[2021-05-20 09:47:19.775] [debug] **[overlay]  {
+  type: 'SET_DEVICE_INFOS',
+  value: {
+    '0000000000001': {
+      deviceId: '0000000000001',
+      profileName: 'Send Anywhere',
+      deviceName: 'estmob',
+      safeName: 'Send Anywhere',
+      osType: 'web',
+      hasPushId: false,
+      profileImageUrl: ''
+    }
+  }
+}
+[2021-05-20 09:47:20.080] [debug] **[overlay]  {
+  type: 'SET_DEVICE_INFOS',
+  value: {
+    '0000000000001': {
+      deviceId: '0000000000001',
+      profileName: 'Send Anywhere',
+      deviceName: 'estmob',
+      safeName: 'Send Anywhere',
+      osType: 'web',
+      hasPushId: false,
+      profileImageUrl: ''
+    }
+  }
+}
+[2021-05-20 09:47:20.440] [debug] **[overlay]  { type: 'TOP_PROFILE_DEVICE_ID', value: '5466870471452' }
+[2021-05-20 09:47:20.441] [debug] **[overlay]  { type: 'TOP_PROFILE_NAME', value: 'nemo' }
+[2021-05-20 09:47:20.443] [debug] **[overlay]  { type: 'TOP_PROFILE_SERVER_TYPE', value: '0' }
+[2021-05-20 09:48:17.221] [debug] **[overlay]  { type: 'HIDE_CONTEXT_MENU' }
+[2021-05-20 09:49:06.646] [debug] **[overlay]  { type: 'HIDE_CONTEXT_MENU' }
+[2021-05-20 09:51:21.492] [debug] **[overlay]  { type: 'HIDE_CONTEXT_MENU' }
+[2021-05-20 09:51:23.725] [debug] **[overlay]  { type: 'HIDE_CONTEXT_MENU' }
+[2021-05-20 09:51:23.817] [debug] **[overlay]  { type: 'HIDE_CONTEXT_MENU' }
+[2021-05-20 10:31:08.549] [debug] **[overlay]  { type: '@@redux/INIT' }
+[2021-05-20 10:31:08.552] [debug] **[overlay]  { type: '@@redux/PROBE_UNKNOWN_ACTION_t.8.6.n.4' }
+[2021-05-20 10:31:08.577] [debug] **[overlay]  { type: '@@redux/INIT' }
+[2021-05-20 10:31:08.580] [debug] **[overlay]  { type: 'SET_MY_LINK_UPDATING', value: true }
+[2021-05-20 10:31:08.616] [debug] **[overlay]  { type: 'CONTENT_TYPE', value: 'dashboard' }
+[2021-05-20 10:31:08.616] [debug] **[overlay]  { type: 'SET_HISTORY_REFRESH_INDICATOR', value: true }
+[2021-05-20 10:31:08.618] [debug] **[overlay]  { type: 'SELECT_MY_LINK_DEVICE_ID', value: '' }
+[2021-05-20 10:31:08.783] [debug] **[overlay]  { type: 'SET_ACCOUNT_PLAN_TYPE', value: 0 }
+[2021-05-20 10:31:08.784] [debug] **[overlay]  { type: 'SET_TRANSFER_ARRAY', value: [] }
+[2021-05-20 10:31:08.786] [debug] **[overlay]  { type: 'SET_HISTORY_REFRESH_INDICATOR', value: false }
+[2021-05-20 10:31:08.787] [debug] **[overlay]  { type: 'CHANGE_TRANSFER_INFOS', value: [] }
+[2021-05-20 10:31:08.787] [debug] **[overlay]  { type: 'MY_LINK_INFO_LIST', value: [] }
+[2021-05-20 10:31:08.788] [debug] **[overlay]  { type: 'SET_MY_DEVICE_IDS', value: [ '' ] }
+[2021-05-20 10:31:08.789] [debug] **[overlay]  { type: 'SET_MY_LINK_REFRESH_INDICATOR', value: false }
+[2021-05-20 10:31:08.790] [debug] **[overlay]  { type: 'SET_MY_LINK_UPDATING', value: false }
+[2021-05-20 10:31:08.791] [debug] **[overlay]  {
+  type: 'MY_KEY_INFO_LIST',
+  value: [
+    {
+      key: 'help',
+      deviceId: '0000000000001',
+      thumbnailUrl: '../../assets/thumb/icn_help.svg'
+    }
+  ]
+}
+[2021-05-20 10:31:08.795] [debug] **[overlay]  { type: 'SET_TRANSFER_ARRAY', value: [] }
+[2021-05-20 10:31:08.795] [debug] **[overlay]  { type: 'SET_HISTORY_REFRESH_INDICATOR', value: false }
+[2021-05-20 10:31:08.796] [debug] **[overlay]  { type: 'CHANGE_TRANSFER_INFOS', value: [] }
+[2021-05-20 10:31:08.801] [debug] **[overlay]  { type: 'TOP_PROFILE_DEVICE_ID', value: '5466870471452' }
+[2021-05-20 10:31:08.801] [debug] **[overlay]  { type: 'TOP_PROFILE_NAME', value: 'nemo' }
+[2021-05-20 10:31:08.802] [debug] **[overlay]  { type: 'TOP_PROFILE_SERVER_TYPE', value: '0' }
+[2021-05-20 10:31:08.803] [debug] **[overlay]  { type: 'MY_LINK_INFO_LIST', value: [] }
+[2021-05-20 10:31:08.803] [debug] **[overlay]  { type: 'SET_MY_DEVICE_IDS', value: [ '' ] }
+[2021-05-20 10:31:08.804] [debug] **[overlay]  { type: 'SET_MY_LINK_REFRESH_INDICATOR', value: false }
+[2021-05-20 10:31:08.805] [debug] **[overlay]  { type: 'SET_MY_LINK_UPDATING', value: false }
+[2021-05-20 10:31:08.805] [debug] **[overlay]  {
+  type: 'MY_KEY_INFO_LIST',
+  value: [
+    {
+      key: 'help',
+      deviceId: '0000000000001',
+      thumbnailUrl: '../../assets/thumb/icn_help.svg'
+    }
+  ]
+}
+[2021-05-20 10:31:09.363] [debug] **[overlay]  { type: 'SHOW_IN_APP_DIRECT_AD', value: { activation: false } }
+[2021-05-20 10:31:09.364] [debug] **[overlay]  {
+  type: 'SHOW_IN_APP_DIRECT_AD',
+  value: { activation: true, interval: 60 }
+}
+[2021-05-20 10:31:10.333] [debug] **[overlay]  { type: 'HIDE_CONTEXT_MENU' }
+[2021-05-20 10:31:11.490] [debug] **[overlay]  { type: 'HIDE_CONTEXT_MENU' }
+[2021-05-20 10:31:11.510] [debug] **[overlay]  { type: 'HIDE_CONTEXT_MENU' }
+[2021-05-20 10:31:17.236] [debug] **[overlay]  {
+  type: 'SET_DEVICE_INFOS',
+  value: {
+    '0000000000001': {
+      deviceId: '0000000000001',
+      profileName: 'Send Anywhere',
+      deviceName: 'estmob',
+      safeName: 'Send Anywhere',
+      osType: 'web',
+      hasPushId: false,
+      profileImageUrl: ''
+    }
+  }
+}
+[2021-05-20 10:31:17.539] [debug] **[overlay]  {
+  type: 'SET_DEVICE_INFOS',
+  value: {
+    '0000000000001': {
+      deviceId: '0000000000001',
+      profileName: 'Send Anywhere',
+      deviceName: 'estmob',
+      safeName: 'Send Anywhere',
+      osType: 'web',
+      hasPushId: false,
+      profileImageUrl: ''
+    }
+  }
+}
+[2021-05-20 10:31:17.867] [debug] **[overlay]  { type: 'TOP_PROFILE_DEVICE_ID', value: '5466870471452' }
+[2021-05-20 10:31:17.867] [debug] **[overlay]  { type: 'TOP_PROFILE_NAME', value: 'nemo' }
+[2021-05-20 10:31:17.868] [debug] **[overlay]  { type: 'TOP_PROFILE_SERVER_TYPE', value: '0' }
+[2021-05-20 10:31:19.315] [info] Open dialog result:  {
+  canceled: false,
+  filePaths: [ '/home/taz/projet-epicuria/projetEpicuria_siteWeb_v2021-05-20.7z' ]
+}
+[2021-05-20 10:31:19.321] [debug] **[overlay]  { type: 'SHOW_OVERLAY_PROGRESS', value: true }
+[2021-05-20 10:31:20.590] [debug] **[overlay]  { type: 'SHOW_OVERLAY_PROGRESS', value: false }
+[2021-05-20 10:31:20.612] [debug] **[overlay]  { type: 'SET_WAITING_KEY', value: '894145' }
+[2021-05-20 10:31:20.615] [debug] **[overlay]  { type: 'SET_WAITING_EXPIRE_TIME', value: 1621500080.589 }
+[2021-05-20 10:31:20.619] [debug] **[overlay]  { type: 'SET_WAITING_VIEW_RANGE', value: 40 }
+[2021-05-20 10:31:20.621] [debug] **[overlay]  { type: 'WAITING_STATE', value: true }
+[2021-05-20 10:31:20.621] [debug] remain 599.9679999351501
+[2021-05-20 10:31:20.622] [debug] **[overlay]  { type: 'SET_WAITING_TOTAL_SIZE', count: 1, size: 87597392 }
+[2021-05-20 10:31:20.627] [debug] **[overlay]  { type: 'SET_WAITING_REFRESH_INDICATOR', value: true }
+[2021-05-20 10:31:21.462] [debug] **[overlay]  { type: 'SET_WAITING_DEVICE_INFOS', my: [], recent: [], nearby: [] }
+[2021-05-20 10:31:21.468] [debug] **[overlay]  { type: 'SET_WAITING_REFRESH_INDICATOR', value: false }
+[2021-05-20 10:31:23.031] [debug] **[overlay]  {
+  type: 'SHOW_OVERLAY_CANCEL_DIALOG',
+  show: true,
+  message: 'SIgn-In Required to create a link.',
+  cancelText: 'Cancel',
+  okCallback: '[function] ()=>{u.ipcRenderer.send("show_signin_ui",{key:t}),window.ga.event("transfer","waiting","transfer_waiting_link_login_confirm")}',
+  cancelCallback: '[function] ()=>{window.ga.event("transfer","waiting","transfer_waiting_link_login_cancel")}'
+}
+[2021-05-20 10:31:23.034] [debug] **[overlay]  { type: 'HIDE_CONTEXT_MENU' }
+[2021-05-20 10:31:23.039] [debug] **[overlay]  { type: 'HIDE_CONTEXT_MENU' }
+[2021-05-20 10:31:24.797] [debug] **[overlay]  { type: 'SHOW_OVERLAY_DIALOG', show: false, hasAccept: true }
+[2021-05-20 10:31:24.807] [debug] **[overlay]  { type: 'SET_ACCOUNT_PHASE', value: 'signin' }
+[2021-05-20 10:31:24.810] [debug] **[overlay]  { type: 'ACCOUNT_STATE', value: true }
+[2021-05-20 10:31:26.794] [debug] **[overlay]  { type: 'SET_ACCOUNT_PHASE', value: 'signup' }
+[2021-05-20 10:31:44.459] [debug] **[overlay]  { type: 'TOP_PROFILE_DEVICE_ID', value: '5466870471452' }
+[2021-05-20 10:31:44.463] [debug] **[overlay]  { type: 'TOP_PROFILE_EMAIL', value: 'n.dalf@protonmail.com' }
+[2021-05-20 10:31:44.467] [debug] **[overlay]  { type: 'TOP_PROFILE_SERVER_TYPE', value: '0' }
+[2021-05-20 10:31:44.487] [debug] **[overlay]  { type: 'SET_ACCOUNT_EMAIL_VERIFY', value: false }
+[2021-05-20 10:31:44.492] [debug] **[overlay]  { type: 'SET_ACCOUNT_PLAN_TYPE', value: 0 }
+[2021-05-20 10:31:44.494] [debug] **[overlay]  { type: 'TOP_PROFILE_DEVICE_ID', value: '5466870471452' }
+[2021-05-20 10:31:44.495] [debug] **[overlay]  { type: 'TOP_PROFILE_EMAIL', value: 'n.dalf@protonmail.com' }
+[2021-05-20 10:31:44.496] [debug] **[overlay]  { type: 'TOP_PROFILE_NAME', value: 'nemo' }
+[2021-05-20 10:31:44.497] [debug] **[overlay]  { type: 'TOP_PROFILE_SERVER_TYPE', value: '0' }
+[2021-05-20 10:31:44.498] [debug] **[overlay]  { type: 'SHOW_OVERLAY_PROGRESS', value: false }
+[2021-05-20 10:31:44.499] [debug] ===== res_signin handling
+[2021-05-20 10:31:44.500] [debug] **[overlay]  { type: 'SET_MY_LINK_UPDATING', value: true }
+[2021-05-20 10:31:44.501] [debug] **[overlay]  { type: 'TOP_PROFILE_EMAIL', value: 'n.dalf@protonmail.com' }
+[2021-05-20 10:31:44.502] [debug] **[overlay]  { type: 'SHOW_OVERLAY_EMAIL_SENT', value: true }
+[2021-05-20 10:31:44.505] [debug] **[overlay]  { type: 'HIDE_CONTEXT_MENU' }
+[2021-05-20 10:31:44.506] [debug] **[overlay]  {
+  type: 'SHOW_OVERLAY_EMAIL_CONFIRM',
+  value: true,
+  msg_type: 1,
+  key: '894145'
+}
+[2021-05-20 10:31:44.507] [debug] **[overlay]  { type: 'HIDE_CONTEXT_MENU' }
+[2021-05-20 10:31:44.508] [debug] **[overlay]  { type: 'ACCOUNT_STATE', value: false }
+[2021-05-20 10:31:44.512] [debug] **[overlay]  { type: 'SET_TOAST_TEXT', toastType: 1, value: 'Sign in successful' }
+[2021-05-20 10:31:44.513] [debug] **[overlay]  { type: 'TOP_PROFILE_STORAGE_RESET', value: true }
+[2021-05-20 10:31:46.122] [debug] **[overlay]  { type: 'SET_WAITING_DEVICE_INFOS', my: [], recent: [], nearby: [] }
+[2021-05-20 10:31:46.126] [debug] **[overlay]  { type: 'SET_WAITING_REFRESH_INDICATOR', value: false }
+[2021-05-20 10:31:46.256] [debug] **[overlay]  { type: 'SHOW_OVERLAY_EMAIL_SENT', value: false }
+[2021-05-20 10:31:46.322] [debug] **[overlay]  { type: 'MY_LINK_INFO_LIST', value: [] }
+[2021-05-20 10:31:46.326] [debug] **[overlay]  { type: 'SET_MY_DEVICE_IDS', value: [ '' ] }
+[2021-05-20 10:31:46.329] [debug] **[overlay]  { type: 'SET_MY_LINK_REFRESH_INDICATOR', value: false }
+[2021-05-20 10:31:46.332] [debug] **[overlay]  { type: 'SET_MY_LINK_UPDATING', value: false }
+[2021-05-20 10:31:46.335] [debug] **[overlay]  {
+  type: 'MY_KEY_INFO_LIST',
+  value: [
+    {
+      key: 'help',
+      deviceId: '0000000000001',
+      thumbnailUrl: '../../assets/thumb/icn_help.svg'
+    }
+  ]
+}
+[2021-05-20 10:31:47.013] [debug] **[overlay]  { type: 'SET_TOAST_SHOW', value: false }
+[2021-05-20 10:31:48.792] [debug] **[overlay]  { type: 'HIDE_CONTEXT_MENU' }
+[2021-05-20 10:31:53.988] [debug] **[overlay]  { type: 'SHOW_OVERLAY_PROGRESS', value: true }
+[2021-05-20 10:31:53.989] [debug] **[overlay]  { type: 'SHOW_OVERLAY_EMAIL_CONFIRM', value: false }
+[2021-05-20 10:31:55.270] [debug] mykey_infos_changed
+[2021-05-20 10:31:55.273] [debug] **[overlay]  { type: 'SET_TRANSFER_ARRAY', value: [] }
+[2021-05-20 10:31:55.283] [debug] **[overlay]  { type: 'SET_HISTORY_REFRESH_INDICATOR', value: false }
+[2021-05-20 10:31:55.291] [debug] **[overlay]  { type: 'CHANGE_TRANSFER_INFOS', value: [] }
+[2021-05-20 10:31:55.454] [debug] **[overlay]  { type: 'CONTENT_TYPE', value: 'activity' }
+[2021-05-20 10:31:55.460] [debug] **[overlay]  { type: 'HISTORY_NOTI_STATE', value: false }
+[2021-05-20 10:31:55.461] [debug] **[overlay]  { type: 'SET_HISTORY_REFRESH_INDICATOR', value: true }
+[2021-05-20 10:31:55.462] [debug] activity render
+[2021-05-20 10:31:55.469] [debug] activity render
+[2021-05-20 10:31:55.470] [debug] **[overlay]  { type: 'SHOW_RECEIVE_FILE_LIST', value: false }
+[2021-05-20 10:31:55.470] [debug] **[overlay]  { type: 'SHOW_OVERLAY_PROGRESS', value: false }
+[2021-05-20 10:31:55.471] [debug] **[overlay]  { type: 'RECEIVE_KEY', value: '' }
+[2021-05-20 10:31:55.472] [debug] **[overlay]  { type: 'SHOW_OVERLAY_PROGRESS', value: false }
+[2021-05-20 10:31:55.472] [debug] **[overlay]  { type: 'WAITING_STATE', value: false }
+[2021-05-20 10:31:55.473] [debug] **[overlay]  { type: 'WAITING_STATE', value: false }
+[2021-05-20 10:31:55.473] [debug] **[overlay]  { type: 'SHOW_WAITING_FILE_LIST', value: false }
+[2021-05-20 10:31:55.475] [debug] **[overlay]  {
+  type: 'SET_TRANSFER_SIZE',
+  transferred: { '1d910b9a-c4f7-4079-a321-90124afd7ace': 0 },
+  fileTransferred: {},
+  remainTime: { '1d910b9a-c4f7-4079-a321-90124afd7ace': 0 }
+}
+[2021-05-20 10:31:55.475] [debug] **[overlay]  { type: 'SET_TORRENT_CHECKING', checking: {} }
+[2021-05-20 10:31:55.476] [debug] **[overlay]  {
+  type: 'SET_TRANSFER_THUMBNAIL',
+  path: {},
+  value: '../../assets/thumb/icn_default.svg'
+}
+[2021-05-20 10:31:55.476] [debug] **[overlay]  {
+  type: 'ADD_TRANSFER_INFO',
+  value: '1d910b9a-c4f7-4079-a321-90124afd7ace'
+}
+[2021-05-20 10:31:55.477] [debug] **[overlay]  { type: 'HISTORY_NOTI_STATE', value: false }
+[2021-05-20 10:31:55.477] [debug] activity render
+[2021-05-20 10:31:55.481] [debug] **[overlay]  {
+  type: 'SET_TRANSFER_ARRAY',
+  value: [ '1d910b9a-c4f7-4079-a321-90124afd7ace' ]
+}
+[2021-05-20 10:31:55.482] [debug] **[overlay]  { type: 'HISTORY_NOTI_STATE', value: false }
+[2021-05-20 10:31:55.482] [debug] activity render
+[2021-05-20 10:31:55.484] [debug] **[overlay]  { type: 'SET_HISTORY_REFRESH_INDICATOR', value: false }
+[2021-05-20 10:31:55.484] [debug] activity render
+[2021-05-20 10:31:55.484] [debug] **[overlay]  { type: 'CHANGE_TRANSFER_INFOS', value: [] }
+[2021-05-20 10:31:55.489] [debug] **[overlay]  {
+  type: 'SET_TRANSFER_THUMBNAIL',
+  path: '/home/taz/projet-epicuria/projetEpicuria_siteWeb_v2021-05-20.7z',
+  value: '../../assets/thumb/icn_default.svg'
+}
+[2021-05-20 10:31:56.123] [debug] **[overlay]  {
+  type: 'MY_LINK_INFO_LIST',
+  value: [ { totalFileSize: 87597392, fileInfos: [Array], info: [Object] } ]
+}
+[2021-05-20 10:31:56.129] [debug] **[overlay]  { type: 'SET_MY_DEVICE_IDS', value: [ '', '5466870471452' ] }
+[2021-05-20 10:31:56.129] [debug] **[overlay]  { type: 'SET_MY_LINK_REFRESH_INDICATOR', value: false }
+[2021-05-20 10:31:56.130] [debug] **[overlay]  { type: 'SET_MY_LINK_UPDATING', value: false }
+[2021-05-20 10:31:56.130] [debug] **[overlay]  {
+  type: 'MY_KEY_INFO_LIST',
+  value: [
+    {
+      key: 'help',
+      deviceId: '0000000000001',
+      thumbnailUrl: '../../assets/thumb/icn_help.svg'
+    }
+  ]
+}
+[2021-05-20 10:31:56.459] [debug] **[overlay]  {
+  type: 'SET_TRANSFER_SIZE',
+  transferred: { '1d910b9a-c4f7-4079-a321-90124afd7ace': 6488064 },
+  fileTransferred: {
+    '/home/taz/projet-epicuria/projetEpicuria_siteWeb_v2021-05-20.7z': 6488064
+  },
+  remainTime: { '1d910b9a-c4f7-4079-a321-90124afd7ace': 0 }
+}
+[2021-05-20 10:31:56.463] [debug] **[overlay]  { type: 'SET_TORRENT_CHECKING', checking: {} }
+[2021-05-20 10:31:56.470] [debug] **[overlay]  {
+  type: 'CHANGE_TRANSFER_INFO',
+  value: '1d910b9a-c4f7-4079-a321-90124afd7ace'
+}
+[2021-05-20 10:31:57.467] [debug] **[overlay]  {
+  type: 'SET_TRANSFER_SIZE',
+  transferred: { '1d910b9a-c4f7-4079-a321-90124afd7ace': 14368768 },
+  fileTransferred: {
+    '/home/taz/projet-epicuria/projetEpicuria_siteWeb_v2021-05-20.7z': 14368768
+  },
+  remainTime: { '1d910b9a-c4f7-4079-a321-90124afd7ace': 19 }
+}
+[2021-05-20 10:31:57.471] [debug] **[overlay]  { type: 'SET_TORRENT_CHECKING', checking: {} }
+[2021-05-20 10:31:58.471] [debug] **[overlay]  {
+  type: 'SET_TRANSFER_SIZE',
+  transferred: { '1d910b9a-c4f7-4079-a321-90124afd7ace': 21086208 },
+  fileTransferred: {
+    '/home/taz/projet-epicuria/projetEpicuria_siteWeb_v2021-05-20.7z': 21086208
+  },
+  remainTime: { '1d910b9a-c4f7-4079-a321-90124afd7ace': 13 }
+}
+[2021-05-20 10:31:58.474] [debug] **[overlay]  { type: 'SET_TORRENT_CHECKING', checking: {} }
+[2021-05-20 10:31:59.476] [debug] **[overlay]  {
+  type: 'SET_TRANSFER_SIZE',
+  transferred: { '1d910b9a-c4f7-4079-a321-90124afd7ace': 27770880 },
+  fileTransferred: {
+    '/home/taz/projet-epicuria/projetEpicuria_siteWeb_v2021-05-20.7z': 27770880
+  },
+  remainTime: { '1d910b9a-c4f7-4079-a321-90124afd7ace': 10 }
+}
+[2021-05-20 10:31:59.479] [debug] **[overlay]  { type: 'SET_TORRENT_CHECKING', checking: {} }
+[2021-05-20 10:31:59.720] [debug] **[overlay]  { type: 'HIDE_CONTEXT_MENU' }
+[2021-05-20 10:32:00.476] [debug] **[overlay]  {
+  type: 'SET_TRANSFER_SIZE',
+  transferred: { '1d910b9a-c4f7-4079-a321-90124afd7ace': 34537472 },
+  fileTransferred: {
+    '/home/taz/projet-epicuria/projetEpicuria_siteWeb_v2021-05-20.7z': 34537472
+  },
+  remainTime: { '1d910b9a-c4f7-4079-a321-90124afd7ace': 9 }
+}
+[2021-05-20 10:32:00.478] [debug] **[overlay]  { type: 'SET_TORRENT_CHECKING', checking: {} }
+[2021-05-20 10:32:01.210] [debug] **[overlay]  { type: 'HIDE_CONTEXT_MENU' }
+[2021-05-20 10:32:01.485] [debug] **[overlay]  {
+  type: 'SET_TRANSFER_SIZE',
+  transferred: { '1d910b9a-c4f7-4079-a321-90124afd7ace': 41189376 },
+  fileTransferred: {
+    '/home/taz/projet-epicuria/projetEpicuria_siteWeb_v2021-05-20.7z': 41189376
+  },
+  remainTime: { '1d910b9a-c4f7-4079-a321-90124afd7ace': 8 }
+}
+[2021-05-20 10:32:01.487] [debug] **[overlay]  { type: 'SET_TORRENT_CHECKING', checking: {} }
+[2021-05-20 10:32:02.487] [debug] **[overlay]  {
+  type: 'SET_TRANSFER_SIZE',
+  transferred: { '1d910b9a-c4f7-4079-a321-90124afd7ace': 47382528 },
+  fileTransferred: {
+    '/home/taz/projet-epicuria/projetEpicuria_siteWeb_v2021-05-20.7z': 47382528
+  },
+  remainTime: { '1d910b9a-c4f7-4079-a321-90124afd7ace': 7 }
+}
+[2021-05-20 10:32:02.489] [debug] **[overlay]  { type: 'SET_TORRENT_CHECKING', checking: {} }
+[2021-05-20 10:32:03.490] [debug] **[overlay]  {
+  type: 'SET_TRANSFER_SIZE',
+  transferred: { '1d910b9a-c4f7-4079-a321-90124afd7ace': 54722560 },
+  fileTransferred: {
+    '/home/taz/projet-epicuria/projetEpicuria_siteWeb_v2021-05-20.7z': 54722560
+  },
+  remainTime: { '1d910b9a-c4f7-4079-a321-90124afd7ace': 5 }
+}
+[2021-05-20 10:32:03.493] [debug] **[overlay]  { type: 'SET_TORRENT_CHECKING', checking: {} }
+[2021-05-20 10:32:04.497] [debug] **[overlay]  {
+  type: 'SET_TRANSFER_SIZE',
+  transferred: { '1d910b9a-c4f7-4079-a321-90124afd7ace': 61423616 },
+  fileTransferred: {
+    '/home/taz/projet-epicuria/projetEpicuria_siteWeb_v2021-05-20.7z': 61423616
+  },
+  remainTime: { '1d910b9a-c4f7-4079-a321-90124afd7ace': 4 }
+}
+[2021-05-20 10:32:04.499] [debug] **[overlay]  { type: 'SET_TORRENT_CHECKING', checking: {} }
+[2021-05-20 10:32:05.616] [debug] **[overlay]  {
+  type: 'SET_TRANSFER_SIZE',
+  transferred: { '1d910b9a-c4f7-4079-a321-90124afd7ace': 69009408 },
+  fileTransferred: {
+    '/home/taz/projet-epicuria/projetEpicuria_siteWeb_v2021-05-20.7z': 69009408
+  },
+  remainTime: { '1d910b9a-c4f7-4079-a321-90124afd7ace': 3 }
+}
+[2021-05-20 10:32:05.620] [debug] **[overlay]  { type: 'SET_TORRENT_CHECKING', checking: {} }
+[2021-05-20 10:32:06.621] [debug] **[overlay]  {
+  type: 'SET_TRANSFER_SIZE',
+  transferred: { '1d910b9a-c4f7-4079-a321-90124afd7ace': 75481088 },
+  fileTransferred: {
+    '/home/taz/projet-epicuria/projetEpicuria_siteWeb_v2021-05-20.7z': 75481088
+  },
+  remainTime: { '1d910b9a-c4f7-4079-a321-90124afd7ace': 2 }
+}
+[2021-05-20 10:32:06.625] [debug] **[overlay]  { type: 'SET_TORRENT_CHECKING', checking: {} }
+[2021-05-20 10:32:07.657] [debug] **[overlay]  {
+  type: 'SET_TRANSFER_SIZE',
+  transferred: { '1d910b9a-c4f7-4079-a321-90124afd7ace': 82804736 },
+  fileTransferred: {
+    '/home/taz/projet-epicuria/projetEpicuria_siteWeb_v2021-05-20.7z': 82804736
+  },
+  remainTime: { '1d910b9a-c4f7-4079-a321-90124afd7ace': 1 }
+}
+[2021-05-20 10:32:07.658] [debug] **[overlay]  { type: 'SET_TORRENT_CHECKING', checking: {} }
+[2021-05-20 10:32:08.667] [debug] **[overlay]  {
+  type: 'SET_TRANSFER_SIZE',
+  transferred: { '1d910b9a-c4f7-4079-a321-90124afd7ace': 87597392 },
+  fileTransferred: {
+    '/home/taz/projet-epicuria/projetEpicuria_siteWeb_v2021-05-20.7z': 87597392
+  },
+  remainTime: { '1d910b9a-c4f7-4079-a321-90124afd7ace': 0 }
+}
+[2021-05-20 10:32:08.669] [debug] **[overlay]  { type: 'SET_TORRENT_CHECKING', checking: {} }
+[2021-05-20 10:32:08.771] [debug] **[overlay]  {
+  type: 'SET_TRANSFER_SIZE',
+  transferred: { '1d910b9a-c4f7-4079-a321-90124afd7ace': 87597392 },
+  fileTransferred: {
+    '/home/taz/projet-epicuria/projetEpicuria_siteWeb_v2021-05-20.7z': 87597392
+  },
+  remainTime: { '1d910b9a-c4f7-4079-a321-90124afd7ace': 0 }
+}
+[2021-05-20 10:32:08.774] [debug] **[overlay]  { type: 'SET_TORRENT_CHECKING', checking: {} }
+[2021-05-20 10:32:08.783] [debug] **[overlay]  { type: 'SHOW_IN_APP_RECEIVE_AD', value: true }
+[2021-05-20 10:32:09.773] [debug] **[overlay]  {
+  type: 'SET_TRANSFER_SIZE',
+  transferred: { '1d910b9a-c4f7-4079-a321-90124afd7ace': 87597392 },
+  fileTransferred: {
+    '/home/taz/projet-epicuria/projetEpicuria_siteWeb_v2021-05-20.7z': 87597392
+  },
+  remainTime: { '1d910b9a-c4f7-4079-a321-90124afd7ace': 0 }
+}
+[2021-05-20 10:32:09.774] [debug] **[overlay]  { type: 'SET_TORRENT_CHECKING', checking: {} }
+[2021-05-20 10:32:10.379] [debug] **[overlay]  {
+  type: 'SET_TRANSFER_SIZE',
+  transferred: { '1d910b9a-c4f7-4079-a321-90124afd7ace': 87597392 },
+  fileTransferred: {},
+  remainTime: { '1d910b9a-c4f7-4079-a321-90124afd7ace': 0 }
+}
+[2021-05-20 10:32:10.405] [debug] **[overlay]  { type: 'SET_TORRENT_CHECKING', checking: {} }
+[2021-05-20 10:32:10.912] [debug] **[overlay]  {
+  type: 'CHANGE_TRANSFER_INFO',
+  value: '1d910b9a-c4f7-4079-a321-90124afd7ace'
+}
+[2021-05-20 10:32:11.078] [debug] **[overlay]  {
+  type: 'SET_TRANSFER_SIZE',
+  transferred: { '696653ec-31c3-4e7b-990a-88ba12d833c8': 0 },
+  fileTransferred: {},
+  remainTime: {}
+}
+[2021-05-20 10:32:11.080] [debug] **[overlay]  { type: 'SET_TORRENT_CHECKING', checking: {} }
+[2021-05-20 10:32:12.225] [debug] **[overlay]  { type: 'HIDE_CONTEXT_MENU' }
+[2021-05-20 10:32:15.920] [debug] **[overlay]  { type: 'SHOW_SORT_OPTION', value: false }
+[2021-05-20 10:32:15.921] [debug] **[overlay]  { type: 'HIDE_CONTEXT_MENU' }
+[2021-05-20 10:32:17.087] [debug] **[overlay]  { type: 'SHOW_IN_APP_RECEIVE_AD', value: false }
+[2021-05-20 10:32:17.088] [debug] **[overlay]  { type: 'HIDE_CONTEXT_MENU' }
+[2021-05-20 10:32:18.768] [debug] **[overlay]  { type: 'SHOW_SORT_OPTION', value: false }
+[2021-05-20 10:32:18.770] [debug] **[overlay]  { type: 'HIDE_CONTEXT_MENU' }
+[2021-05-20 10:32:21.359] [debug] **[overlay]  { type: 'CONTENT_TYPE', value: 'dashboard' }
+[2021-05-20 10:32:21.360] [debug] **[overlay]  { type: 'HIDE_CONTEXT_MENU' }
+[2021-05-20 10:32:21.364] [debug] **[overlay]  { type: 'SHOW_SORT_OPTION', value: false }
+[2021-05-20 10:32:21.668] [debug] **[overlay]  {
+  type: 'SET_DEVICE_INFOS',
+  value: {
+    '0000000000001': {
+      deviceId: '0000000000001',
+      profileName: 'Send Anywhere',
+      deviceName: 'estmob',
+      safeName: 'Send Anywhere',
+      osType: 'web',
+      hasPushId: false,
+      profileImageUrl: ''
+    }
+  }
+}
+[2021-05-20 10:32:22.762] [debug] **[overlay]  { type: 'CONTENT_TYPE', value: 'activity' }
+[2021-05-20 10:32:22.764] [debug] **[overlay]  { type: 'HIDE_CONTEXT_MENU' }
+[2021-05-20 10:32:22.765] [debug] **[overlay]  { type: 'HISTORY_NOTI_STATE', value: false }
+[2021-05-20 10:32:22.767] [debug] activity render
+[2021-05-20 10:32:23.999] [debug] **[overlay]  {
+  type: 'SET_TOAST_TEXT',
+  toastType: 1,
+  value: 'Successfully copied to clipboard'
+}
+[2021-05-20 10:32:24.001] [debug] **[overlay]  { type: 'SHOW_SORT_OPTION', value: false }
+[2021-05-20 10:32:24.002] [debug] **[overlay]  { type: 'HIDE_CONTEXT_MENU' }
+[2021-05-20 10:32:26.115] [debug] **[overlay]  {
+  type: 'SET_TOAST_TEXT',
+  toastType: 1,
+  value: 'Successfully copied to clipboard'
+}
+[2021-05-20 10:32:26.117] [debug] **[overlay]  { type: 'SHOW_SORT_OPTION', value: false }
+[2021-05-20 10:32:26.117] [debug] **[overlay]  { type: 'HIDE_CONTEXT_MENU' }
+[2021-05-20 10:32:26.503] [debug] **[overlay]  { type: 'SET_TOAST_SHOW', value: false }
+[2021-05-20 10:32:26.842] [debug] **[overlay]  { type: 'SHOW_SORT_OPTION', value: false }
+[2021-05-20 10:32:26.843] [debug] **[overlay]  { type: 'HIDE_CONTEXT_MENU' }
+[2021-05-20 10:32:29.984] [debug] **[overlay]  { type: 'HIDE_CONTEXT_MENU' }
+[2021-05-20 10:32:33.244] [debug] **[overlay]  { type: 'SHOW_SORT_OPTION', value: false }
+[2021-05-20 10:32:33.246] [debug] **[overlay]  { type: 'HIDE_CONTEXT_MENU' }
+[2021-05-20 10:32:34.029] [debug] **[overlay]  { type: 'HIDE_CONTEXT_MENU' }
+[2021-05-20 10:32:39.117] [debug] **[overlay]  { type: 'SHOW_SORT_OPTION', value: false }
+[2021-05-20 10:32:39.118] [debug] **[overlay]  { type: 'HIDE_CONTEXT_MENU' }
+[2021-05-20 10:32:44.146] [debug] **[overlay]  { type: 'HIDE_CONTEXT_MENU' }
+[2021-05-20 10:34:05.267] [debug] **[overlay]  { type: 'SHOW_SORT_OPTION', value: false }
+[2021-05-20 10:34:05.268] [debug] **[overlay]  { type: 'HIDE_CONTEXT_MENU' }
+[2021-05-22 15:15:50.236] [debug] **[overlay]  { type: '@@redux/INIT' }
+[2021-05-22 15:15:50.240] [debug] **[overlay]  { type: '@@redux/PROBE_UNKNOWN_ACTION_x.j.k.1.a.g' }
+[2021-05-22 15:15:50.298] [debug] **[overlay]  { type: '@@redux/INIT' }
+[2021-05-22 15:15:50.302] [debug] **[overlay]  { type: 'SET_MY_LINK_UPDATING', value: true }
+[2021-05-22 15:15:50.431] [debug] **[overlay]  { type: 'CONTENT_TYPE', value: 'dashboard' }
+[2021-05-22 15:15:50.433] [debug] **[overlay]  { type: 'SET_HISTORY_REFRESH_INDICATOR', value: true }
+[2021-05-22 15:15:50.434] [debug] **[overlay]  { type: 'SELECT_MY_LINK_DEVICE_ID', value: '' }
+[2021-05-22 15:15:50.684] [debug] **[overlay]  { type: 'SET_ACCOUNT_PLAN_TYPE', value: 0 }
+[2021-05-22 15:15:50.685] [debug] **[overlay]  {
+  type: 'SET_TRANSFER_ARRAY',
+  value: [ '1d910b9a-c4f7-4079-a321-90124afd7ace' ]
+}
+[2021-05-22 15:15:50.686] [debug] **[overlay]  { type: 'SET_HISTORY_REFRESH_INDICATOR', value: false }
+[2021-05-22 15:15:50.688] [debug] **[overlay]  { type: 'CHANGE_TRANSFER_INFOS', value: [] }
+[2021-05-22 15:15:50.691] [debug] **[overlay]  {
+  type: 'SET_TRANSFER_ARRAY',
+  value: [ '1d910b9a-c4f7-4079-a321-90124afd7ace' ]
+}
+[2021-05-22 15:15:50.692] [debug] **[overlay]  { type: 'SET_HISTORY_REFRESH_INDICATOR', value: false }
+[2021-05-22 15:15:50.693] [debug] **[overlay]  { type: 'CHANGE_TRANSFER_INFOS', value: [] }
+[2021-05-22 15:15:50.699] [debug] **[overlay]  { type: 'TOP_PROFILE_DEVICE_ID', value: '5466870471452' }
+[2021-05-22 15:15:50.700] [debug] **[overlay]  { type: 'TOP_PROFILE_EMAIL', value: 'n.dalf@protonmail.com' }
+[2021-05-22 15:15:50.713] [debug] **[overlay]  { type: 'TOP_PROFILE_NAME', value: 'nemo' }
+[2021-05-22 15:15:50.715] [debug] **[overlay]  { type: 'TOP_PROFILE_SERVER_TYPE', value: '0' }
+[2021-05-22 15:15:51.069] [debug] **[overlay]  { type: 'SHOW_IN_APP_DIRECT_AD', value: { activation: false } }
+[2021-05-22 15:15:51.071] [debug] **[overlay]  {
+  type: 'SHOW_IN_APP_DIRECT_AD',
+  value: { activation: true, interval: 60 }
+}
+[2021-05-22 15:15:52.118] [debug] **[overlay]  { type: 'MY_LINK_INFO_LIST', value: [] }
+[2021-05-22 15:15:52.120] [debug] **[overlay]  { type: 'SET_MY_DEVICE_IDS', value: [ '' ] }
+[2021-05-22 15:15:52.121] [debug] **[overlay]  { type: 'SET_MY_LINK_REFRESH_INDICATOR', value: false }
+[2021-05-22 15:15:52.126] [debug] **[overlay]  { type: 'SET_MY_LINK_UPDATING', value: false }
+[2021-05-22 15:15:52.146] [debug] **[overlay]  {
+  type: 'MY_KEY_INFO_LIST',
+  value: [
+    {
+      key: 'help',
+      deviceId: '0000000000001',
+      thumbnailUrl: '../../assets/thumb/icn_help.svg'
+    }
+  ]
+}
+[2021-05-22 15:15:53.043] [debug] **[overlay]  { type: 'TOP_PROFILE_DEVICE_ID', value: '5466870471452' }
+[2021-05-22 15:15:53.047] [debug] **[overlay]  { type: 'TOP_PROFILE_EMAIL', value: 'n.dalf@protonmail.com' }
+[2021-05-22 15:15:53.049] [debug] **[overlay]  { type: 'TOP_PROFILE_SERVER_TYPE', value: '0' }
+[2021-05-22 15:15:53.051] [debug] **[overlay]  { type: 'SHOW_OVERLAY_PROGRESS', value: false }
+[2021-05-22 15:15:53.052] [debug] ===== res_signin handling
+[2021-05-22 15:15:53.053] [debug] **[overlay]  { type: 'SET_MY_LINK_UPDATING', value: true }
+[2021-05-22 15:15:53.053] [debug] **[overlay]  { type: 'TOP_PROFILE_STORAGE_RESET', value: true }
+[2021-05-22 15:15:53.054] [debug] **[overlay]  { type: 'SET_ACCOUNT_PLAN_TYPE', value: 0 }
+[2021-05-22 15:15:53.055] [debug] **[overlay]  { type: 'SET_ACCOUNT_EMAIL_VERIFY', value: true }
+[2021-05-22 15:15:53.971] [debug] **[overlay]  { type: 'MY_LINK_INFO_LIST', value: [] }
+[2021-05-22 15:15:53.973] [debug] **[overlay]  { type: 'SET_MY_DEVICE_IDS', value: [ '' ] }
+[2021-05-22 15:15:53.975] [debug] **[overlay]  { type: 'SET_MY_LINK_REFRESH_INDICATOR', value: false }
+[2021-05-22 15:15:53.976] [debug] **[overlay]  { type: 'SET_MY_LINK_UPDATING', value: false }
+[2021-05-22 15:15:53.980] [debug] **[overlay]  {
+  type: 'MY_KEY_INFO_LIST',
+  value: [
+    {
+      key: 'help',
+      deviceId: '0000000000001',
+      thumbnailUrl: '../../assets/thumb/icn_help.svg'
+    }
+  ]
+}
+[2021-05-22 15:15:53.985] [debug] **[overlay]  { type: 'TOP_PROFILE_DEVICE_ID', value: '5466870471452' }
+[2021-05-22 15:15:53.985] [debug] **[overlay]  { type: 'TOP_PROFILE_NAME', value: 'nemo' }
+[2021-05-22 15:15:53.986] [debug] **[overlay]  { type: 'TOP_PROFILE_SERVER_TYPE', value: '0' }
+[2021-05-22 15:15:53.987] [debug] **[overlay]  { type: 'TOP_PROFILE_DEVICE_ID', value: '5466870471452' }
+[2021-05-22 15:15:53.987] [debug] **[overlay]  { type: 'TOP_PROFILE_NAME', value: 'nemo' }
+[2021-05-22 15:15:53.988] [debug] **[overlay]  { type: 'TOP_PROFILE_SERVER_TYPE', value: '0' }
+[2021-05-22 15:15:54.267] [debug] **[overlay]  {
+  type: 'SET_DEVICE_INFOS',
+  value: {
+    '5466870471452': {
+      deviceId: '5466870471452',
+      profileName: 'nemo',
+      deviceName: 'Linux Desktop',
+      safeName: 'nemo',
+      osType: 'linux',
+      hasPushId: true,
+      profileImageUrl: ''
+    },
+    '0000000000001': {
+      deviceId: '0000000000001',
+      profileName: 'Send Anywhere',
+      deviceName: 'estmob',
+      safeName: 'Send Anywhere',
+      osType: 'web',
+      hasPushId: false,
+      profileImageUrl: ''
+    }
+  }
+}
+[2021-05-22 15:15:54.573] [debug] **[overlay]  {
+  type: 'SET_DEVICE_INFOS',
+  value: {
+    '0000000000001': {
+      deviceId: '0000000000001',
+      profileName: 'Send Anywhere',
+      deviceName: 'estmob',
+      safeName: 'Send Anywhere',
+      osType: 'web',
+      hasPushId: false,
+      profileImageUrl: ''
+    }
+  }
+}
+[2021-05-22 15:15:55.206] [debug] **[overlay]  { type: 'MY_LINK_INFO_LIST', value: [] }
+[2021-05-22 15:15:55.208] [debug] **[overlay]  { type: 'SET_MY_DEVICE_IDS', value: [ '' ] }
+[2021-05-22 15:15:55.211] [debug] **[overlay]  { type: 'SET_MY_LINK_REFRESH_INDICATOR', value: false }
+[2021-05-22 15:15:55.212] [debug] **[overlay]  { type: 'SET_MY_LINK_UPDATING', value: false }
+[2021-05-22 15:15:55.214] [debug] **[overlay]  {
+  type: 'MY_KEY_INFO_LIST',
+  value: [
+    {
+      key: 'help',
+      deviceId: '0000000000001',
+      thumbnailUrl: '../../assets/thumb/icn_help.svg'
+    }
+  ]
+}
+[2021-05-22 15:16:18.080] [debug] **[overlay]  { type: 'HIDE_CONTEXT_MENU' }
+[2021-05-22 15:16:19.247] [debug] **[overlay]  { type: 'RECEIVE_KEY', value: '2' }
+[2021-05-22 15:16:19.351] [debug] **[overlay]  { type: 'RECEIVE_KEY', value: '23' }
+[2021-05-22 15:16:19.497] [debug] **[overlay]  { type: 'RECEIVE_KEY', value: '232' }
+[2021-05-22 15:16:20.730] [debug] **[overlay]  { type: 'RECEIVE_KEY', value: '2321' }
+[2021-05-22 15:16:21.263] [debug] **[overlay]  { type: 'RECEIVE_KEY', value: '23210' }
+[2021-05-22 15:16:21.634] [debug] **[overlay]  { type: 'RECEIVE_KEY', value: '232104' }
+[2021-05-22 15:16:21.992] [debug] **[overlay]  { type: 'SHOW_OVERLAY_PROGRESS', value: true }
+[2021-05-22 15:16:24.096] [debug] **[overlay]  { type: 'SHOW_OVERLAY_PROGRESS', value: false }
+[2021-05-22 15:16:24.097] [debug] **[overlay]  { type: 'SETTINGS_CHECK_RECEIVE_FILELIST', value: true }
+[2021-05-22 15:16:24.099] [debug] **[overlay]  { type: 'RECEIVE_KEY', value: '232104' }
+[2021-05-22 15:16:24.099] [debug] **[overlay]  {
+  type: 'RECEIVE_FILE_LIST',
+  value: [
+    {
+      path: 'IMG_2050.HEIC',
+      size: 3671090,
+      time: 1621686388,
+      check: true
+    }
+  ]
+}
+[2021-05-22 15:16:24.102] [debug] **[overlay]  { type: 'RECEIVE_FILES_VIEW_RANGE', value: 40 }
+[2021-05-22 15:16:24.103] [debug] **[overlay]  {
+  type: 'SET_RECEIVE_KEY_INFO',
+  value: {
+    key: '232104',
+    mode: 0,
+    createdTime: 1621689350,
+    expiresTime: 1621689950,
+    deviceId: '8882546165659',
+    fileCount: 1,
+    files: [ [Object] ],
+    fileTotalSize: 3671090,
+    thumbnailUrl: '',
+    uploaded: true,
+    downloadCount: 0,
+    downloadLimit: 0,
+    isSubscription: false,
+    hasPassword: false,
+    useStorage: false,
+    isBlocked: false,
+    seedInfo: '',
+    linkUrl: 'http://sendanywhe.re/232104',
+    feedImageUrl: '',
+    publishCount: 0,
+    error: ''
+  }
+}
+[2021-05-22 15:16:24.105] [debug] **[overlay]  { type: 'SHOW_RECEIVE_FILE_LIST', value: true }
+[2021-05-22 15:16:24.110] [debug] **[overlay]  { type: 'CURRENT_DOWNLOAD_PATH', value: '/home/taz/Downloads' }
+[2021-05-22 15:16:26.940] [debug] receive filelist { key: '232104', downloadPath: '/home/taz/Downloads' }
+[2021-05-22 15:16:26.941] [debug] **[overlay]  { type: 'RECEIVE_KEY', value: '' }
+[2021-05-22 15:16:26.949] [debug] **[overlay]  { type: 'SHOW_OVERLAY_PROGRESS', value: true }
+[2021-05-22 15:16:30.524] [debug] **[overlay]  { type: 'CONTENT_TYPE', value: 'activity' }
+[2021-05-22 15:16:30.531] [debug] **[overlay]  { type: 'HISTORY_NOTI_STATE', value: false }
+[2021-05-22 15:16:30.533] [debug] activity render
+[2021-05-22 15:16:30.563] [debug] **[overlay]  { type: 'SHOW_RECEIVE_FILE_LIST', value: false }
+[2021-05-22 15:16:30.564] [debug] **[overlay]  { type: 'SHOW_RECEIVE_FILE_LIST', value: false }
+[2021-05-22 15:16:30.566] [debug] **[overlay]  { type: 'SHOW_OVERLAY_PROGRESS', value: false }
+[2021-05-22 15:16:30.567] [debug] **[overlay]  { type: 'RECEIVE_KEY', value: '' }
+[2021-05-22 15:16:30.571] [debug] **[overlay]  {
+  type: 'SET_TRANSFER_SIZE',
+  transferred: { 'f64e79c6-659f-4413-96a2-c2fe55732d47': 0 },
+  fileTransferred: {},
+  remainTime: { 'f64e79c6-659f-4413-96a2-c2fe55732d47': 0 }
+}
+[2021-05-22 15:16:30.572] [debug] **[overlay]  { type: 'SET_TORRENT_CHECKING', checking: {} }
+[2021-05-22 15:16:30.574] [debug] **[overlay]  {
+  type: 'ADD_TRANSFER_INFO',
+  value: 'f64e79c6-659f-4413-96a2-c2fe55732d47'
+}
+[2021-05-22 15:16:30.575] [debug] **[overlay]  { type: 'HISTORY_NOTI_STATE', value: false }
+[2021-05-22 15:16:30.576] [debug] activity render
+[2021-05-22 15:16:30.597] [debug] **[overlay]  {
+  type: 'SET_TRANSFER_THUMBNAIL',
+  path: '/home/taz/projet-epicuria/projetEpicuria_siteWeb_v2021-05-20.7z',
+  value: '../../assets/thumb/icn_default.svg'
+}
+[2021-05-22 15:16:30.609] [debug] **[overlay]  {
+  type: 'SET_TRANSFER_THUMBNAIL',
+  path: '/home/taz/projet-epicuria/projetEpicuria_siteWeb_v2021-05-20.7z',
+  value: '../../assets/thumb/icn_default.svg'
+}
+[2021-05-22 15:16:31.442] [debug] **[overlay]  {
+  type: 'CHANGE_TRANSFER_INFO',
+  value: 'f64e79c6-659f-4413-96a2-c2fe55732d47'
+}
+[2021-05-22 15:16:31.524] [debug] **[overlay]  {
+  type: 'SET_TRANSFER_SIZE',
+  transferred: { 'f64e79c6-659f-4413-96a2-c2fe55732d47': 1424657 },
+  fileTransferred: { '/home/taz/Downloads/IMG_2050.HEIC': 1424657 },
+  remainTime: { 'f64e79c6-659f-4413-96a2-c2fe55732d47': 0 }
+}
+[2021-05-22 15:16:31.528] [debug] **[overlay]  { type: 'SET_TORRENT_CHECKING', checking: {} }
+[2021-05-22 15:16:31.747] [debug] **[overlay]  {
+  type: 'SET_DEVICE_INFOS',
+  value: {
+    '8882546165659': {
+      deviceId: '8882546165659',
+      profileName: 'Nathan’s iPhone',
+      deviceName: 'Apple iPhone13,2',
+      safeName: 'Nathan’s iPhone',
+      osType: 'ios',
+      hasPushId: true,
+      profileImageUrl: ''
+    }
+  }
+}
+[2021-05-22 15:16:31.750] [debug] activity render
+[2021-05-22 15:16:32.053] [debug] **[overlay]  {
+  type: 'SET_DEVICE_INFOS',
+  value: {
+    '8882546165659': {
+      deviceId: '8882546165659',
+      profileName: 'Nathan’s iPhone',
+      deviceName: 'Apple iPhone13,2',
+      safeName: 'Nathan’s iPhone',
+      osType: 'ios',
+      hasPushId: true,
+      profileImageUrl: ''
+    }
+  }
+}
+[2021-05-22 15:16:32.054] [debug] activity render
+[2021-05-22 15:16:32.533] [debug] **[overlay]  {
+  type: 'SET_TRANSFER_SIZE',
+  transferred: { 'f64e79c6-659f-4413-96a2-c2fe55732d47': 3641493 },
+  fileTransferred: { '/home/taz/Downloads/IMG_2050.HEIC': 3641493 },
+  remainTime: { 'f64e79c6-659f-4413-96a2-c2fe55732d47': 0 }
+}
+[2021-05-22 15:16:32.537] [debug] **[overlay]  { type: 'SET_TORRENT_CHECKING', checking: {} }
+[2021-05-22 15:16:34.190] [debug] **[overlay]  {
+  type: 'SET_CONTEXT_MENU',
+  value: {
+    type: 'activity',
+    tailHidden: true,
+    data: {
+      type: 'command',
+      state: 'PAPRIKA_STATE_TRANSFERRING',
+      detailedState: 'PAPRIKA_DETAILED_STATE_TRANSFERRING_ACTIVE',
+      myDeviceId: '5466870471452',
+      deviceId: '8882546165659',
+      key: '232104',
+      link: '',
+      peerState: 0,
+      transferId: 'f64e79c6-659f-4413-96a2-c2fe55732d47',
+      transferType: 3,
+      transferMode: 0,
+      expireTime: 1621689950,
+      startedTime: 1621689387.022,
+      transferredSize: 0,
+      totalFileSize: 3671090,
+      isSender: false,
+      isSucceed: false,
+      isExpired: false,
+      isResumable: false,
+      isRunning: true,
+      isCanceled: false,
+      isCanceledByOpponent: false,
+      isEnableToLink: true,
+      status: 5,
+      fileInfos: [Array],
+      filePaths: [Array],
+      fileCount: 1
+    },
+    x: 362,
+    y: 191,
+    offset: 15,
+    items: [ [Object], [Object] ]
+  }
+}
+[2021-05-22 15:16:34.195] [debug] **[overlay]  { type: 'SELECT_SPECIFIC_DEVICE', value: false }
+[2021-05-22 15:16:34.196] [debug] **[overlay]  { type: 'SHOW_SORT_OPTION', value: false }
+[2021-05-22 15:16:35.548] [debug] **[overlay]  {
+  type: 'SET_FILES_INFO_LIST',
+  value: [
+    {
+      file: 'IMG_2050.HEIC',
+      path: '/home/taz/Downloads/IMG_2050.HEIC',
+      size: 3671090,
+      status: 'Waiting'
+    }
+  ],
+  date: 1621689387.022,
+  deviceId: '5466870471452',
+  key: '232104'
+}
+[2021-05-22 15:16:35.550] [debug] **[overlay]  { type: 'SHOW_FILES_INFORMATION', value: true }
+[2021-05-22 15:16:35.552] [debug] **[overlay]  { type: 'HIDE_CONTEXT_MENU' }
+[2021-05-22 15:16:35.554] [debug] **[overlay]  { type: 'HIDE_CONTEXT_MENU' }
+[2021-05-22 15:16:37.416] [debug] **[overlay]  { type: 'SHOW_FILES_INFORMATION', value: false }
+[2021-05-22 15:16:37.418] [debug] **[overlay]  { type: 'HIDE_CONTEXT_MENU' }
+[2021-05-22 15:16:37.629] [debug] **[overlay]  {
+  type: 'SET_TRANSFER_SIZE',
+  transferred: { 'f64e79c6-659f-4413-96a2-c2fe55732d47': 3671290 },
+  fileTransferred: { '/home/taz/Downloads/IMG_2050.HEIC': 3671290 },
+  remainTime: { 'f64e79c6-659f-4413-96a2-c2fe55732d47': 0 }
+}
+[2021-05-22 15:16:37.635] [debug] **[overlay]  { type: 'SET_TORRENT_CHECKING', checking: {} }
+[2021-05-22 15:16:37.640] [debug] **[overlay]  {
+  type: 'SET_TRANSFER_THUMBNAIL',
+  path: '/home/taz/Downloads/IMG_2050.HEIC',
+  value: '../../assets/thumb/icn_heic.svg'
+}
+[2021-05-22 15:16:37.644] [debug] **[overlay]  { type: 'SHOW_IN_APP_RECEIVE_AD', value: true }
+[2021-05-22 15:16:37.846] [debug] **[overlay]  {
+  type: 'SET_TRANSFER_SIZE',
+  transferred: { 'f64e79c6-659f-4413-96a2-c2fe55732d47': 3671290 },
+  fileTransferred: { '/home/taz/Downloads/IMG_2050.HEIC': 3671290 },
+  remainTime: { 'f64e79c6-659f-4413-96a2-c2fe55732d47': 0 }
+}
+[2021-05-22 15:16:37.847] [debug] **[overlay]  { type: 'SET_TORRENT_CHECKING', checking: {} }
+[2021-05-22 15:16:38.166] [debug] **[overlay]  { type: 'HIDE_CONTEXT_MENU' }
+[2021-05-22 15:16:38.358] [debug] **[overlay]  {
+  type: 'CHANGE_TRANSFER_INFO',
+  value: 'f64e79c6-659f-4413-96a2-c2fe55732d47'
+}
+[2021-05-22 15:16:38.663] [debug] **[overlay]  {
+  type: 'SET_DEVICE_INFOS',
+  value: {
+    '8882546165659': {
+      deviceId: '8882546165659',
+      profileName: 'Nathan’s iPhone',
+      deviceName: 'Apple iPhone13,2',
+      safeName: 'Nathan’s iPhone',
+      osType: 'ios',
+      hasPushId: true,
+      profileImageUrl: ''
+    }
+  }
+}
+[2021-05-22 15:16:38.666] [debug] activity render
+[2021-05-22 15:16:49.914] [debug] **[overlay]  { type: 'CONTENT_TYPE', value: 'dashboard' }
+[2021-05-22 15:16:49.916] [debug] **[overlay]  { type: 'HIDE_CONTEXT_MENU' }
+[2021-05-22 15:16:49.925] [debug] **[overlay]  { type: 'SHOW_SORT_OPTION', value: false }
+[2021-05-22 15:16:50.239] [debug] **[overlay]  {
+  type: 'SET_DEVICE_INFOS',
+  value: {
+    '0000000000001': {
+      deviceId: '0000000000001',
+      profileName: 'Send Anywhere',
+      deviceName: 'estmob',
+      safeName: 'Send Anywhere',
+      osType: 'web',
+      hasPushId: false,
+      profileImageUrl: ''
+    }
+  }
+}
+[2021-05-22 15:16:52.552] [debug] **[overlay]  { type: 'CONTENT_TYPE', value: 'activity' }
+[2021-05-22 15:16:52.554] [debug] **[overlay]  { type: 'HIDE_CONTEXT_MENU' }
+[2021-05-22 15:16:52.557] [debug] **[overlay]  { type: 'HISTORY_NOTI_STATE', value: false }
+[2021-05-22 15:16:52.558] [debug] activity render
+[2021-05-22 15:16:52.880] [debug] **[overlay]  {
+  type: 'SET_DEVICE_INFOS',
+  value: {
+    '8882546165659': {
+      deviceId: '8882546165659',
+      profileName: 'Nathan’s iPhone',
+      deviceName: 'Apple iPhone13,2',
+      safeName: 'Nathan’s iPhone',
+      osType: 'ios',
+      hasPushId: true,
+      profileImageUrl: ''
+    }
+  }
+}
+[2021-05-22 15:16:52.882] [debug] activity render
+[2021-05-22 15:16:54.778] [debug] **[overlay]  { type: 'SHOW_SORT_OPTION', value: false }
+[2021-05-22 15:16:54.780] [debug] **[overlay]  { type: 'HIDE_CONTEXT_MENU' }
+[2021-05-22 15:16:55.848] [debug] **[overlay]  { type: 'SHOW_SORT_OPTION', value: false }
+[2021-05-22 15:16:55.854] [debug] **[overlay]  { type: 'HIDE_CONTEXT_MENU' }
+[2021-05-22 15:16:56.751] [debug] **[overlay]  { type: 'HIDE_CONTEXT_MENU' }
+[2021-05-22 15:16:56.943] [debug] **[overlay]  { type: 'SHOW_SORT_OPTION', value: false }
+[2021-05-22 15:16:56.946] [debug] **[overlay]  { type: 'HIDE_CONTEXT_MENU' }
+[2021-05-22 15:16:57.204] [debug] **[overlay]  { type: 'HIDE_CONTEXT_MENU' }
+[2021-05-22 15:17:01.279] [debug] **[overlay]  { type: 'HIDE_CONTEXT_MENU' }
+[2021-05-22 15:17:01.296] [debug] **[overlay]  { type: 'HIDE_CONTEXT_MENU' }
+[2021-05-22 15:17:02.963] [debug] **[overlay]  { type: 'HIDE_CONTEXT_MENU' }
+[2021-05-22 15:17:18.540] [debug] **[overlay]  { type: 'SHOW_IN_APP_TRANSFER_AD' }
+[2021-05-22 15:17:18.543] [debug] **[overlay]  { type: 'SHOW_IN_APP_TRANSFER_NETWORK' }
+[2021-05-22 15:17:18.861] [debug] **[overlay]  { type: 'HIDE_CONTEXT_MENU' }
+[2021-05-22 15:17:19.351] [debug] **[overlay]  { type: 'HIDE_CONTEXT_MENU' }
+[2021-05-22 15:17:19.380] [debug] **[overlay]  { type: 'HIDE_CONTEXT_MENU' }
+[2021-05-22 15:17:20.811] [debug] **[overlay]  { type: 'HIDE_CONTEXT_MENU' }
+[2021-05-22 15:50:42.806] [debug] **[overlay]  { type: '@@redux/INIT' }
+[2021-05-22 15:50:42.811] [debug] **[overlay]  { type: '@@redux/PROBE_UNKNOWN_ACTION_f.c.g.3.c.r' }
+[2021-05-22 15:50:42.848] [debug] **[overlay]  { type: '@@redux/INIT' }
+[2021-05-22 15:50:42.852] [debug] **[overlay]  { type: 'SET_MY_LINK_UPDATING', value: true }
+[2021-05-22 15:50:42.914] [debug] **[overlay]  { type: 'CONTENT_TYPE', value: 'dashboard' }
+[2021-05-22 15:50:42.917] [debug] **[overlay]  { type: 'SET_HISTORY_REFRESH_INDICATOR', value: true }
+[2021-05-22 15:50:42.917] [debug] **[overlay]  { type: 'SELECT_MY_LINK_DEVICE_ID', value: '' }
+[2021-05-22 15:50:43.158] [debug] **[overlay]  { type: 'SET_ACCOUNT_PLAN_TYPE', value: 0 }
+[2021-05-22 15:50:43.160] [debug] **[overlay]  { type: 'SHOW_IN_APP_DIRECT_AD', value: { activation: false } }
+[2021-05-22 15:50:43.161] [debug] **[overlay]  {
+  type: 'SHOW_IN_APP_DIRECT_AD',
+  value: { activation: true, interval: 60 }
+}
+[2021-05-22 15:50:43.170] [debug] **[overlay]  {
+  type: 'SET_TRANSFER_ARRAY',
+  value: [
+    '627bb608-9e90-4b00-832a-f94947aa936a',
+    'f64e79c6-659f-4413-96a2-c2fe55732d47',
+    '1d910b9a-c4f7-4079-a321-90124afd7ace'
+  ]
+}
+[2021-05-22 15:50:43.172] [debug] **[overlay]  { type: 'SET_HISTORY_REFRESH_INDICATOR', value: false }
+[2021-05-22 15:50:43.173] [debug] **[overlay]  { type: 'CHANGE_TRANSFER_INFOS', value: [] }
+[2021-05-22 15:50:43.176] [debug] **[overlay]  {
+  type: 'SET_TRANSFER_ARRAY',
+  value: [
+    '627bb608-9e90-4b00-832a-f94947aa936a',
+    'f64e79c6-659f-4413-96a2-c2fe55732d47',
+    '1d910b9a-c4f7-4079-a321-90124afd7ace'
+  ]
+}
+[2021-05-22 15:50:43.177] [debug] **[overlay]  { type: 'SET_HISTORY_REFRESH_INDICATOR', value: false }
+[2021-05-22 15:50:43.177] [debug] **[overlay]  { type: 'CHANGE_TRANSFER_INFOS', value: [] }
+[2021-05-22 15:50:43.183] [debug] **[overlay]  { type: 'TOP_PROFILE_DEVICE_ID', value: '5466870471452' }
+[2021-05-22 15:50:43.184] [debug] **[overlay]  { type: 'TOP_PROFILE_EMAIL', value: 'n.dalf@protonmail.com' }
+[2021-05-22 15:50:43.196] [debug] **[overlay]  { type: 'TOP_PROFILE_NAME', value: 'nemo' }
+[2021-05-22 15:50:43.199] [debug] **[overlay]  { type: 'TOP_PROFILE_SERVER_TYPE', value: '0' }
+[2021-05-22 15:50:43.698] [debug] **[overlay]  { type: 'MY_LINK_INFO_LIST', value: [] }
+[2021-05-22 15:50:43.761] [debug] **[overlay]  { type: 'SET_MY_DEVICE_IDS', value: [ '' ] }
+[2021-05-22 15:50:43.764] [debug] **[overlay]  { type: 'SET_MY_LINK_REFRESH_INDICATOR', value: false }
+[2021-05-22 15:50:43.770] [debug] **[overlay]  { type: 'SET_MY_LINK_UPDATING', value: false }
+[2021-05-22 15:50:43.776] [debug] **[overlay]  {
+  type: 'MY_KEY_INFO_LIST',
+  value: [
+    {
+      key: 'help',
+      deviceId: '0000000000001',
+      thumbnailUrl: '../../assets/thumb/icn_help.svg'
+    }
+  ]
+}
+[2021-05-22 15:50:44.106] [debug] **[overlay]  {
+  type: 'SET_DEVICE_INFOS',
+  value: {
+    '0000000000001': {
+      deviceId: '0000000000001',
+      profileName: 'Send Anywhere',
+      deviceName: 'estmob',
+      safeName: 'Send Anywhere',
+      osType: 'web',
+      hasPushId: false,
+      profileImageUrl: ''
+    }
+  }
+}
+[2021-05-22 15:50:44.411] [debug] **[overlay]  {
+  type: 'SET_DEVICE_INFOS',
+  value: {
+    '0000000000001': {
+      deviceId: '0000000000001',
+      profileName: 'Send Anywhere',
+      deviceName: 'estmob',
+      safeName: 'Send Anywhere',
+      osType: 'web',
+      hasPushId: false,
+      profileImageUrl: ''
+    }
+  }
+}
+[2021-05-22 15:50:44.580] [debug] **[overlay]  { type: 'MY_LINK_INFO_LIST', value: [] }
+[2021-05-22 15:50:44.582] [debug] **[overlay]  { type: 'SET_MY_DEVICE_IDS', value: [ '' ] }
+[2021-05-22 15:50:44.583] [debug] **[overlay]  { type: 'SET_MY_LINK_REFRESH_INDICATOR', value: false }
+[2021-05-22 15:50:44.584] [debug] **[overlay]  { type: 'SET_MY_LINK_UPDATING', value: false }
+[2021-05-22 15:50:44.585] [debug] **[overlay]  {
+  type: 'MY_KEY_INFO_LIST',
+  value: [
+    {
+      key: 'help',
+      deviceId: '0000000000001',
+      thumbnailUrl: '../../assets/thumb/icn_help.svg'
+    }
+  ]
+}
+[2021-05-22 15:50:44.723] [debug] **[overlay]  { type: 'TOP_PROFILE_DEVICE_ID', value: '5466870471452' }
+[2021-05-22 15:50:44.727] [debug] **[overlay]  { type: 'TOP_PROFILE_EMAIL', value: 'n.dalf@protonmail.com' }
+[2021-05-22 15:50:44.729] [debug] **[overlay]  { type: 'TOP_PROFILE_SERVER_TYPE', value: '0' }
+[2021-05-22 15:50:44.732] [debug] **[overlay]  { type: 'SHOW_OVERLAY_PROGRESS', value: false }
+[2021-05-22 15:50:44.734] [debug] ===== res_signin handling
+[2021-05-22 15:50:44.736] [debug] **[overlay]  { type: 'SET_MY_LINK_UPDATING', value: true }
+[2021-05-22 15:50:44.739] [debug] **[overlay]  { type: 'TOP_PROFILE_STORAGE_RESET', value: true }
+[2021-05-22 15:50:44.741] [debug] **[overlay]  { type: 'SET_ACCOUNT_PLAN_TYPE', value: 0 }
+[2021-05-22 15:50:44.742] [debug] **[overlay]  { type: 'SET_ACCOUNT_EMAIL_VERIFY', value: true }
+[2021-05-22 15:50:45.710] [debug] **[overlay]  { type: 'TOP_PROFILE_DEVICE_ID', value: '5466870471452' }
+[2021-05-22 15:50:45.711] [debug] **[overlay]  { type: 'TOP_PROFILE_NAME', value: 'nemo' }
+[2021-05-22 15:50:45.712] [debug] **[overlay]  { type: 'TOP_PROFILE_SERVER_TYPE', value: '0' }
+[2021-05-22 15:50:46.722] [debug] **[overlay]  { type: 'MY_LINK_INFO_LIST', value: [] }
+[2021-05-22 15:50:46.724] [debug] **[overlay]  { type: 'SET_MY_DEVICE_IDS', value: [ '' ] }
+[2021-05-22 15:50:46.727] [debug] **[overlay]  { type: 'SET_MY_LINK_REFRESH_INDICATOR', value: false }
+[2021-05-22 15:50:46.729] [debug] **[overlay]  { type: 'SET_MY_LINK_UPDATING', value: false }
+[2021-05-22 15:50:46.731] [debug] **[overlay]  {
+  type: 'MY_KEY_INFO_LIST',
+  value: [
+    {
+      key: 'help',
+      deviceId: '0000000000001',
+      thumbnailUrl: '../../assets/thumb/icn_help.svg'
+    }
+  ]
+}
+[2021-05-22 15:50:49.198] [debug] **[overlay]  { type: 'CONTENT_TYPE', value: 'activity' }
+[2021-05-22 15:50:49.200] [debug] **[overlay]  { type: 'HIDE_CONTEXT_MENU' }
+[2021-05-22 15:50:49.202] [debug] **[overlay]  { type: 'HISTORY_NOTI_STATE', value: false }
+[2021-05-22 15:50:49.206] [debug] activity render
+[2021-05-22 15:50:49.257] [debug] **[overlay]  {
+  type: 'SET_TRANSFER_THUMBNAIL',
+  path: '/home/taz/Downloads/IMG_2050.HEIC',
+  value: '../../assets/thumb/icn_heic.svg'
+}
+[2021-05-22 15:50:49.259] [debug] **[overlay]  {
+  type: 'SET_TRANSFER_THUMBNAIL',
+  path: '/home/taz/projet-epicuria/projetEpicuria_siteWeb_v2021-05-20.7z',
+  value: '../../assets/thumb/icn_default.svg'
+}
+[2021-05-22 15:50:49.544] [debug] **[overlay]  {
+  type: 'SET_DEVICE_INFOS',
+  value: {
+    '8882546165659': {
+      deviceId: '8882546165659',
+      profileName: 'Nathan’s iPhone',
+      deviceName: 'Apple iPhone13,2',
+      safeName: 'Nathan’s iPhone',
+      osType: 'ios',
+      hasPushId: true,
+      profileImageUrl: ''
+    }
+  }
+}
+[2021-05-22 15:50:49.547] [debug] activity render
+[2021-05-22 15:50:49.854] [debug] **[overlay]  {
+  type: 'SET_DEVICE_INFOS',
+  value: {
+    '8882546165659': {
+      deviceId: '8882546165659',
+      profileName: 'Nathan’s iPhone',
+      deviceName: 'Apple iPhone13,2',
+      safeName: 'Nathan’s iPhone',
+      osType: 'ios',
+      hasPushId: true,
+      profileImageUrl: ''
+    }
+  }
+}
+[2021-05-22 15:50:49.856] [debug] activity render
+[2021-05-22 15:50:51.691] [debug] **[overlay]  { type: 'SHOW_SORT_OPTION', value: false }
+[2021-05-22 15:50:51.693] [debug] **[overlay]  { type: 'HIDE_CONTEXT_MENU' }
+[2021-05-22 15:50:52.973] [debug] **[overlay]  { type: 'HIDE_CONTEXT_MENU' }
+[2021-05-22 15:50:52.982] [debug] **[overlay]  { type: 'SHOW_OVERLAY_PROGRESS', value: true }
+[2021-05-22 15:51:01.887] [debug] **[overlay]  { type: 'CONTENT_TYPE', value: 'activity' }
+[2021-05-22 15:51:01.889] [debug] **[overlay]  { type: 'SHOW_RECEIVE_FILE_LIST', value: false }
+[2021-05-22 15:51:01.892] [debug] **[overlay]  { type: 'SHOW_OVERLAY_PROGRESS', value: false }
+[2021-05-22 15:51:01.894] [debug] **[overlay]  { type: 'RECEIVE_KEY', value: '' }
+[2021-05-22 15:51:01.895] [debug] **[overlay]  {
+  type: 'SET_TRANSFER_SIZE',
+  transferred: { '87a803a7-dfb3-40c6-8eee-882627a46ef4': 0 },
+  fileTransferred: {},
+  remainTime: { '87a803a7-dfb3-40c6-8eee-882627a46ef4': 0 }
+}
+[2021-05-22 15:51:01.897] [debug] **[overlay]  { type: 'SET_TORRENT_CHECKING', checking: {} }
+[2021-05-22 15:51:01.898] [debug] **[overlay]  {
+  type: 'REMOVE_TRANSFER_INFO',
+  value: '627bb608-9e90-4b00-832a-f94947aa936a'
+}
+[2021-05-22 15:51:01.898] [debug] **[overlay]  { type: 'HISTORY_NOTI_STATE', value: false }
+[2021-05-22 15:51:01.899] [debug] activity render
+[2021-05-22 15:51:01.903] [debug] **[overlay]  {
+  type: 'ADD_TRANSFER_INFO',
+  value: '87a803a7-dfb3-40c6-8eee-882627a46ef4'
+}
+[2021-05-22 15:51:01.904] [debug] **[overlay]  { type: 'HISTORY_NOTI_STATE', value: false }
+[2021-05-22 15:51:01.904] [debug] activity render
+[2021-05-22 15:51:02.207] [debug] **[overlay]  {
+  type: 'SET_DEVICE_INFOS',
+  value: {
+    '8882546165659': {
+      deviceId: '8882546165659',
+      profileName: 'Nathan’s iPhone',
+      deviceName: 'Apple iPhone13,2',
+      safeName: 'Nathan’s iPhone',
+      osType: 'ios',
+      hasPushId: true,
+      profileImageUrl: ''
+    }
+  }
+}
+[2021-05-22 15:51:02.210] [debug] activity render
+[2021-05-22 15:51:02.409] [debug] **[overlay]  {
+  type: 'SET_TRANSFER_SIZE',
+  transferred: { '87a803a7-dfb3-40c6-8eee-882627a46ef4': 1339106 },
+  fileTransferred: {
+    '/home/taz/Downloads/IMG_2051.PNG': 388956,
+    '/home/taz/Downloads/IMG_2054.PNG': 395173,
+    '/home/taz/Downloads/IMG_2053.PNG': 327864,
+    '/home/taz/Downloads/IMG_2052.PNG': 227113
+  },
+  remainTime: { '87a803a7-dfb3-40c6-8eee-882627a46ef4': 0 }
+}
+[2021-05-22 15:51:02.428] [debug] **[overlay]  { type: 'SET_TORRENT_CHECKING', checking: {} }
+[2021-05-22 15:51:02.913] [debug] **[overlay]  {
+  type: 'SET_TRANSFER_THUMBNAIL',
+  path: '/home/taz/Downloads/IMG_2051.PNG',
+  value: '/home/taz/.config/SendAnywhere/thumb/9bd0db171d0378cdccc7dc0075e62410.PNG'
+}
+[2021-05-22 15:51:02.918] [debug] **[overlay]  { type: 'SHOW_IN_APP_RECEIVE_AD', value: true }
+[2021-05-22 15:51:02.957] [debug] **[overlay]  {
+  type: 'CHANGE_TRANSFER_INFO',
+  value: '87a803a7-dfb3-40c6-8eee-882627a46ef4'
+}
+[2021-05-22 15:51:03.259] [debug] **[overlay]  {
+  type: 'SET_DEVICE_INFOS',
+  value: {
+    '8882546165659': {
+      deviceId: '8882546165659',
+      profileName: 'Nathan’s iPhone',
+      deviceName: 'Apple iPhone13,2',
+      safeName: 'Nathan’s iPhone',
+      osType: 'ios',
+      hasPushId: true,
+      profileImageUrl: ''
+    }
+  }
+}
+[2021-05-22 15:51:03.260] [debug] activity render
+[2021-05-22 15:51:03.318] [debug] **[overlay]  {
+  type: 'SET_TRANSFER_SIZE',
+  transferred: { '87a803a7-dfb3-40c6-8eee-882627a46ef4': 1504631 },
+  fileTransferred: { '/home/taz/Downloads/IMG_2053.PNG': 493389 },
+  remainTime: { '87a803a7-dfb3-40c6-8eee-882627a46ef4': 0 }
+}
+[2021-05-22 15:51:03.319] [debug] **[overlay]  { type: 'SET_TORRENT_CHECKING', checking: {} }
+[2021-05-22 15:51:03.838] [debug] **[overlay]  {
+  type: 'CHANGE_TRANSFER_INFO',
+  value: '87a803a7-dfb3-40c6-8eee-882627a46ef4'
+}
+[2021-05-22 15:51:04.143] [debug] **[overlay]  {
+  type: 'SET_DEVICE_INFOS',
+  value: {
+    '8882546165659': {
+      deviceId: '8882546165659',
+      profileName: 'Nathan’s iPhone',
+      deviceName: 'Apple iPhone13,2',
+      safeName: 'Nathan’s iPhone',
+      osType: 'ios',
+      hasPushId: true,
+      profileImageUrl: ''
+    }
+  }
+}
+[2021-05-22 15:51:04.146] [debug] activity render
+[2021-05-22 15:51:05.442] [debug] **[overlay]  {
+  type: 'SET_CONTEXT_MENU',
+  value: {
+    type: 'activity',
+    tailHidden: true,
+    data: {
+      type: 'history',
+      state: 'PAPRIKA_STATE_FINISHED',
+      detailedState: 'PAPRIKA_DETAILED_STATE_FINISHED_SUCCESS',
+      myDeviceId: '5466870471452',
+      deviceId: '8882546165659',
+      key: '8882546165659:ZZBBVK34',
+      link: '',
+      peerState: 0,
+      transferId: '87a803a7-dfb3-40c6-8eee-882627a46ef4',
+      transferType: 4,
+      transferMode: 2,
+      expireTime: 1621864188,
+      startedTime: 1621691453.022,
+      finishedTime: 1621691463.317,
+      transferredSize: 1504631,
+      totalFileSize: 1503831,
+      isSender: false,
+      isSucceed: true,
+      isExpired: false,
+      isResumable: false,
+      isRunning: false,
+      isCanceled: false,
+      isCanceledByOpponent: 0,
+      isEnableToLink: true,
+      status: 1,
+      fileInfos: [Array],
+      filePaths: [Array],
+      fileCount: 4,
+      useStorage: null
+    },
+    x: 365,
+    y: 175,
+    offset: 15,
+    items: [ [Object], [Object] ]
+  }
+}
+[2021-05-22 15:51:05.446] [debug] **[overlay]  { type: 'SELECT_SPECIFIC_DEVICE', value: false }
+[2021-05-22 15:51:05.448] [debug] **[overlay]  { type: 'SHOW_SORT_OPTION', value: false }
+[2021-05-22 15:51:06.761] [debug] **[overlay]  {
+  type: 'SET_FILES_INFO_LIST',
+  value: [
+    {
+      file: 'IMG_2051.PNG',
+      path: '/home/taz/Downloads/IMG_2051.PNG',
+      size: 388756,
+      status: 'Completed'
+    },
+    {
+      file: 'IMG_2052.PNG',
+      path: '/home/taz/Downloads/IMG_2052.PNG',
+      size: 226913,
+      status: 'Completed'
+    },
+    {
+      file: 'IMG_2053.PNG',
+      path: '/home/taz/Downloads/IMG_2053.PNG',
+      size: 493189,
+      status: 'Completed'
+    },
+    {
+      file: 'IMG_2054.PNG',
+      path: '/home/taz/Downloads/IMG_2054.PNG',
+      size: 394973,
+      status: 'Completed'
+    }
+  ],
+  date: 1621691453.022,
+  deviceId: '5466870471452',
+  key: '8882546165659:ZZBBVK34'
+}
+[2021-05-22 15:51:06.763] [debug] **[overlay]  { type: 'SHOW_FILES_INFORMATION', value: true }
+[2021-05-22 15:51:06.764] [debug] **[overlay]  { type: 'HIDE_CONTEXT_MENU' }
+[2021-05-22 15:51:06.767] [debug] **[overlay]  { type: 'HIDE_CONTEXT_MENU' }
+[2021-05-22 15:51:08.341] [debug] **[overlay]  { type: 'HIDE_CONTEXT_MENU' }
+[2021-05-22 15:51:35.424] [debug] **[overlay]  { type: 'SHOW_FILES_INFORMATION', value: false }
+[2021-05-22 15:51:37.841] [debug] **[overlay]  { type: 'SHOW_SORT_OPTION', value: false }
+[2021-05-22 15:51:37.848] [debug] **[overlay]  { type: 'HIDE_CONTEXT_MENU' }
+[2021-05-22 15:51:38.328] [debug] **[overlay]  { type: 'HIDE_CONTEXT_MENU' }

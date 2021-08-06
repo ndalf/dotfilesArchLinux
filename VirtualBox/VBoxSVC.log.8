@@ -1,0 +1,44 @@
+00:00:00.001702 main     VirtualBox XPCOM Server 6.1.22 r144080 linux.amd64 (May 11 2021 19:59:25) release log
+00:00:00.001706 main     Log opened 2021-07-26T15:45:57.447423000Z
+00:00:00.001707 main     Build Type: release
+00:00:00.001710 main     OS Product: Linux
+00:00:00.001711 main     OS Release: 5.9.16-1-MANJARO
+00:00:00.001711 main     OS Version: #1 SMP PREEMPT Mon Dec 21 22:00:46 UTC 2020
+00:00:00.001736 main     DMI Product Name: XPS 13 9310
+00:00:00.001745 main     DMI Product Version: 
+00:00:00.001750 main     Firmware type: UEFI
+00:00:00.002931 main     Secure Boot: Disabled
+00:00:00.002978 main     Host RAM: 15741MB (15.3GB) total, 14838MB (14.4GB) available
+00:00:00.002982 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.002982 main     Process ID: 2930
+00:00:00.002983 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.005088 main     IPC socket path: /tmp/.vbox-taz-ipc/ipcd
+00:00:00.120124 nspr-2   VirtualBox: object creation starts
+00:00:00.120271 nspr-2   Home directory: '/home/taz/.config/VirtualBox'
+00:00:00.120850 nspr-2   Loading settings file "/home/taz/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.134295 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp0s20f3: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.135551 nspr-2   HostDnsMonitor: initializing
+00:00:00.135864 nspr-2   NAT: resolv.conf: nameserver 172.20.10.1
+00:00:00.135889 nspr-2   HostDnsMonitor: updating information
+00:00:00.135909 nspr-2   HostDnsMonitor: old information
+00:00:00.135913 nspr-2     no server entries
+00:00:00.135916 nspr-2     no domain set
+00:00:00.135918 nspr-2     no search string entries
+00:00:00.135921 nspr-2   HostDnsMonitor: new information
+00:00:00.135924 nspr-2     server 1: 172.20.10.1
+00:00:00.135928 nspr-2     no domain set
+00:00:00.135931 nspr-2     no search string entries
+00:00:00.140864 nspr-2   VD: VDInit finished with VINF_SUCCESS
+00:00:00.149495 nspr-2   Loading settings file "/home/taz/VirtualBox VMs/cape_ubuntu20.04-x64/cape_ubuntu20.04-x64.vbox" with version "1.17-linux"
+00:00:00.150909 nspr-2   Loading settings file "/home/taz/VirtualBox VMs/win10-x64_analysis/win10-x64_analysis.vbox" with version "1.15-linux"
+00:00:00.153045 nspr-2   VirtualBox: object created
+00:00:00.165953 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp0s20f3: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:05.168071 main     VirtualBox: object deletion starts
+00:00:05.168151 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/taz/VirtualBox VMs/cape_ubuntu20.04-x64/cape_ubuntu20.04-x64.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:00:05.168379 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/taz/VirtualBox VMs/win10-x64_analysis/Snapshots/{80786cb6-2b32-4745-97c2-6a643789d9df}.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:00:05.168399 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/taz/VirtualBox VMs/win10-x64_analysis/win10-x64_analysis.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:00:05.168936 main     HostDnsMonitor: shutting down ...
+00:00:05.176536 main     HostDnsMonitor: shut down
+00:00:05.655277 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:10.176783 main     {00007f3c60018fe0} HostPowerServiceLinux::~HostPowerServiceLinux: RTThreadWait() for 5000 ms failed with VERR_TIMEOUT
+00:00:10.180765 main     VirtualBox: object deleted

@@ -1,0 +1,11 @@
+.react-json-view .object-size {
+	user-select: none !important;
+}
+
+/* while this does add commas at the end of values so it looks like you
+   can copy out valid json, css psuedo-elements are not selectable, so
+	 these commas don't get copied :-( */
+/* .react-json-view .variable-value::after {
+	content: ",";
+} */
+

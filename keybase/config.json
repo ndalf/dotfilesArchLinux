@@ -1,0 +1,14 @@
+{
+    "current_user": "natzzzz",
+    "mountdir": "/run/user/1000/keybase/kbfs",
+    "mountdirdefault": "/run/user/1000/keybase/kbfs",
+    "users": {
+        "natzzzz": {
+            "device": "e467dd0e2670e20dea80171b2c381e18",
+            "id": "82832f3f124ef1c0fd0e3d894091f119",
+            "name": "natzzzz",
+            "passphrase_state": 0,
+            "salt": "a1815cc534f97f5bb9e8362bc9329cf1"
+        }
+    }
+}

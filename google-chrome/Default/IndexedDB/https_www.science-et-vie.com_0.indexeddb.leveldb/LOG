@@ -1,0 +1,5 @@
+2021/04/13-18:07:06.726 178ef Reusing MANIFEST /home/taz/.config/google-chrome/Default/IndexedDB/https_www.science-et-vie.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/13-18:07:54.105 178ef Level-0 table #5: started
+2021/04/13-18:07:54.106 178ef Level-0 table #5: 2139 bytes OK
+2021/04/13-18:07:54.107 178ef Delete type=0 #3
+2021/04/13-18:07:54.107 178ef Manual compaction at level-0 from (begin) .. (end); will stop at (end)

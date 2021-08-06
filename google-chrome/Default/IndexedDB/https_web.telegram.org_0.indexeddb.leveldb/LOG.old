@@ -1,0 +1,15 @@
+2021/07/25-15:47:36.154 c20d Reusing MANIFEST /home/taz/.config/google-chrome/Default/IndexedDB/https_web.telegram.org_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/25-15:47:36.154 c20d Recovering log #36
+2021/07/25-15:47:36.154 c20d Reusing old log /home/taz/.config/google-chrome/Default/IndexedDB/https_web.telegram.org_0.indexeddb.leveldb/000036.log 
+2021/07/25-15:48:08.160 c20c Level-0 table #41: started
+2021/07/25-15:48:08.161 c20c Level-0 table #41: 190 bytes OK
+2021/07/25-15:48:08.163 c20c Delete type=0 #36
+2021/07/25-15:48:08.163 c20c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/07/25-15:48:08.163 c20c Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 2468 : 1
+2021/07/25-15:48:08.163 c20c Compacting 1@1 + 1@2 files
+2021/07/25-15:48:08.164 c20c Generated table #42@1: 106 keys, 4406 bytes
+2021/07/25-15:48:08.164 c20c Compacted 1@1 + 1@2 files => 4406 bytes
+2021/07/25-15:48:08.166 c20c compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/25-15:48:08.166 c20c Delete type=2 #41
+2021/07/25-15:48:08.166 c20c Delete type=2 #38
+2021/07/25-15:48:08.166 c20c Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 2468 : 1 .. (end); will stop at (end)

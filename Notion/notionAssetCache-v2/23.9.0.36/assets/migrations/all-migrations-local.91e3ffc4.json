@@ -1,0 +1,613 @@
+{
+	"endSchema": {
+		"pragmas": {
+			"user_version": 12
+		},
+		"tables": {
+			"notion": {
+				"info": {
+					"type": "table",
+					"sql": "CREATE TABLE notion (id integer primary key, key unique, value)",
+					"name": "notion",
+					"tbl_name": "notion"
+				},
+				"columns": [
+					{
+						"cid": 0,
+						"name": "id",
+						"type": "integer",
+						"notnull": 0,
+						"dflt_value": null,
+						"pk": 1
+					},
+					{
+						"cid": 1,
+						"name": "key",
+						"type": "",
+						"notnull": 0,
+						"dflt_value": null,
+						"pk": 0
+					},
+					{
+						"cid": 2,
+						"name": "value",
+						"type": "",
+						"notnull": 0,
+						"dflt_value": null,
+						"pk": 0
+					}
+				]
+			},
+			"key_value_store": {
+				"info": {
+					"type": "table",
+					"sql": "CREATE TABLE key_value_store (id INTEGER PRIMARY KEY, key TEXT UNIQUE, value TEXT)",
+					"name": "key_value_store",
+					"tbl_name": "key_value_store"
+				},
+				"columns": [
+					{
+						"cid": 0,
+						"name": "id",
+						"type": "INTEGER",
+						"notnull": 0,
+						"dflt_value": null,
+						"pk": 1
+					},
+					{
+						"cid": 1,
+						"name": "key",
+						"type": "TEXT",
+						"notnull": 0,
+						"dflt_value": null,
+						"pk": 0
+					},
+					{
+						"cid": 2,
+						"name": "value",
+						"type": "TEXT",
+						"notnull": 0,
+						"dflt_value": null,
+						"pk": 0
+					}
+				]
+			},
+			"transactions": {
+				"info": {
+					"type": "table",
+					"sql": "CREATE TABLE transactions (\nid TEXT PRIMARY KEY,\nvalue TEXT\n, user_id TEXT)",
+					"name": "transactions",
+					"tbl_name": "transactions"
+				},
+				"columns": [
+					{
+						"cid": 0,
+						"name": "id",
+						"type": "TEXT",
+						"notnull": 0,
+						"dflt_value": null,
+						"pk": 1
+					},
+					{
+						"cid": 1,
+						"name": "value",
+						"type": "TEXT",
+						"notnull": 0,
+						"dflt_value": null,
+						"pk": 0
+					},
+					{
+						"cid": 2,
+						"name": "user_id",
+						"type": "TEXT",
+						"notnull": 0,
+						"dflt_value": null,
+						"pk": 0
+					}
+				]
+			},
+			"records": {
+				"info": {
+					"type": "table",
+					"sql": "CREATE TABLE records (\nrecord_table TEXT,\nrecord_id TEXT,\nrecord_value TEXT,\ntimestamp NUMERIC,\nparent_table TEXT,\nparent_id TEXT,\nimportance NUMERIC,\nuser_id TEXT, is_offline, space_id TEXT,\nCONSTRAINT primary_key PRIMARY KEY (record_table, record_id, user_id)\n)",
+					"name": "records",
+					"tbl_name": "records"
+				},
+				"columns": [
+					{
+						"cid": 0,
+						"name": "record_table",
+						"type": "TEXT",
+						"notnull": 0,
+						"dflt_value": null,
+						"pk": 1
+					},
+					{
+						"cid": 1,
+						"name": "record_id",
+						"type": "TEXT",
+						"notnull": 0,
+						"dflt_value": null,
+						"pk": 2
+					},
+					{
+						"cid": 2,
+						"name": "record_value",
+						"type": "TEXT",
+						"notnull": 0,
+						"dflt_value": null,
+						"pk": 0
+					},
+					{
+						"cid": 3,
+						"name": "timestamp",
+						"type": "NUMERIC",
+						"notnull": 0,
+						"dflt_value": null,
+						"pk": 0
+					},
+					{
+						"cid": 4,
+						"name": "parent_table",
+						"type": "TEXT",
+						"notnull": 0,
+						"dflt_value": null,
+						"pk": 0
+					},
+					{
+						"cid": 5,
+						"name": "parent_id",
+						"type": "TEXT",
+						"notnull": 0,
+						"dflt_value": null,
+						"pk": 0
+					},
+					{
+						"cid": 6,
+						"name": "importance",
+						"type": "NUMERIC",
+						"notnull": 0,
+						"dflt_value": null,
+						"pk": 0
+					},
+					{
+						"cid": 7,
+						"name": "user_id",
+						"type": "TEXT",
+						"notnull": 0,
+						"dflt_value": null,
+						"pk": 3
+					},
+					{
+						"cid": 8,
+						"name": "is_offline",
+						"type": "",
+						"notnull": 0,
+						"dflt_value": null,
+						"pk": 0
+					},
+					{
+						"cid": 9,
+						"name": "space_id",
+						"type": "TEXT",
+						"notnull": 0,
+						"dflt_value": null,
+						"pk": 0
+					}
+				]
+			},
+			"offline_root": {
+				"info": {
+					"type": "table",
+					"sql": "CREATE TABLE offline_root (\nuser_id TEXT NOT NULL,\nrecord_table TEXT NOT NULL,\nrecord_id TEXT NOT NULL,\nCONSTRAINT primary_key PRIMARY KEY (record_table, record_id, user_id)\n)",
+					"name": "offline_root",
+					"tbl_name": "offline_root"
+				},
+				"columns": [
+					{
+						"cid": 0,
+						"name": "user_id",
+						"type": "TEXT",
+						"notnull": 1,
+						"dflt_value": null,
+						"pk": 3
+					},
+					{
+						"cid": 1,
+						"name": "record_table",
+						"type": "TEXT",
+						"notnull": 1,
+						"dflt_value": null,
+						"pk": 1
+					},
+					{
+						"cid": 2,
+						"name": "record_id",
+						"type": "TEXT",
+						"notnull": 1,
+						"dflt_value": null,
+						"pk": 2
+					}
+				]
+			}
+		},
+		"indexes": {
+			"sqlite_autoindex_notion_1": {
+				"info": {
+					"type": "index",
+					"sql": null,
+					"name": "sqlite_autoindex_notion_1",
+					"tbl_name": "notion"
+				},
+				"columns": [
+					{
+						"name": "key",
+						"cid": 1,
+						"seqno": 0
+					}
+				]
+			},
+			"sqlite_autoindex_key_value_store_1": {
+				"info": {
+					"type": "index",
+					"sql": null,
+					"name": "sqlite_autoindex_key_value_store_1",
+					"tbl_name": "key_value_store"
+				},
+				"columns": [
+					{
+						"name": "key",
+						"cid": 1,
+						"seqno": 0
+					}
+				]
+			},
+			"sqlite_autoindex_transactions_1": {
+				"info": {
+					"type": "index",
+					"sql": null,
+					"name": "sqlite_autoindex_transactions_1",
+					"tbl_name": "transactions"
+				},
+				"columns": [
+					{
+						"name": "id",
+						"cid": 0,
+						"seqno": 0
+					}
+				]
+			},
+			"sqlite_autoindex_records_1": {
+				"info": {
+					"type": "index",
+					"sql": null,
+					"name": "sqlite_autoindex_records_1",
+					"tbl_name": "records"
+				},
+				"columns": [
+					{
+						"name": "record_table",
+						"cid": 0,
+						"seqno": 0
+					},
+					{
+						"name": "record_id",
+						"cid": 1,
+						"seqno": 1
+					},
+					{
+						"name": "user_id",
+						"cid": 7,
+						"seqno": 2
+					}
+				]
+			},
+			"transactions_user_id": {
+				"info": {
+					"type": "index",
+					"sql": "CREATE INDEX transactions_user_id ON transactions (user_id)",
+					"name": "transactions_user_id",
+					"tbl_name": "transactions"
+				},
+				"columns": [
+					{
+						"name": "user_id",
+						"cid": 2,
+						"seqno": 0
+					}
+				]
+			},
+			"sqlite_autoindex_offline_root_1": {
+				"info": {
+					"type": "index",
+					"sql": null,
+					"name": "sqlite_autoindex_offline_root_1",
+					"tbl_name": "offline_root"
+				},
+				"columns": [
+					{
+						"name": "record_table",
+						"cid": 1,
+						"seqno": 0
+					},
+					{
+						"name": "record_id",
+						"cid": 2,
+						"seqno": 1
+					},
+					{
+						"name": "user_id",
+						"cid": 0,
+						"seqno": 2
+					}
+				]
+			},
+			"record_lru_deletion_order": {
+				"info": {
+					"type": "index",
+					"sql": "CREATE INDEX record_lru_deletion_order ON records (is_offline, importance, timestamp)",
+					"name": "record_lru_deletion_order",
+					"tbl_name": "records"
+				},
+				"columns": [
+					{
+						"name": "is_offline",
+						"cid": 8,
+						"seqno": 0
+					},
+					{
+						"name": "importance",
+						"cid": 6,
+						"seqno": 1
+					},
+					{
+						"name": "timestamp",
+						"cid": 3,
+						"seqno": 2
+					}
+				]
+			},
+			"record_parent": {
+				"info": {
+					"type": "index",
+					"sql": "CREATE INDEX record_parent ON records (parent_id, user_id)",
+					"name": "record_parent",
+					"tbl_name": "records"
+				},
+				"columns": [
+					{
+						"name": "parent_id",
+						"cid": 5,
+						"seqno": 0
+					},
+					{
+						"name": "user_id",
+						"cid": 7,
+						"seqno": 1
+					}
+				]
+			}
+		}
+	},
+	"migrations": [
+		{
+			"id": 1,
+			"description": "ensure-existing-schema",
+			"statements": [
+				{
+					"sql": "create table if not exists notion (id integer primary key, key unique, value)"
+				},
+				{
+					"sql": "CREATE TABLE IF NOT EXISTS key_value_store (id INTEGER PRIMARY KEY, key TEXT UNIQUE, value TEXT)"
+				}
+			]
+		},
+		{
+			"id": 2,
+			"description": "indexed-record-cache-and-transactions",
+			"statements": [
+				{
+					"sql": "CREATE TABLE IF NOT EXISTS transactions (\n\tid TEXT PRIMARY KEY,\n\tvalue TEXT\n)"
+				},
+				{
+					"sql": "CREATE TABLE IF NOT EXISTS records (\n\trecord_table TEXT,\n\trecord_id TEXT,\n\trecord_value TEXT,\n\ttimestamp NUMERIC,\n\tparent_table TEXT,\n\tparent_id TEXT,\n\tCONSTRAINT primary_key PRIMARY KEY (record_table, record_id)\n)"
+				},
+				{
+					"sql": "CREATE INDEX record_lru_timestamp ON records (timestamp)"
+				},
+				{
+					"sql": "CREATE INDEX record_parent ON records (record_table, parent_table, parent_id)"
+				},
+				{
+					"sql": "INSERT INTO transactions (id, value)\nSELECT substr(key, 24), json_extract(value, '$.value') FROM notion\nWHERE key LIKE 'LocalTransactionStore3:%'"
+				}
+			]
+		},
+		{
+			"id": 3,
+			"description": "record-cache-importance",
+			"statements": [
+				{
+					"sql": "ALTER TABLE records ADD COLUMN importance NUMERIC"
+				},
+				{
+					"sql": "DROP INDEX record_lru_timestamp"
+				},
+				{
+					"sql": "CREATE INDEX record_lru_important_timestamp ON records (importance, timestamp)"
+				}
+			]
+		},
+		{
+			"id": 4,
+			"description": "add-user-id-column-to-records",
+			"statements": [
+				{
+					"sql": "DROP INDEX record_parent"
+				},
+				{
+					"sql": "DROP INDEX record_lru_important_timestamp"
+				},
+				{
+					"sql": "ALTER TABLE records RENAME TO previous_records"
+				},
+				{
+					"sql": "CREATE TABLE IF NOT EXISTS records (\n\trecord_table TEXT,\n\trecord_id TEXT,\n\trecord_value TEXT,\n\ttimestamp NUMERIC,\n\tparent_table TEXT,\n\tparent_id TEXT,\n\timportance NUMERIC,\n\tuser_id TEXT,\n\tCONSTRAINT primary_key PRIMARY KEY (record_table, record_id, user_id)\n)"
+				},
+				{
+					"sql": "INSERT INTO records (record_table, record_id, record_value, timestamp, parent_table, parent_id, importance)\nSELECT record_table, record_id, record_value, timestamp, parent_table, parent_id, importance FROM previous_records"
+				},
+				{
+					"sql": "DROP TABLE previous_records"
+				},
+				{
+					"sql": "CREATE INDEX record_parent ON records (record_table, parent_table, parent_id, user_id)"
+				},
+				{
+					"sql": "CREATE INDEX record_lru_important_timestamp ON records (importance, timestamp)"
+				},
+				{
+					"sql": "CREATE INDEX record_user_id ON records (user_id)"
+				}
+			]
+		},
+		{
+			"id": 5,
+			"description": "add-new-column-and-index-for-userid-to-transactions-table",
+			"statements": [
+				{
+					"sql": "ALTER TABLE transactions ADD COLUMN user_id TEXT"
+				},
+				{
+					"sql": "CREATE INDEX transactions_user_id ON transactions (user_id)"
+				}
+			]
+		},
+		{
+			"id": 6,
+			"description": "add-offline-tables",
+			"statements": [
+				{
+					"sql": "CREATE TABLE IF NOT EXISTS offline_root (\n    user_id TEXT NOT NULL,\n    record_table TEXT NOT NULL,\n    record_id TEXT NOT NULL,\n    CONSTRAINT primary_key PRIMARY KEY (record_table, record_id, user_id)\n)"
+				},
+				{
+					"sql": "CREATE TABLE IF NOT EXISTS offline_sync_parent (\n    user_id TEXT NOT NULL,\n    root_table TEXT NOT NULL,\n    root_id TEXT NOT NULL,\n    sync_parent_table TEXT NOT NULL,\n    sync_parent_id TEXT NOT NULL,\n    state TEXT NOT NULL,\n    last_updated_local_timestamp INTEGER NOT NULL,\n    last_synced_global_cursor TEXT,\n    CONSTRAINT primary_key PRIMARY KEY (sync_parent_table, sync_parent_id, user_id)\n)"
+				},
+				{
+					"sql": "CREATE INDEX offline_sync_parent_root ON offline_sync_parent (user_id, root_table, root_id)"
+				}
+			]
+		},
+		{
+			"id": 7,
+			"description": "add-offline-root-record-junction-table",
+			"statements": [
+				{
+					"sql": "CREATE TABLE IF NOT EXISTS offline_record_pointer (\n    user_id TEXT NOT NULL,\n    root_table TEXT NOT NULL,\n    root_id TEXT NOT NULL,\n    sync_parent_table TEXT NOT NULL,\n    sync_parent_id TEXT NOT NULL,\n    record_table TEXT NOT NULL,\n    record_id TEXT NOT NULL,\n    is_full_sync_in_progress NUMERIC NOT NULL,\n    CONSTRAINT primary_key PRIMARY KEY (user_id, root_id, sync_parent_id, record_id)\n)"
+				},
+				{
+					"sql": "CREATE INDEX record_id_idx ON offline_record_pointer (record_id)"
+				},
+				{
+					"sql": "CREATE INDEX root_id_idx ON offline_record_pointer (root_id)"
+				},
+				{
+					"sql": "CREATE INDEX sync_parent_id_idx ON offline_record_pointer (sync_parent_id, is_full_sync_in_progress)"
+				}
+			]
+		},
+		{
+			"id": 8,
+			"description": "add-offline-flag-to-records",
+			"statements": [
+				{
+					"sql": "ALTER TABLE records ADD COLUMN is_offline"
+				},
+				{
+					"sql": "DROP INDEX record_lru_important_timestamp"
+				},
+				{
+					"sql": "CREATE INDEX record_lru_deletion_order ON records (is_offline, importance, timestamp)"
+				}
+			]
+		},
+		{
+			"id": 9,
+			"description": "add-space-id-column-to-records",
+			"statements": [
+				{
+					"sql": "ALTER TABLE records ADD COLUMN space_id TEXT"
+				}
+			]
+		},
+		{
+			"id": 10,
+			"description": "restructure-record-parent-index",
+			"statements": [
+				{
+					"sql": "DROP INDEX IF EXISTS record_parent"
+				},
+				{
+					"sql": "DROP INDEX IF EXISTS record_user_id"
+				},
+				{
+					"sql": "CREATE INDEX record_user_parent_id ON records (user_id, parent_id, parent_table, record_table)"
+				}
+			]
+		},
+		{
+			"id": 11,
+			"description": "undo-record-parent-index-restructure",
+			"statements": [
+				{
+					"sql": "DROP INDEX IF EXISTS record_user_parent_id"
+				},
+				{
+					"sql": "CREATE INDEX IF NOT EXISTS record_parent ON records (parent_id, user_id)"
+				}
+			]
+		},
+		{
+			"id": 12,
+			"description": "remove-offline-tables",
+			"statements": [
+				{
+					"sql": "DROP TABLE IF EXISTS offline_record_pointer"
+				},
+				{
+					"sql": "DROP TABLE IF EXISTS offline_sync_parent"
+				}
+			]
+		}
+	],
+	"fastForward": {
+		"id": 12,
+		"description": "fast-forward-to-remove-offline-tables",
+		"statements": [
+			{
+				"sql": "CREATE TABLE notion (id integer primary key, key unique, value)"
+			},
+			{
+				"sql": "CREATE TABLE key_value_store (id INTEGER PRIMARY KEY, key TEXT UNIQUE, value TEXT)"
+			},
+			{
+				"sql": "CREATE TABLE transactions (\nid TEXT PRIMARY KEY,\nvalue TEXT\n, user_id TEXT)"
+			},
+			{
+				"sql": "CREATE TABLE records (\nrecord_table TEXT,\nrecord_id TEXT,\nrecord_value TEXT,\ntimestamp NUMERIC,\nparent_table TEXT,\nparent_id TEXT,\nimportance NUMERIC,\nuser_id TEXT, is_offline, space_id TEXT,\nCONSTRAINT primary_key PRIMARY KEY (record_table, record_id, user_id)\n)"
+			},
+			{
+				"sql": "CREATE TABLE offline_root (\nuser_id TEXT NOT NULL,\nrecord_table TEXT NOT NULL,\nrecord_id TEXT NOT NULL,\nCONSTRAINT primary_key PRIMARY KEY (record_table, record_id, user_id)\n)"
+			},
+			{
+				"sql": "CREATE INDEX transactions_user_id ON transactions (user_id)"
+			},
+			{
+				"sql": "CREATE INDEX record_lru_deletion_order ON records (is_offline, importance, timestamp)"
+			},
+			{
+				"sql": "CREATE INDEX record_parent ON records (parent_id, user_id)"
+			}
+		]
+	}
+}

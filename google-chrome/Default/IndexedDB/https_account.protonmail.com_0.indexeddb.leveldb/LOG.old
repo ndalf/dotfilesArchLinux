@@ -1,0 +1,7 @@
+2021/07/16-17:07:30.064 2c6b Reusing MANIFEST /home/taz/.config/google-chrome/Default/IndexedDB/https_account.protonmail.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/16-17:07:30.064 2c6b Recovering log #3
+2021/07/16-17:07:30.064 2c6b Reusing old log /home/taz/.config/google-chrome/Default/IndexedDB/https_account.protonmail.com_0.indexeddb.leveldb/000003.log 
+2021/07/16-17:07:32.193 2bc9 Level-0 table #5: started
+2021/07/16-17:07:32.194 2bc9 Level-0 table #5: 1375 bytes OK
+2021/07/16-17:07:32.195 2bc9 Delete type=0 #3
+2021/07/16-17:07:32.195 2bc9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

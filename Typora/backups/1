@@ -1,0 +1,86 @@
+# Core war - your new favorite game
+
+Last year while playing [r2con](http://rada.re/con) ctf, i saw some people playing an obscure assembly-like game I didn't understand at all. It actually wasn't assembly, it was Redcode, and the game was called Core War. 
+
+Here's how it works: two programs (called warriors) fight against each other in a small simulated memory space (called the core). 
+
+Each round, the warriors execute one instruction until one of them can't play anymore, for example because its instruction pointer got corrupted by the opponent. 
+
+At the beginning, each warrior is loaded into the core at a random address. There is no absolute address, thus you won't be able to specify a precise one, like 0x...... in the usual assembly languages. The core is a sort of array, in which there is no beginning and no end. In fact, if we wanted to represent what the core looked like, it would rather look like a sort of pipe, or a sphere. For your warrior, the address where it currently is will be 0, the next one will be 1 and the previous will be -1, and so on. 
+
+```wasm
+DAT.F $0, $0
+```
+
+The format is <source>, <destination>, like in x64 asm. Don't forget that, fellow x86 enthusiasts. 
+
+When you create your own warrior, there are 3 main strategies that you might use: 
+
+- **Rock**
+
+    Rock warriors try to take as much addresses in the middle of the core (it is statistically more likely that the opponent will spawn around the middle), hoping that it'll kill the other warrior quickly. 
+
+- **Paper**
+
+    Unlike the rock strategy, this one is trying to survive as much as possible, not to quickly kill its opponent. The most usual way to do this is by writing in as many addresses as it can. Remember the *spl* instruction will be very useful for this one. 
+
+- **Scissors**
+
+    Here's my fav one. It scans the core, trying to find occupied addresses. Once it finds an address where its opponent might be, it will bomb as much as it can around that address, hoping to kill it. Pretty badass, huh ? 
+
+Obviously, some of the strategies are better depending of who they are used against. 
+
+# Opcodes
+
+As in every assembly language, you have a lot of different opcodes, and every one of them serves a different purpose. You can have a look at all of them [here](https://esolangs.org/wiki/Redcode#Instructions). Some of them are also used in assembly, like mov, add, sub, mul, div, mod, jmp, jmz (equivalent to jz in asm), jmn (=jnz), cmp and nop. 
+
+You've certainly already used most of the above opcodes, but if you take a closer look at the full list, you'll see that the other half of these opcodes are completely unknown.
+
+### mov
+
+The mov operation will copy the instruction from the <source> to the <destination>. 
+
+Have a look at a very (very) simple warrior called *The Imp*. It only consists of a single instruction: 
+
+```assembly
+;name The Imp
+
+mov 0, 1
+```
+
+Yup, that's it. 
+
+The explanation will be pretty straightforward: it just copies the instruction of the address where it is (then 0) to the address just next (1). To be more clear: it copies itself into the next address. 
+
+## spl
+
+I had never seen such an opcode before playing this game. It would be actually totally useless in other situations, because we always have control over the instruction pointer. 
+
+The *spl* opcode is used to create separate processes, so that your code does two separate things. 
+
+<pre>
+                                ┌───┐  ┌───► ...
+                          ┌────►│spl├──┤
+                  ┌───┐   │     └───┘  └───► ...
+  ───── single ───┤spl├───┤
+        process   └───┘   │     ┌───┐  ┌───► ...
+                          └────►│spl├──┤
+                                └───┘  └───► ...
+
+
+Obviously, it'll only execute one instruction at a time, but it will alternate between its different processes. 
+
+```assembly
+warrior 1 -> Process A
+warrior 2 -> ...
+warrior 1 -> Process B
+warrior 2 -> ...
+warrior 1 -> Process A
+warrior 2 -> ...
+```
+
+
+
+# Ressources / references
+
+[The beginner's guide to redcode ]: https://vyznev.net/corewar/guide.html

@@ -1,0 +1,21 @@
+Error while parsing hooks JSON. Error: "ENOENT: no such file or directory, open '/home/taz/.config/Microsoft/Microsoft Teams/hooks.json'"
+(electron) The default value of app.allowRendererProcessReuse is deprecated, it is currently "false".  It will change to be "true" in Electron 9.  For more information please check https://github.com/electron/electron/issues/18397
+(node:2950) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 ecsSettingsUpdated listeners added to [EventEmitter]. Use emitter.setMaxListeners() to increase limit
+(node:2950) ProtocolDeprecateCallback: The callback argument of protocol module APIs is no longer needed.
+(node:2950) ProtocolDeprecateCallback: The callback argument of protocol module APIs is no longer needed.
+(node:2950) ProtocolDeprecateCallback: The callback argument of protocol module APIs is no longer needed.
+(node:2950) ProtocolDeprecateCallback: The callback argument of protocol module APIs is no longer needed.
+(node:2950) ProtocolDeprecateCallback: The callback argument of protocol module APIs is no longer needed.
+(node:2950) ProtocolDeprecateCallback: The callback argument of protocol module APIs is no longer needed.
+(node:2950) ProtocolDeprecateCallback: The callback argument of protocol module APIs is no longer needed.
+(node:2950) ProtocolDeprecateCallback: The callback argument of protocol module APIs is no longer needed.
+(node:2950) ProtocolDeprecateCallback: The callback argument of protocol module APIs is no longer needed.
+(node:2950) ProtocolDeprecateCallback: The callback argument of protocol module APIs is no longer needed.
+(node:2950) ProtocolDeprecateCallback: The callback argument of protocol module APIs is no longer needed.
+(node:2950) ProtocolDeprecateCallback: The callback argument of protocol module APIs is no longer needed.
+(node:2950) ProtocolDeprecateCallback: The callback argument of protocol module APIs is no longer needed.
+(node:2950) ProtocolDeprecateCallback: The callback argument of protocol module APIs is no longer needed.
+(node:2950) ProtocolDeprecateCallback: The callback argument of protocol module APIs is no longer needed.
+(node:2950) ProtocolDeprecateCallback: The callback argument of protocol module APIs is no longer needed.
+(node:2950) ProtocolDeprecateCallback: The callback argument of protocol module APIs is no longer needed.
+(node:2950) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 appInitialized listeners added to [EventEmitter]. Use emitter.setMaxListeners() to increase limit

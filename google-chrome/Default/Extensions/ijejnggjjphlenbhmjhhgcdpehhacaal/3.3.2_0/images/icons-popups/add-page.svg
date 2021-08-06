@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>your-image</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="18" height="14" rx="2"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="scrnli-popup-UI" transform="translate(-65.000000, -272.000000)">
+            <g id="your-image" transform="translate(66.000000, 273.000000)">
+                <path d="M24,19.6959756 L24,21 C24,22.6568542 22.6568542,24 21,24 L3,24 C1.34314575,24 0,22.6568542 0,21 L0,3 C0,1.34314575 1.34314575,0 3,0 L3,0 L21,0 C22.6568542,0 24,1.34314575 24,3 L24,13.6887584 L24,17.2757353" id="Path" stroke="#0096FE" fill="#FFFFFF" stroke-linecap="round"></path>
+                <g id="Path-2" transform="translate(3.000000, 3.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#B2DFFE" xlink:href="#path-1"></use>
+                    <polyline id="Path" stroke="#0096FE" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)" points="3.64074386 10.4132191 6.51079883 6.80930725 10.418651 10.3398928 13.0632795 8.21180912 19.3504518 15.3899051 -0.322550218 15.3899051 2.16548314 12.2656956"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

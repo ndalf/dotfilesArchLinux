@@ -1,0 +1,31 @@
+{
+   "api_console_project_id": "667105307243",
+   "app": {
+      "launch": {
+         "web_url": "https://cloud.mindjet.com"
+      },
+      "urls": [ "https://cloud.mindjet.com/" ]
+   },
+   "container": [ "GOOGLE_DRIVE" ],
+   "description": "The MindManager Viewer for for Google Drive™ allows you to view MindManager files stored in Google Drive right in your browser.",
+   "gdrive_mime_types": {
+      "http://drive.google.com/intents/opendrivedoc": [ {
+         "disposition": "window",
+         "href": "https://cloud.mindjet.com/",
+         "title": "Open",
+         "type": [ "application/x-zip", "application/octet-stream", "application/vnd.google.drive.ext-type.mmap", "application/vnd.google.drive.ext-type.xmmap", "application/vnd.google.drive.ext-type.mmas", "application/vnd.google.drive.ext-type.mmat" ]
+      } ]
+   },
+   "icons": {
+      "128": "icon_128x128.png",
+      "16": "icon_16x16.png",
+      "256": "icon_256x256.png",
+      "32": "icon_32x32.png",
+      "64": "icon_64x64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2OVOi7CQCjrlQgWMhmBBhhXXBlY23Kd8oP1Z2HqMwBQSKCfouuC748cz/YN2TOa7WpRgDw10cb+nOJMem/XyieFn9v7Q1+RukSXjuUUFjwN1+Bc9xEEMD9Qm2HMtQwMHKdgZ2OKyGmT6ZI4r33o9Y0COHnEf0ys2gjQqT+Yb23W1SjvTJXm0wN/0svqqr4FAFJTG4ebdYgVH+ID5K3zqLSxWIlgnV/nuIMj5LQM6hNMO0n9fOwfyKqtu6LnHNZYmOpVC1VWroWJqnRLTi57ZmCIgl3RYucs3KHcvQbPZJhKolNNFpLOyT1WuOkkSeApalnJx7YlItyQXoaW9Wjl9VwIDAQAB",
+   "manifest_version": 2,
+   "name": "MindManager Viewer ",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.4"
+}

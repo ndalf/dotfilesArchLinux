@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>010-toolbar-arrow</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="editor-icons-broken" transform="translate(-371.000000, -116.000000)">
+            <g id="010-toolbar-arrow" transform="translate(371.000000, 116.000000)">
+                <path d="M2.59951663,17.1099208 L6.65941977,13.0500177 M7.95951722,11.7499203 L17.6698042,2.03963325" id="Shape" stroke="#434343" stroke-linecap="round"></path>
+                <polygon id="Path-2" fill="#434343" points="19.7108609 0 11.7108609 2.62004334 17.0502013 8"></polygon>
+                <polygon id="Path-2-Copy" fill="#434343" transform="translate(4.000000, 15.496505) scale(-1, -1) translate(-4.000000, -15.496505) " points="8 11.4965049 0 14.1165482 5.33934041 19.4965049"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

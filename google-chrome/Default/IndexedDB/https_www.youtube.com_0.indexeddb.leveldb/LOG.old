@@ -1,0 +1,15 @@
+2021/07/25-17:50:57.066 134d8 Reusing MANIFEST /home/taz/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/25-17:50:57.066 134d8 Recovering log #555
+2021/07/25-17:50:57.070 134d8 Reusing old log /home/taz/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000555.log 
+2021/07/25-17:51:37.781 131a2 Level-0 table #561: started
+2021/07/25-17:51:37.786 131a2 Level-0 table #561: 273398 bytes OK
+2021/07/25-17:51:37.788 131a2 Delete type=0 #555
+2021/07/25-17:51:37.788 131a2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/07/25-17:51:37.788 131a2 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00R\x02\x02\x01\x14\x00s\x00h\x00e\x00l\x00l\x00_\x00i\x00d\x00e\x00n\x00t\x00i\x00f\x00i\x00e\x00r\x00_\x00k\x00e\x00y' @ 173864 : 1
+2021/07/25-17:51:37.788 131a2 Compacting 1@1 + 1@2 files
+2021/07/25-17:51:37.791 131a2 Generated table #562@1: 337 keys, 15731 bytes
+2021/07/25-17:51:37.791 131a2 Compacted 1@1 + 1@2 files => 15731 bytes
+2021/07/25-17:51:37.792 131a2 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/25-17:51:37.792 131a2 Delete type=2 #558
+2021/07/25-17:51:37.792 131a2 Delete type=2 #561
+2021/07/25-17:51:37.792 131a2 Manual compaction at level-1 from '\x00R\x02\x02\x01\x14\x00s\x00h\x00e\x00l\x00l\x00_\x00i\x00d\x00e\x00n\x00t\x00i\x00f\x00i\x00e\x00r\x00_\x00k\x00e\x00y' @ 173864 : 1 .. (end); will stop at (end)

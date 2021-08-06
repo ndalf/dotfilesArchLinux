@@ -1,0 +1,5 @@
+2021/05/20-10:09:23.137 1c779 Reusing MANIFEST /home/taz/.config/google-chrome/Default/IndexedDB/https_www.payscale.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/20-10:17:28.167 1d0f3 Level-0 table #5: started
+2021/05/20-10:17:28.169 1d0f3 Level-0 table #5: 56226 bytes OK
+2021/05/20-10:17:28.170 1d0f3 Delete type=0 #3
+2021/05/20-10:17:28.170 1d0f3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

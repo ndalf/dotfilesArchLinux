@@ -1,0 +1,17 @@
+2021/03/20-13:54:35.931 68ca Reusing MANIFEST /home/taz/.config/google-chrome/Default/IndexedDB/https_www.ol.fr_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/20-13:54:42.313 6902 Level-0 table #5: started
+2021/03/20-13:54:42.315 6902 Level-0 table #5: 548 bytes OK
+2021/03/20-13:54:42.317 6902 Delete type=0 #3
+2021/03/20-13:54:42.317 6902 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/03/20-13:54:44.325 68ca Level-0 table #7: started
+2021/03/20-13:54:44.326 68ca Level-0 table #7: 249 bytes OK
+2021/03/20-13:54:44.329 68ca Delete type=0 #4
+2021/03/20-13:54:44.329 68ca Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/03/20-13:54:44.330 68ca Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x002\x02\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 21 : 0
+2021/03/20-13:54:44.330 68ca Compacting 1@1 + 1@2 files
+2021/03/20-13:54:44.332 68ca Generated table #8@1: 5 keys, 237 bytes
+2021/03/20-13:54:44.332 68ca Compacted 1@1 + 1@2 files => 237 bytes
+2021/03/20-13:54:44.333 68ca compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/03/20-13:54:44.334 68ca Delete type=2 #5
+2021/03/20-13:54:44.334 68ca Delete type=2 #7
+2021/03/20-13:54:44.334 68ca Manual compaction at level-1 from '\x00\x00\x00\x002\x02\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 21 : 0 .. (end); will stop at (end)

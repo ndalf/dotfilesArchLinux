@@ -1,0 +1,8 @@
+2021/04/07-13:47:59.740 f0c6 Reusing MANIFEST /home/taz/.config/google-chrome/Default/IndexedDB/https_www.zdnet.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/07-13:47:59.740 f0c6 Recovering log #4
+2021/04/07-13:47:59.740 f0c6 Reusing old log /home/taz/.config/google-chrome/Default/IndexedDB/https_www.zdnet.com_0.indexeddb.leveldb/000004.log 
+2021/04/07-13:48:03.010 ecf4 Level-0 table #8: started
+2021/04/07-13:48:03.010 ecf4 Level-0 table #8: 0 bytes OK
+2021/04/07-13:48:03.013 ecf4 Delete type=0 #4
+2021/04/07-13:48:03.013 ecf4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/04/07-13:48:03.013 ecf4 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

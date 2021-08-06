@@ -1,0 +1,15 @@
+2021/05/12-17:52:55.389 3720 Reusing MANIFEST /home/taz/.config/google-chrome/Default/IndexedDB/https_eduepts.sharepoint.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/12-17:52:55.390 3720 Recovering log #26
+2021/05/12-17:52:55.390 3720 Reusing old log /home/taz/.config/google-chrome/Default/IndexedDB/https_eduepts.sharepoint.com_0.indexeddb.leveldb/000026.log 
+2021/05/12-17:53:42.116 3b10 Level-0 table #31: started
+2021/05/12-17:53:42.123 3b10 Level-0 table #31: 28491 bytes OK
+2021/05/12-17:53:42.125 3b10 Delete type=0 #26
+2021/05/12-17:53:42.125 3b10 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/05/12-17:53:42.125 3b10 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01 \x02\x00\xe0\x13\x82\x14\x96wB\x00\x01\x1a\x00/\x00_\x00l\x00a\x00y\x00o\x00u\x00t\x00s\x00/\x001\x005\x00/\x00o\x00n\x00e\x00d\x00r\x00i\x00v\x00e\x00.\x00a\x00s\x00p\x00x' @ 3907 : 1
+2021/05/12-17:53:42.125 3b10 Compacting 1@1 + 1@2 files
+2021/05/12-17:53:42.130 3b10 Generated table #32@1: 931 keys, 68101 bytes
+2021/05/12-17:53:42.130 3b10 Compacted 1@1 + 1@2 files => 68101 bytes
+2021/05/12-17:53:42.131 3b10 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/05/12-17:53:42.132 3b10 Delete type=2 #28
+2021/05/12-17:53:42.132 3b10 Delete type=2 #31
+2021/05/12-17:53:42.132 3b10 Manual compaction at level-1 from '\x00\x02\x01 \x02\x00\xe0\x13\x82\x14\x96wB\x00\x01\x1a\x00/\x00_\x00l\x00a\x00y\x00o\x00u\x00t\x00s\x00/\x001\x005\x00/\x00o\x00n\x00e\x00d\x00r\x00i\x00v\x00e\x00.\x00a\x00s\x00p\x00x' @ 3907 : 1 .. (end); will stop at (end)

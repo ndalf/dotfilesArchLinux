@@ -1,0 +1,15 @@
+2021/04/27-19:59:38.841 2e3d Reusing MANIFEST /home/taz/.config/google-chrome/Default/IndexedDB/https_euc-word-edit.officeapps.live.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/27-19:59:38.841 2e3d Recovering log #4
+2021/04/27-19:59:38.841 2e3d Reusing old log /home/taz/.config/google-chrome/Default/IndexedDB/https_euc-word-edit.officeapps.live.com_0.indexeddb.leveldb/000004.log 
+2021/04/27-20:16:46.611 3605 Level-0 table #8: started
+2021/04/27-20:16:46.613 3605 Level-0 table #8: 815 bytes OK
+2021/04/27-20:16:46.614 3605 Delete type=0 #4
+2021/04/27-20:16:46.615 3605 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/04/27-20:16:46.615 3605 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x00\x00\xc8\x0b\x00A\x00L\x00M\x00o\x00d\x00e\x00l\x00s\x00_\x00o\x00s' @ 16784 : 1
+2021/04/27-20:16:46.615 3605 Compacting 1@1 + 1@2 files
+2021/04/27-20:16:46.622 3605 Generated table #9@1: 30 keys, 687 bytes
+2021/04/27-20:16:46.622 3605 Compacted 1@1 + 1@2 files => 687 bytes
+2021/04/27-20:16:46.623 3605 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/04/27-20:16:46.623 3605 Delete type=2 #5
+2021/04/27-20:16:46.623 3605 Delete type=2 #8
+2021/04/27-20:16:46.624 3605 Manual compaction at level-1 from '\x00\x02\x00\x00\xc8\x0b\x00A\x00L\x00M\x00o\x00d\x00e\x00l\x00s\x00_\x00o\x00s' @ 16784 : 1 .. (end); will stop at (end)

@@ -1,0 +1,15 @@
+2021/04/26-15:43:11.527 9a03 Reusing MANIFEST /home/taz/.config/google-chrome/Default/IndexedDB/https_engage.wixapps.net_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/26-15:43:11.527 9a03 Recovering log #4
+2021/04/26-15:43:11.527 9a03 Reusing old log /home/taz/.config/google-chrome/Default/IndexedDB/https_engage.wixapps.net_0.indexeddb.leveldb/000004.log 
+2021/04/26-16:40:00.182 c6b9 Level-0 table #8: started
+2021/04/26-16:40:00.184 c6b9 Level-0 table #8: 5374 bytes OK
+2021/04/26-16:40:00.185 c6b9 Delete type=0 #4
+2021/04/26-16:40:00.185 c6b9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/04/26-16:40:00.185 c6b9 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01^\x00f\x00i\x00r\x00e\x00b\x00a\x00s\x00e\x00:\x00a\x00u\x00t\x00h\x00U\x00s\x00e\x00r\x00:\x00A\x00I\x00z\x00a\x00S\x00y\x00C\x00Q\x00-\x00J\x000\x00G\x00Y\x00e\x00l\x00a\x00W\x00_\x007\x00N\x00h\x00s\x00m\x00o\x00X\x006\x00V\x00X\x00D\x00K\x001\x00L\x00T\x00x\x00p\x008\x00y\x00P\x00c\x00:\x00f\x002\x002\x007\x002\x003\x004\x005\x00-\x005\x001\x006\x003\x00-\x004\x00c\x00c\x001\x00-\x009\x00a\x008\x004\x00-\x001\x000\x003\x007\x002\x008\x003\x006\x005\x001\x002\x004' @ 101 : 1
+2021/04/26-16:40:00.186 c6b9 Compacting 1@1 + 1@2 files
+2021/04/26-16:40:00.187 c6b9 Generated table #9@1: 21 keys, 5194 bytes
+2021/04/26-16:40:00.187 c6b9 Compacted 1@1 + 1@2 files => 5194 bytes
+2021/04/26-16:40:00.189 c6b9 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/04/26-16:40:00.190 c6b9 Delete type=2 #5
+2021/04/26-16:40:00.190 c6b9 Delete type=2 #8
+2021/04/26-16:40:00.190 c6b9 Manual compaction at level-1 from '\x00\x01\x01\x02\x01^\x00f\x00i\x00r\x00e\x00b\x00a\x00s\x00e\x00:\x00a\x00u\x00t\x00h\x00U\x00s\x00e\x00r\x00:\x00A\x00I\x00z\x00a\x00S\x00y\x00C\x00Q\x00-\x00J\x000\x00G\x00Y\x00e\x00l\x00a\x00W\x00_\x007\x00N\x00h\x00s\x00m\x00o\x00X\x006\x00V\x00X\x00D\x00K\x001\x00L\x00T\x00x\x00p\x008\x00y\x00P\x00c\x00:\x00f\x002\x002\x007\x002\x003\x004\x005\x00-\x005\x001\x006\x003\x00-\x004\x00c\x00c\x001\x00-\x009\x00a\x008\x004\x00-\x001\x000\x003\x007\x002\x008\x003\x006\x005\x001\x002\x004' @ 101 : 1 .. (end); will stop at (end)

@@ -1,0 +1,12 @@
+2021/07/27-21:03:14.914 ce9 Reusing MANIFEST /home/taz/.config/google-chrome/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/27-21:03:14.914 ce9 Recovering log #32
+2021/07/27-21:03:14.958 ce9 Reusing old log /home/taz/.config/google-chrome/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000032.log 
+2021/07/27-21:03:26.125 1024 Level-0 table #37: started
+2021/07/27-21:03:26.145 1024 Level-0 table #37: 1185431 bytes OK
+2021/07/27-21:03:26.147 1024 Delete type=0 #32
+2021/07/27-21:03:30.539 1024 Compacting 1@1 + 1@2 files
+2021/07/27-21:03:30.574 1024 Generated table #38@1: 8437 keys, 487183 bytes
+2021/07/27-21:03:30.574 1024 Compacted 1@1 + 1@2 files => 487183 bytes
+2021/07/27-21:03:30.575 1024 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/27-21:03:30.576 1024 Delete type=2 #37
+2021/07/27-21:03:30.576 1024 Delete type=2 #34

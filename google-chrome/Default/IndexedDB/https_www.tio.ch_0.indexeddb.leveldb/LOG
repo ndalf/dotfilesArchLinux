@@ -1,0 +1,9 @@
+2021/05/07-16:10:22.164 11cfb Reusing MANIFEST /home/taz/.config/google-chrome/Default/IndexedDB/https_www.tio.ch_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/07-16:10:22.218 11dee Level-0 table #5: started
+2021/05/07-16:10:22.219 11dee Level-0 table #5: 1232 bytes OK
+2021/05/07-16:10:22.223 11dee Delete type=0 #3
+2021/05/07-16:10:22.223 11dee Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/05/07-16:21:02.416 123b5 Level-0 table #7: started
+2021/05/07-16:21:02.417 123b5 Level-0 table #7: 2301 bytes OK
+2021/05/07-16:21:02.419 123b5 Delete type=0 #4
+2021/05/07-16:21:02.419 123b5 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

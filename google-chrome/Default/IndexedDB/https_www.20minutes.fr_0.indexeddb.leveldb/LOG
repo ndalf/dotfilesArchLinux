@@ -1,0 +1,5 @@
+2021/05/21-11:43:36.731 5ccc Reusing MANIFEST /home/taz/.config/google-chrome/Default/IndexedDB/https_www.20minutes.fr_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/21-11:44:25.361 5b91 Level-0 table #5: started
+2021/05/21-11:44:25.363 5b91 Level-0 table #5: 1821 bytes OK
+2021/05/21-11:44:25.364 5b91 Delete type=0 #3
+2021/05/21-11:44:25.364 5b91 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

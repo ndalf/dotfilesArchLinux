@@ -1,0 +1,5 @@
+2021/03/19-22:48:34.116 b185 Reusing MANIFEST /home/taz/.config/google-chrome/Default/IndexedDB/https_book.hacktricks.xyz_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/19-22:54:45.534 b681 Level-0 table #5: started
+2021/03/19-22:54:45.535 b681 Level-0 table #5: 1160 bytes OK
+2021/03/19-22:54:45.536 b681 Delete type=0 #3
+2021/03/19-22:54:45.536 b681 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

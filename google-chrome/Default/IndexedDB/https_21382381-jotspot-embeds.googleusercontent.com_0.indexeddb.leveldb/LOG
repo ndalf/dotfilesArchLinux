@@ -1,0 +1,8 @@
+2021/05/28-14:07:29.931 1fe2 Reusing MANIFEST /home/taz/.config/google-chrome/Default/IndexedDB/https_21382381-jotspot-embeds.googleusercontent.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/28-14:07:29.932 1fe2 Recovering log #4
+2021/05/28-14:07:29.932 1fe2 Reusing old log /home/taz/.config/google-chrome/Default/IndexedDB/https_21382381-jotspot-embeds.googleusercontent.com_0.indexeddb.leveldb/000004.log 
+2021/05/28-14:07:34.226 1a5b Level-0 table #8: started
+2021/05/28-14:07:34.226 1a5b Level-0 table #8: 0 bytes OK
+2021/05/28-14:07:34.231 1a5b Delete type=0 #4
+2021/05/28-14:07:34.231 1a5b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/05/28-14:07:34.231 1a5b Manual compaction at level-1 from (begin) .. (end); will stop at (end)

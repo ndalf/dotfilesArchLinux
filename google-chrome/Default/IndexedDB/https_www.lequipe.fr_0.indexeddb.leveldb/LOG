@@ -1,0 +1,5 @@
+2021/05/28-14:33:34.614 4919 Reusing MANIFEST /home/taz/.config/google-chrome/Default/IndexedDB/https_www.lequipe.fr_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/28-14:34:09.245 4b94 Level-0 table #5: started
+2021/05/28-14:34:09.250 4b94 Level-0 table #5: 5620 bytes OK
+2021/05/28-14:34:09.251 4b94 Delete type=0 #3
+2021/05/28-14:34:09.252 4b94 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

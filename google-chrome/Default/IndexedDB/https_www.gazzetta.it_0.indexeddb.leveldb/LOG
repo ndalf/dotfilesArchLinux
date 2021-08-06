@@ -1,0 +1,7 @@
+2021/05/28-14:53:37.643 5dea Reusing MANIFEST /home/taz/.config/google-chrome/Default/IndexedDB/https_www.gazzetta.it_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/28-14:53:37.643 5dea Recovering log #3
+2021/05/28-14:53:37.663 5dea Reusing old log /home/taz/.config/google-chrome/Default/IndexedDB/https_www.gazzetta.it_0.indexeddb.leveldb/000003.log 
+2021/05/28-15:04:17.572 6722 Level-0 table #5: started
+2021/05/28-15:04:17.584 6722 Level-0 table #5: 423230 bytes OK
+2021/05/28-15:04:17.588 6722 Delete type=0 #3
+2021/05/28-15:04:17.589 6722 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

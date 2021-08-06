@@ -1,0 +1,27 @@
+2021/06/13-21:33:32.373 37c3 Reusing MANIFEST /home/taz/.config/google-chrome/Default/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/13-21:33:32.374 37c3 Recovering log #65
+2021/06/13-21:33:32.380 37c3 Reusing old log /home/taz/.config/google-chrome/Default/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/000065.log 
+2021/06/13-21:33:35.964 3eff Level-0 table #71: started
+2021/06/13-21:33:35.975 3eff Level-0 table #71: 1647100 bytes OK
+2021/06/13-21:33:35.977 3eff Delete type=0 #65
+2021/06/13-21:33:36.083 3f08 Compacting 1@1 + 1@2 files
+2021/06/13-21:33:36.105 3f08 Generated table #72@1: 6902 keys, 2160374 bytes
+2021/06/13-21:33:36.116 3f08 Generated table #73@1: 1472 keys, 250929 bytes
+2021/06/13-21:33:36.116 3f08 Compacted 1@1 + 1@2 files => 2411303 bytes
+2021/06/13-21:33:36.117 3f08 compacted to: files[ 0 0 3 0 0 0 0 ]
+2021/06/13-21:33:36.117 3f08 Delete type=2 #71
+2021/06/13-21:33:36.117 3f08 Delete type=2 #67
+2021/06/13-21:49:25.868 48a2 Level-0 table #75: started
+2021/06/13-21:49:25.875 48a2 Level-0 table #75: 1050745 bytes OK
+2021/06/13-21:49:25.877 48a2 Delete type=0 #70
+2021/06/13-21:49:25.877 48a2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/06/13-21:49:25.877 48a2 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x08\x01\x02\x01\x1a\x00s\x00w\x00I\x00n\x00s\x00t\x00a\x00l\x00l\x00I\x00n\x00c\x00o\x00m\x00p\x00l\x00e\x00t\x00e\x00C\x00o\x00u\x00n\x00t\x00e\x00r' @ 94438 : 1
+2021/06/13-21:49:25.877 48a2 Compacting 1@1 + 2@2 files
+2021/06/13-21:49:25.898 48a2 Generated table #76@1: 7441 keys, 2166053 bytes
+2021/06/13-21:49:25.901 48a2 Generated table #77@1: 1150 keys, 368188 bytes
+2021/06/13-21:49:25.901 48a2 Compacted 1@1 + 2@2 files => 2534241 bytes
+2021/06/13-21:49:25.902 48a2 compacted to: files[ 0 0 3 0 0 0 0 ]
+2021/06/13-21:49:25.903 48a2 Delete type=2 #75
+2021/06/13-21:49:25.903 48a2 Delete type=2 #72
+2021/06/13-21:49:25.903 48a2 Delete type=2 #73
+2021/06/13-21:49:25.903 48a2 Manual compaction at level-1 from '\x00\x08\x01\x02\x01\x1a\x00s\x00w\x00I\x00n\x00s\x00t\x00a\x00l\x00l\x00I\x00n\x00c\x00o\x00m\x00p\x00l\x00e\x00t\x00e\x00C\x00o\x00u\x00n\x00t\x00e\x00r' @ 94438 : 1 .. (end); will stop at (end)

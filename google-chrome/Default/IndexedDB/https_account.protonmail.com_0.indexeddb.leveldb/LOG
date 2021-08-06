@@ -1,0 +1,15 @@
+2021/07/27-21:04:06.118 df6 Reusing MANIFEST /home/taz/.config/google-chrome/Default/IndexedDB/https_account.protonmail.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/27-21:04:06.118 df6 Recovering log #4
+2021/07/27-21:04:06.118 df6 Reusing old log /home/taz/.config/google-chrome/Default/IndexedDB/https_account.protonmail.com_0.indexeddb.leveldb/000004.log 
+2021/07/27-21:04:08.253 113a Level-0 table #8: started
+2021/07/27-21:04:08.255 113a Level-0 table #8: 597 bytes OK
+2021/07/27-21:04:08.257 113a Delete type=0 #4
+2021/07/27-21:04:08.257 113a Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/07/27-21:04:08.257 113a Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01(\x000\x005\x003\x005\x00b\x00b\x006\x00e\x008\x008\x001\x005\x008\x00e\x000\x008\x00f\x000\x007\x00e\x00a\x00a\x000\x004\x00a\x00c\x00b\x00a\x007\x00c\x00d\x004\x003\x007\x005\x00c\x00f\x00d\x004\x007' @ 79 : 1
+2021/07/27-21:04:08.257 113a Compacting 1@1 + 1@2 files
+2021/07/27-21:04:08.258 113a Generated table #9@1: 19 keys, 510 bytes
+2021/07/27-21:04:08.258 113a Compacted 1@1 + 1@2 files => 510 bytes
+2021/07/27-21:04:08.259 113a compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/27-21:04:08.259 113a Delete type=2 #5
+2021/07/27-21:04:08.259 113a Delete type=2 #8
+2021/07/27-21:04:08.260 113a Manual compaction at level-1 from '\x00\x01\x01\x02\x01(\x000\x005\x003\x005\x00b\x00b\x006\x00e\x008\x008\x001\x005\x008\x00e\x000\x008\x00f\x000\x007\x00e\x00a\x00a\x000\x004\x00a\x00c\x00b\x00a\x007\x00c\x00d\x004\x003\x007\x005\x00c\x00f\x00d\x004\x007' @ 79 : 1 .. (end); will stop at (end)

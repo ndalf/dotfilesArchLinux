@@ -1,0 +1,41 @@
+{
+   "background": {
+      "page": "pages/background.html",
+      "persistent": true
+   },
+   "browser_action": {
+      "default_icon": {
+         "16": "img/Logo-16x16.png",
+         "24": "img/Logo-24x24.png",
+         "32": "img/Logo-32x32.png"
+      },
+      "default_title": "Safe Doc"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "js/content.js" ],
+      "matches": [ "https://docs.google.com/*", "https://classroom.google.com/*", "https://drive.google.com/*", "https://mail.google.com/*", "https://hangouts.google.com/*", "https://www.google.com/*", "https://chat.google.com/*", "https://meet.google.com/*", "https://keep.google.com/*", "https://jamboard.google.com/*", "https://sites.google.com/d/*", "https://sites.google.com/u/*", "https://script.google.com/*" ],
+      "run_at": "document_start"
+   } ],
+   "content_security_policy": "script-src 'self' 'sha256-2Fz4HTDXPj+5BM1qWJ8xaWwEXWaR0BI5NR3+cvOV8ag='; object-src 'self';",
+   "description": "Protect your students with manageable Google Workspace for Education features",
+   "icons": {
+      "128": "img/Logo-128x128.png",
+      "16": "img/Logo-16x16.png",
+      "24": "img/Logo-24x24.png",
+      "32": "img/Logo-32x32.png",
+      "40": "img/Logo-40x40.png",
+      "48": "img/Logo-48x48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtF3aheLDFMgYsXmCbLuGbCYkJVU5W5fH+keOzvFS2FTOVVauWb+42yiE29AqI8BziOoCzEd350xmdEgzVH7ozz3R7q/PGYjCTY94IWrsliT8nEcCSJwh4uO22pXU8sCGJ5divEh5eLlR5cBnCEGBzJEkY1vl5g3gJ6yUVeRJT0oJZ27+dqSweG8ET4yxtXzK2a7uYIk/E2XRQAiS+hJJRQjXlG5trbc4fgBv2w0xIOeIw/P8YByizuHcQiC/ebUKwGFICl6RZ/mcsV0UWp1PeMUTZ29EgpWynvyrEQE4XM3A/nfmcEkJGDT1s+8dFBANhLhy7MmH9hsj65hogf0yEQIDAQAB",
+   "manifest_version": 2,
+   "name": "Safe Doc",
+   "optional_permissions": [ "notifications" ],
+   "permissions": [ "tabs", "storage", "identity", "alarms", "identity.email", "webRequest", "webRequestBlocking", "*://docs.google.com/", "*://drive.google.com/", "*://www.google.com/", "*://jamboard.google.com/" ],
+   "short_name": "Safe Doc",
+   "storage": {
+      "managed_schema": "schema.json"
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.33.6"
+}

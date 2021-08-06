@@ -1,0 +1,5 @@
+2021/06/04-10:31:38.002 5422 Reusing MANIFEST /home/taz/.config/google-chrome/Default/IndexedDB/https_lpcdn.lpsnmedia.net_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/04-10:31:40.789 5421 Level-0 table #5: started
+2021/06/04-10:31:40.794 5421 Level-0 table #5: 1066 bytes OK
+2021/06/04-10:31:40.796 5421 Delete type=0 #3
+2021/06/04-10:31:40.796 5421 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

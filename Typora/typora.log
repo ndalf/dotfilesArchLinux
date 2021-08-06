@@ -1,0 +1,587 @@
+INFO 4/16/2021, 1:05:41 PM  luanchFromDiffVersion, pre version is undefined
+INFO 4/16/2021, 1:05:41 PM  overwriteThemeFolder
+INFO 4/16/2021, 1:05:41 PM  ------------------start------------------
+INFO 4/16/2021, 1:05:41 PM  typora version: 0.9.98
+DEBUG 4/16/2021, 1:05:41 PM  [ '/usr/share/typora/Typora' ]
+INFO 4/16/2021, 1:05:41 PM  [Raven] instanceKey = 36c0cc0e-670a-48ff-aa9e-0fe5765a1254
+DEBUG 4/16/2021, 1:05:41 PM  app.openFile
+INFO 4/16/2021, 1:05:41 PM  [focus] 1
+INFO 4/16/2021, 1:05:41 PM  [Raven] userId = c82dee21-cb82-4656-938c-b3be4827ee2c
+INFO 4/16/2021, 1:05:41 PM  handle document.loadInitData
+INFO 4/16/2021, 1:05:42 PM  [blur] 1
+INFO 4/16/2021, 1:05:42 PM  [focus] 1
+INFO 4/16/2021, 1:06:27 PM  [blur] 1
+INFO 4/16/2021, 1:06:28 PM  ----------------before-quit-----------------
+INFO 4/16/2021, 1:06:29 PM  [focus] 1
+INFO 4/16/2021, 1:06:31 PM  ----------------before-quit-----------------
+INFO 4/16/2021, 1:06:31 PM  ------------------will-quit------------------
+INFO 4/16/2021, 1:11:52 PM  ------------------start------------------
+INFO 4/16/2021, 1:11:52 PM  typora version: 0.9.98
+DEBUG 4/16/2021, 1:11:52 PM  [ '/usr/share/typora/Typora', 'README.md' ]
+DEBUG 4/16/2021, 1:11:52 PM  app.openFile
+INFO 4/16/2021, 1:11:52 PM  addRecentDocument
+INFO 4/16/2021, 1:11:52 PM  [Raven] instanceKey = 6aa3663b-fb27-42d2-ba26-d8411d01123d
+INFO 4/16/2021, 1:11:52 PM  [focus] 1
+INFO 4/16/2021, 1:11:52 PM  [Raven] userId = c82dee21-cb82-4656-938c-b3be4827ee2c
+INFO 4/16/2021, 1:11:53 PM  handle document.loadInitData
+INFO 4/16/2021, 1:12:00 PM  ----------------before-quit-----------------
+INFO 4/16/2021, 1:12:00 PM  ------------------will-quit------------------
+INFO 4/16/2021, 1:13:42 PM  ------------------start------------------
+INFO 4/16/2021, 1:13:42 PM  typora version: 0.9.98
+DEBUG 4/16/2021, 1:13:42 PM  [ '/usr/share/typora/Typora', 'readme.md' ]
+DEBUG 4/16/2021, 1:13:42 PM  app.openFile
+INFO 4/16/2021, 1:13:42 PM  addRecentDocument
+INFO 4/16/2021, 1:13:42 PM  [Raven] instanceKey = 4c890f1c-18d8-4419-8a0a-79e5820cdf23
+INFO 4/16/2021, 1:13:42 PM  [focus] 1
+INFO 4/16/2021, 1:13:42 PM  [Raven] userId = c82dee21-cb82-4656-938c-b3be4827ee2c
+INFO 4/16/2021, 1:13:42 PM  handle document.loadInitData
+INFO 4/16/2021, 1:14:12 PM  ----------------before-quit-----------------
+INFO 4/16/2021, 1:14:12 PM  ------------------will-quit------------------
+INFO 4/16/2021, 1:15:26 PM  ------------------start------------------
+INFO 4/16/2021, 1:15:26 PM  typora version: 0.9.98
+DEBUG 4/16/2021, 1:15:26 PM  [ '/usr/share/typora/Typora', 'readme.md' ]
+DEBUG 4/16/2021, 1:15:26 PM  app.openFile
+INFO 4/16/2021, 1:15:26 PM  addRecentDocument
+INFO 4/16/2021, 1:15:26 PM  [Raven] instanceKey = 92cae0bc-1fb6-49db-be3b-b1eea9653a8b
+INFO 4/16/2021, 1:15:26 PM  [focus] 1
+INFO 4/16/2021, 1:15:26 PM  [Raven] userId = c82dee21-cb82-4656-938c-b3be4827ee2c
+INFO 4/16/2021, 1:15:27 PM  handle document.loadInitData
+INFO 4/16/2021, 1:16:07 PM  window.File && (function(){document.body.classList.remove("show-footer"),document.body.classList.add("hide-footer")})();
+INFO 4/16/2021, 1:16:21 PM  updateTheme
+INFO 4/16/2021, 1:16:24 PM  updateTheme
+INFO 4/16/2021, 1:16:31 PM  updateTheme
+INFO 4/16/2021, 1:17:35 PM  window.File && (function(){document.body.classList.add("show-footer"),document.body.classList.remove("hide-footer")})();
+INFO 4/16/2021, 1:17:39 PM  window.File && (function(){document.body.classList.remove("show-footer"),document.body.classList.add("hide-footer")})();
+INFO 4/16/2021, 1:19:15 PM  [blur] 1
+INFO 4/16/2021, 1:19:15 PM  ----------------before-quit-----------------
+INFO 4/16/2021, 1:19:15 PM  ----------------before-quit-----------------
+INFO 4/16/2021, 1:19:15 PM  ------------------will-quit------------------
+INFO 4/16/2021, 1:19:20 PM  ------------------start------------------
+INFO 4/16/2021, 1:19:20 PM  typora version: 0.9.98
+DEBUG 4/16/2021, 1:19:20 PM  [ '/usr/share/typora/Typora', 'readme.md' ]
+DEBUG 4/16/2021, 1:19:20 PM  app.openFile
+INFO 4/16/2021, 1:19:20 PM  addRecentDocument
+INFO 4/16/2021, 1:19:20 PM  [Raven] instanceKey = e8518817-62b1-480f-a147-4160a71e03a8
+INFO 4/16/2021, 1:19:20 PM  [focus] 1
+INFO 4/16/2021, 1:19:20 PM  [Raven] userId = c82dee21-cb82-4656-938c-b3be4827ee2c
+INFO 4/16/2021, 1:19:20 PM  handle document.loadInitData
+INFO 4/16/2021, 1:19:33 PM  [blur] 1
+INFO 4/16/2021, 1:19:40 PM  [focus] 1
+INFO 4/16/2021, 1:19:42 PM  ----------------before-quit-----------------
+INFO 4/16/2021, 1:19:42 PM  ------------------will-quit------------------
+INFO 4/16/2021, 1:19:48 PM  ------------------start------------------
+INFO 4/16/2021, 1:19:48 PM  typora version: 0.9.98
+DEBUG 4/16/2021, 1:19:48 PM  [ '/usr/share/typora/Typora', 'readme.md' ]
+DEBUG 4/16/2021, 1:19:48 PM  app.openFile
+INFO 4/16/2021, 1:19:48 PM  addRecentDocument
+INFO 4/16/2021, 1:19:48 PM  [Raven] instanceKey = c1017288-7e55-48df-8ebb-0eb4359e64f8
+INFO 4/16/2021, 1:19:48 PM  [focus] 1
+INFO 4/16/2021, 1:19:48 PM  [Raven] userId = c82dee21-cb82-4656-938c-b3be4827ee2c
+INFO 4/16/2021, 1:19:48 PM  handle document.loadInitData
+INFO 4/16/2021, 1:20:02 PM  window.File && (function(){document.body.classList.add("show-footer"),document.body.classList.remove("hide-footer")})();
+INFO 4/16/2021, 1:20:05 PM  window.File && (function(){document.body.classList.remove("show-footer"),document.body.classList.add("hide-footer")})();
+INFO 4/16/2021, 1:20:15 PM  [blur] 1
+INFO 4/16/2021, 1:20:34 PM  got argv [typora] from secondary instance
+DEBUG 4/16/2021, 1:20:34 PM  app.openFile
+INFO 4/16/2021, 1:20:34 PM  [focus] 2
+INFO 4/16/2021, 1:20:34 PM  handle document.loadInitData
+INFO 4/16/2021, 1:20:37 PM  [focus] 1
+INFO 4/16/2021, 1:20:37 PM  [blur] 1
+INFO 4/16/2021, 1:20:37 PM  [focus] 1
+INFO 4/16/2021, 1:20:37 PM  [blur] 1
+INFO 4/16/2021, 1:20:44 PM  got argv [typora] from secondary instance
+DEBUG 4/16/2021, 1:20:44 PM  app.openFile
+INFO 4/16/2021, 1:20:44 PM  [focus] 3
+INFO 4/16/2021, 1:20:45 PM  handle document.loadInitData
+INFO 4/16/2021, 1:20:48 PM  [focus] 1
+INFO 4/16/2021, 1:20:49 PM  [blur] 1
+INFO 4/16/2021, 1:20:51 PM  [focus] 1
+INFO 4/16/2021, 1:21:23 PM  [blur] 1
+INFO 4/16/2021, 1:21:24 PM  [focus] 1
+INFO 4/16/2021, 1:21:25 PM  ----------------before-quit-----------------
+INFO 4/16/2021, 1:21:25 PM  ------------------will-quit------------------
+INFO 4/16/2021, 1:47:11 PM  ------------------start------------------
+INFO 4/16/2021, 1:47:11 PM  typora version: 0.9.98
+DEBUG 4/16/2021, 1:47:11 PM  [ '/usr/share/typora/Typora' ]
+INFO 4/16/2021, 1:47:11 PM  [Raven] instanceKey = 0c24e2d2-3a82-4d92-a6ea-3fa2896a1dd0
+INFO 4/16/2021, 1:47:11 PM  updateTheme
+DEBUG 4/16/2021, 1:47:11 PM  app.openFile
+INFO 4/16/2021, 1:47:11 PM  [focus] 1
+INFO 4/16/2021, 1:47:11 PM  [Raven] userId = c82dee21-cb82-4656-938c-b3be4827ee2c
+INFO 4/16/2021, 1:47:11 PM  handle document.loadInitData
+INFO 4/16/2021, 1:47:12 PM  [blur] 1
+INFO 4/16/2021, 1:47:12 PM  [focus] 1
+INFO 4/16/2021, 1:47:12 PM  [blur] 1
+INFO 4/16/2021, 1:47:12 PM  [focus] 1
+INFO 4/16/2021, 1:47:12 PM  [blur] 1
+INFO 4/16/2021, 1:47:12 PM  [focus] 1
+INFO 4/16/2021, 1:47:13 PM  [blur] 1
+INFO 4/16/2021, 1:47:13 PM  [focus] 1
+INFO 4/16/2021, 1:47:17 PM  ----------------before-quit-----------------
+INFO 4/16/2021, 1:47:17 PM  ------------------will-quit------------------
+INFO 4/16/2021, 1:47:49 PM  ------------------start------------------
+INFO 4/16/2021, 1:47:49 PM  typora version: 0.9.98
+DEBUG 4/16/2021, 1:47:49 PM  [ '/usr/share/typora/Typora', 'readme.md' ]
+DEBUG 4/16/2021, 1:47:49 PM  app.openFile
+INFO 4/16/2021, 1:47:49 PM  addRecentDocument
+INFO 4/16/2021, 1:47:49 PM  [Raven] instanceKey = adc85c11-797b-4a96-afb2-338b96e6d327
+INFO 4/16/2021, 1:47:49 PM  [focus] 1
+INFO 4/16/2021, 1:47:49 PM  [Raven] userId = c82dee21-cb82-4656-938c-b3be4827ee2c
+INFO 4/16/2021, 1:47:49 PM  handle document.loadInitData
+INFO 4/16/2021, 2:02:18 PM  [blur] 1
+INFO 4/16/2021, 2:06:35 PM  [focus] 1
+INFO 4/16/2021, 2:06:36 PM  [blur] 1
+INFO 4/16/2021, 2:09:50 PM  [focus] 1
+INFO 4/16/2021, 2:11:34 PM  [blur] 1
+INFO 4/16/2021, 2:11:35 PM  ----------------before-quit-----------------
+INFO 4/16/2021, 2:11:35 PM  ----------------before-quit-----------------
+INFO 4/16/2021, 2:11:35 PM  ------------------will-quit------------------
+INFO 4/16/2021, 2:11:44 PM  ------------------start------------------
+INFO 4/16/2021, 2:11:44 PM  typora version: 0.9.98
+DEBUG 4/16/2021, 2:11:44 PM  [ '/usr/share/typora/Typora', 'readme.md' ]
+DEBUG 4/16/2021, 2:11:44 PM  app.openFile
+INFO 4/16/2021, 2:11:44 PM  addRecentDocument
+INFO 4/16/2021, 2:11:44 PM  [Raven] instanceKey = 21801e6d-3062-4f24-a645-642990264b82
+INFO 4/16/2021, 2:11:44 PM  [focus] 1
+INFO 4/16/2021, 2:11:44 PM  [Raven] userId = c82dee21-cb82-4656-938c-b3be4827ee2c
+INFO 4/16/2021, 2:11:45 PM  handle document.loadInitData
+INFO 4/16/2021, 2:11:54 PM  [blur] 1
+INFO 4/16/2021, 2:13:52 PM  [focus] 1
+INFO 4/16/2021, 2:13:53 PM  [blur] 1
+INFO 4/16/2021, 2:16:10 PM  [focus] 1
+INFO 4/16/2021, 2:16:11 PM  [blur] 1
+INFO 4/16/2021, 2:16:59 PM  [focus] 1
+INFO 4/16/2021, 2:16:59 PM  [blur] 1
+INFO 4/16/2021, 2:16:59 PM  [focus] 1
+INFO 4/16/2021, 2:16:59 PM  [blur] 1
+INFO 4/16/2021, 2:48:50 PM  got argv [typora readme.md] from secondary instance
+DEBUG 4/16/2021, 2:48:50 PM  app.openFile
+INFO 4/16/2021, 2:48:50 PM  [focus] 1
+INFO 4/16/2021, 2:48:52 PM  [blur] 1
+INFO 4/16/2021, 2:48:55 PM  [focus] 1
+INFO 4/16/2021, 2:48:55 PM  [blur] 1
+INFO 4/16/2021, 2:48:56 PM  [focus] 1
+INFO 4/16/2021, 2:48:57 PM  [blur] 1
+INFO 4/16/2021, 2:59:10 PM  [focus] 1
+INFO 4/16/2021, 2:59:16 PM  [blur] 1
+INFO 4/16/2021, 3:02:56 PM  [focus] 1
+INFO 4/16/2021, 3:03:50 PM  [blur] 1
+INFO 4/16/2021, 3:04:56 PM  [focus] 1
+INFO 4/16/2021, 3:05:06 PM  [blur] 1
+INFO 4/16/2021, 3:05:07 PM  [focus] 1
+INFO 4/16/2021, 3:05:15 PM  [blur] 1
+INFO 4/16/2021, 3:05:15 PM  [focus] 1
+INFO 4/16/2021, 3:05:15 PM  [blur] 1
+INFO 4/16/2021, 3:05:16 PM  [focus] 1
+INFO 4/16/2021, 3:05:17 PM  [blur] 1
+INFO 4/16/2021, 3:05:17 PM  [focus] 1
+INFO 4/16/2021, 3:05:18 PM  [blur] 1
+INFO 4/16/2021, 3:05:18 PM  [focus] 1
+INFO 4/16/2021, 3:05:18 PM  [blur] 1
+INFO 4/16/2021, 3:05:19 PM  [focus] 1
+INFO 4/16/2021, 3:05:19 PM  [blur] 1
+INFO 4/16/2021, 3:05:19 PM  [focus] 1
+INFO 4/16/2021, 3:05:20 PM  [blur] 1
+INFO 4/16/2021, 3:05:20 PM  [focus] 1
+INFO 4/16/2021, 3:05:20 PM  [blur] 1
+INFO 4/16/2021, 3:05:20 PM  [focus] 1
+INFO 4/16/2021, 3:05:21 PM  [blur] 1
+INFO 4/16/2021, 3:05:21 PM  [focus] 1
+INFO 4/16/2021, 3:05:21 PM  [blur] 1
+INFO 4/16/2021, 3:05:21 PM  [focus] 1
+INFO 4/16/2021, 3:05:21 PM  [blur] 1
+INFO 4/16/2021, 3:05:22 PM  [focus] 1
+INFO 4/16/2021, 3:08:52 PM  [blur] 1
+INFO 4/16/2021, 3:09:02 PM  [focus] 1
+INFO 4/16/2021, 3:09:13 PM  [blur] 1
+INFO 4/16/2021, 3:09:50 PM  [focus] 1
+INFO 4/16/2021, 3:09:50 PM  [blur] 1
+INFO 4/16/2021, 3:09:54 PM  [focus] 1
+INFO 4/16/2021, 3:09:59 PM  [blur] 1
+INFO 4/16/2021, 3:10:09 PM  [focus] 1
+INFO 4/16/2021, 3:10:10 PM  [blur] 1
+INFO 4/16/2021, 3:10:10 PM  [focus] 1
+INFO 4/16/2021, 3:10:10 PM  [blur] 1
+INFO 4/16/2021, 3:10:10 PM  [focus] 1
+INFO 4/16/2021, 3:10:10 PM  [blur] 1
+INFO 4/16/2021, 3:10:10 PM  [focus] 1
+INFO 4/16/2021, 3:10:11 PM  [blur] 1
+INFO 4/16/2021, 3:18:08 PM  [focus] 1
+INFO 4/16/2021, 3:19:24 PM  [blur] 1
+INFO 4/16/2021, 3:23:22 PM  [focus] 1
+INFO 4/16/2021, 3:23:44 PM  [blur] 1
+INFO 4/16/2021, 3:24:02 PM  [focus] 1
+INFO 4/16/2021, 3:24:05 PM  [blur] 1
+INFO 4/16/2021, 3:24:53 PM  [focus] 1
+INFO 4/16/2021, 3:25:09 PM  [blur] 1
+INFO 4/16/2021, 4:37:53 PM  [focus] 1
+INFO 4/16/2021, 4:38:05 PM  [blur] 1
+INFO 4/17/2021, 8:47:13 AM  ----------------before-quit-----------------
+INFO 5/7/2021, 10:39:53 AM  ------------------start------------------
+INFO 5/7/2021, 10:39:53 AM  typora version: 0.9.98
+DEBUG 5/7/2021, 10:39:53 AM  [ '/usr/share/typora/Typora', 'readme.md' ]
+DEBUG 5/7/2021, 10:39:53 AM  app.openFile
+INFO 5/7/2021, 10:39:53 AM  addRecentDocument
+INFO 5/7/2021, 10:39:53 AM  [Raven] instanceKey = 25590acf-f0e8-4ee7-b5a8-544f834cc479
+INFO 5/7/2021, 10:39:53 AM  [Raven] userId = c82dee21-cb82-4656-938c-b3be4827ee2c
+INFO 5/7/2021, 10:39:53 AM  [focus] 1
+INFO 5/7/2021, 10:39:53 AM  handle document.loadInitData
+INFO 5/7/2021, 10:39:56 AM  [blur] 1
+INFO 5/7/2021, 10:39:56 AM  [focus] 1
+INFO 5/7/2021, 10:40:09 AM  [blur] 1
+INFO 5/7/2021, 10:40:10 AM  [focus] 1
+INFO 5/7/2021, 10:40:18 AM  [blur] 1
+INFO 5/7/2021, 10:40:20 AM  ----------------before-quit-----------------
+INFO 5/7/2021, 10:40:20 AM  ----------------before-quit-----------------
+INFO 5/7/2021, 10:40:20 AM  ------------------will-quit------------------
+INFO 5/7/2021, 10:40:24 AM  ------------------start------------------
+INFO 5/7/2021, 10:40:24 AM  typora version: 0.9.98
+DEBUG 5/7/2021, 10:40:24 AM  [ '/usr/share/typora/Typora', 'readme.md' ]
+DEBUG 5/7/2021, 10:40:24 AM  app.openFile
+INFO 5/7/2021, 10:40:24 AM  addRecentDocument
+INFO 5/7/2021, 10:40:24 AM  [Raven] instanceKey = d09f931c-44bc-4efc-8310-77c21f2bb69d
+INFO 5/7/2021, 10:40:24 AM  [focus] 1
+INFO 5/7/2021, 10:40:24 AM  [Raven] userId = c82dee21-cb82-4656-938c-b3be4827ee2c
+INFO 5/7/2021, 10:40:25 AM  handle document.loadInitData
+INFO 5/7/2021, 10:40:28 AM  [blur] 1
+INFO 5/7/2021, 10:40:29 AM  [focus] 1
+INFO 5/7/2021, 10:40:30 AM  [blur] 1
+INFO 5/7/2021, 10:40:47 AM  [focus] 1
+INFO 5/7/2021, 10:40:51 AM  [blur] 1
+INFO 5/7/2021, 10:42:42 AM  [focus] 1
+INFO 5/7/2021, 10:42:44 AM  [blur] 1
+INFO 5/7/2021, 10:42:53 AM  [focus] 1
+INFO 5/7/2021, 10:43:01 AM  [blur] 1
+INFO 5/7/2021, 10:43:02 AM  [focus] 1
+INFO 5/7/2021, 10:43:05 AM  [blur] 1
+INFO 5/7/2021, 10:43:42 AM  [focus] 1
+INFO 5/7/2021, 10:43:42 AM  [blur] 1
+INFO 5/7/2021, 10:44:44 AM  [focus] 1
+INFO 5/7/2021, 10:44:57 AM  [blur] 1
+INFO 5/7/2021, 10:44:58 AM  [focus] 1
+INFO 5/7/2021, 10:44:58 AM  [blur] 1
+INFO 5/7/2021, 10:48:36 AM  [focus] 1
+INFO 5/7/2021, 10:48:37 AM  [blur] 1
+INFO 5/7/2021, 10:48:38 AM  [focus] 1
+INFO 5/7/2021, 10:48:39 AM  [blur] 1
+INFO 5/7/2021, 10:48:48 AM  [focus] 1
+INFO 5/7/2021, 10:48:49 AM  [blur] 1
+INFO 5/7/2021, 10:48:59 AM  [focus] 1
+INFO 5/7/2021, 10:48:59 AM  [blur] 1
+INFO 5/7/2021, 10:50:12 AM  [focus] 1
+INFO 5/7/2021, 10:50:13 AM  [blur] 1
+INFO 5/7/2021, 10:51:38 AM  [focus] 1
+INFO 5/7/2021, 10:51:48 AM  [blur] 1
+INFO 5/7/2021, 10:52:18 AM  [focus] 1
+INFO 5/7/2021, 10:52:20 AM  [blur] 1
+INFO 5/7/2021, 10:52:29 AM  [focus] 1
+INFO 5/7/2021, 10:52:37 AM  [blur] 1
+INFO 5/7/2021, 10:53:11 AM  [focus] 1
+INFO 5/7/2021, 10:53:30 AM  [blur] 1
+INFO 5/7/2021, 10:53:30 AM  [focus] 1
+INFO 5/7/2021, 10:53:31 AM  [blur] 1
+INFO 5/7/2021, 10:54:06 AM  [focus] 1
+INFO 5/7/2021, 10:54:07 AM  [blur] 1
+INFO 5/7/2021, 10:54:13 AM  [focus] 1
+INFO 5/7/2021, 10:54:13 AM  [blur] 1
+INFO 5/7/2021, 10:57:08 AM  [focus] 1
+INFO 5/7/2021, 10:57:27 AM  [blur] 1
+INFO 5/7/2021, 10:58:59 AM  [focus] 1
+INFO 5/7/2021, 10:59:00 AM  [blur] 1
+INFO 5/7/2021, 10:59:00 AM  [focus] 1
+INFO 5/7/2021, 10:59:01 AM  [blur] 1
+INFO 5/7/2021, 11:04:43 AM  [focus] 1
+INFO 5/7/2021, 11:04:44 AM  [blur] 1
+INFO 5/7/2021, 11:10:10 AM  [focus] 1
+INFO 5/7/2021, 11:10:25 AM  [blur] 1
+INFO 5/7/2021, 11:10:26 AM  [focus] 1
+INFO 5/7/2021, 11:10:27 AM  [blur] 1
+INFO 5/7/2021, 11:17:26 AM  [focus] 1
+INFO 5/7/2021, 11:17:27 AM  [blur] 1
+INFO 5/7/2021, 11:17:27 AM  [focus] 1
+INFO 5/7/2021, 11:17:28 AM  [blur] 1
+INFO 5/7/2021, 11:17:44 AM  [focus] 1
+INFO 5/7/2021, 11:17:44 AM  [blur] 1
+INFO 5/7/2021, 11:18:11 AM  [focus] 1
+INFO 5/7/2021, 11:18:11 AM  [blur] 1
+INFO 5/7/2021, 11:18:24 AM  [focus] 1
+INFO 5/7/2021, 11:18:24 AM  [blur] 1
+INFO 5/7/2021, 11:19:47 AM  [focus] 1
+INFO 5/7/2021, 11:19:48 AM  [blur] 1
+INFO 5/7/2021, 11:19:49 AM  [focus] 1
+INFO 5/7/2021, 11:19:52 AM  [blur] 1
+INFO 5/7/2021, 11:21:46 AM  [focus] 1
+INFO 5/7/2021, 11:21:47 AM  [blur] 1
+INFO 5/7/2021, 11:21:49 AM  [focus] 1
+INFO 5/7/2021, 11:21:50 AM  ----------------before-quit-----------------
+INFO 5/7/2021, 11:21:50 AM  ------------------will-quit------------------
+INFO 5/7/2021, 1:35:09 PM  ------------------start------------------
+INFO 5/7/2021, 1:35:09 PM  typora version: 0.9.98
+DEBUG 5/7/2021, 1:35:09 PM  [ '/usr/share/typora/Typora', 'readme.md' ]
+DEBUG 5/7/2021, 1:35:09 PM  app.openFile
+INFO 5/7/2021, 1:35:09 PM  addRecentDocument
+INFO 5/7/2021, 1:35:09 PM  [Raven] instanceKey = 582bc8b0-de9f-4113-a961-8957a44f2c6a
+INFO 5/7/2021, 1:35:09 PM  [focus] 1
+INFO 5/7/2021, 1:35:10 PM  [Raven] userId = c82dee21-cb82-4656-938c-b3be4827ee2c
+INFO 5/7/2021, 1:35:10 PM  handle document.loadInitData
+INFO 5/7/2021, 1:37:32 PM  [blur] 1
+INFO 5/7/2021, 1:37:53 PM  [focus] 1
+INFO 5/7/2021, 1:38:41 PM  [blur] 1
+INFO 5/7/2021, 1:38:46 PM  [focus] 1
+INFO 5/7/2021, 1:38:49 PM  [blur] 1
+INFO 5/7/2021, 1:39:57 PM  [focus] 1
+INFO 5/7/2021, 1:40:08 PM  [blur] 1
+INFO 5/7/2021, 1:40:30 PM  [focus] 1
+INFO 5/7/2021, 1:41:15 PM  [blur] 1
+INFO 5/7/2021, 1:41:20 PM  [focus] 1
+INFO 5/7/2021, 1:41:20 PM  [blur] 1
+INFO 5/7/2021, 1:41:27 PM  [focus] 1
+INFO 5/7/2021, 1:41:27 PM  [blur] 1
+INFO 5/7/2021, 1:41:27 PM  [focus] 1
+INFO 5/7/2021, 1:41:29 PM  [blur] 1
+INFO 5/7/2021, 1:41:30 PM  [focus] 1
+INFO 5/7/2021, 1:41:32 PM  [blur] 1
+INFO 5/7/2021, 1:41:36 PM  [focus] 1
+INFO 5/7/2021, 1:43:54 PM  [blur] 1
+INFO 5/7/2021, 1:44:01 PM  [focus] 1
+INFO 5/7/2021, 1:44:05 PM  [blur] 1
+INFO 5/7/2021, 1:44:16 PM  [focus] 1
+INFO 5/7/2021, 1:44:18 PM  [blur] 1
+INFO 5/7/2021, 1:44:42 PM  [focus] 1
+INFO 5/7/2021, 1:44:48 PM  [blur] 1
+INFO 5/7/2021, 1:45:24 PM  [focus] 1
+INFO 5/7/2021, 1:45:27 PM  [blur] 1
+INFO 5/7/2021, 1:45:35 PM  [focus] 1
+INFO 5/7/2021, 1:45:36 PM  [blur] 1
+INFO 5/7/2021, 1:45:40 PM  [focus] 1
+INFO 5/7/2021, 1:45:44 PM  [blur] 1
+INFO 5/7/2021, 1:45:49 PM  [focus] 1
+INFO 5/7/2021, 1:45:51 PM  [blur] 1
+INFO 5/7/2021, 1:45:51 PM  [focus] 1
+INFO 5/7/2021, 1:45:57 PM  [blur] 1
+INFO 5/7/2021, 1:46:04 PM  [focus] 1
+INFO 5/7/2021, 1:46:06 PM  [blur] 1
+INFO 5/7/2021, 1:46:23 PM  [focus] 1
+INFO 5/7/2021, 1:46:32 PM  [blur] 1
+INFO 5/7/2021, 1:46:32 PM  [focus] 1
+INFO 5/7/2021, 1:46:33 PM  [blur] 1
+INFO 5/7/2021, 2:03:38 PM  The system is going to sleep
+INFO 5/7/2021, 2:08:30 PM  [focus] 1
+INFO 5/7/2021, 2:09:15 PM  [blur] 1
+INFO 5/7/2021, 2:13:55 PM  [focus] 1
+INFO 5/7/2021, 2:14:05 PM  [blur] 1
+INFO 5/7/2021, 2:14:06 PM  [focus] 1
+INFO 5/7/2021, 2:14:07 PM  [blur] 1
+INFO 5/7/2021, 2:14:08 PM  ----------------before-quit-----------------
+INFO 5/7/2021, 2:14:10 PM  [focus] 1
+INFO 5/7/2021, 2:14:14 PM  [blur] 1
+INFO 5/7/2021, 2:14:17 PM  [focus] 1
+INFO 5/7/2021, 2:14:17 PM  [blur] 1
+INFO 5/7/2021, 2:14:25 PM  [focus] 1
+INFO 5/7/2021, 2:14:26 PM  [blur] 1
+INFO 5/7/2021, 2:14:28 PM  [focus] 1
+INFO 5/7/2021, 2:14:30 PM  [blur] 1
+INFO 5/7/2021, 2:15:05 PM  [focus] 1
+INFO 5/7/2021, 2:15:07 PM  [blur] 1
+INFO 5/7/2021, 2:15:18 PM  [focus] 1
+INFO 5/7/2021, 2:15:22 PM  [blur] 1
+INFO 5/7/2021, 2:15:26 PM  [focus] 1
+INFO 5/7/2021, 2:15:26 PM  [blur] 1
+INFO 5/7/2021, 2:15:26 PM  [focus] 1
+INFO 5/7/2021, 2:15:26 PM  [blur] 1
+INFO 5/7/2021, 2:15:26 PM  [focus] 1
+INFO 5/7/2021, 2:15:41 PM  [blur] 1
+INFO 5/7/2021, 2:15:42 PM  [focus] 1
+INFO 5/7/2021, 2:15:43 PM  [blur] 1
+INFO 5/7/2021, 2:15:46 PM  [focus] 1
+INFO 5/7/2021, 2:15:46 PM  [blur] 1
+INFO 5/7/2021, 2:15:46 PM  [focus] 1
+INFO 5/7/2021, 2:15:46 PM  [blur] 1
+INFO 5/7/2021, 2:15:46 PM  [focus] 1
+INFO 5/7/2021, 2:15:48 PM  [blur] 1
+INFO 5/7/2021, 2:16:00 PM  [focus] 1
+INFO 5/7/2021, 2:16:01 PM  [blur] 1
+INFO 5/7/2021, 2:18:22 PM  [focus] 1
+INFO 5/7/2021, 2:18:35 PM  [blur] 1
+INFO 5/7/2021, 2:19:01 PM  [focus] 1
+INFO 5/7/2021, 2:19:03 PM  [blur] 1
+INFO 5/7/2021, 2:19:06 PM  [focus] 1
+INFO 5/7/2021, 2:19:17 PM  [blur] 1
+INFO 5/7/2021, 2:19:59 PM  [focus] 1
+INFO 5/7/2021, 2:20:26 PM  ----------------before-quit-----------------
+INFO 5/7/2021, 2:20:26 PM  ------------------will-quit------------------
+INFO 5/11/2021, 8:24:35 AM  ------------------start------------------
+INFO 5/11/2021, 8:24:35 AM  typora version: 0.9.98
+DEBUG 5/11/2021, 8:24:35 AM  [ '/usr/share/typora/Typora', 'readme.md' ]
+DEBUG 5/11/2021, 8:24:35 AM  app.openFile
+INFO 5/11/2021, 8:24:35 AM  addRecentDocument
+INFO 5/11/2021, 8:24:35 AM  [Raven] instanceKey = 63e2f663-c95f-4a9d-8723-e90500ea16ee
+INFO 5/11/2021, 8:24:35 AM  [Raven] userId = c82dee21-cb82-4656-938c-b3be4827ee2c
+INFO 5/11/2021, 8:24:35 AM  [focus] 1
+INFO 5/11/2021, 8:24:36 AM  handle document.loadInitData
+INFO 5/11/2021, 8:24:43 AM  [blur] 1
+INFO 5/11/2021, 8:24:44 AM  ----------------before-quit-----------------
+INFO 5/11/2021, 8:24:44 AM  ----------------before-quit-----------------
+INFO 5/11/2021, 8:24:44 AM  ------------------will-quit------------------
+INFO 5/11/2021, 4:54:48 PM  ------------------start------------------
+INFO 5/11/2021, 4:54:48 PM  typora version: 0.9.98
+DEBUG 5/11/2021, 4:54:48 PM  [ '/usr/share/typora/Typora', 'readme.md' ]
+DEBUG 5/11/2021, 4:54:48 PM  app.openFile
+INFO 5/11/2021, 4:54:48 PM  addRecentDocument
+INFO 5/11/2021, 4:54:48 PM  [Raven] instanceKey = a2d99ccd-5dd9-431e-8f77-2ec5200e15e5
+INFO 5/11/2021, 4:54:48 PM  [focus] 1
+INFO 5/11/2021, 4:54:48 PM  [Raven] userId = c82dee21-cb82-4656-938c-b3be4827ee2c
+INFO 5/11/2021, 4:54:48 PM  handle document.loadInitData
+INFO 5/11/2021, 4:54:59 PM  ----------------before-quit-----------------
+INFO 5/11/2021, 4:55:52 PM  ------------------start------------------
+INFO 5/11/2021, 4:55:52 PM  typora version: 0.9.98
+DEBUG 5/11/2021, 4:55:52 PM  [ '/usr/share/typora/Typora', 'Readme.md' ]
+DEBUG 5/11/2021, 4:55:52 PM  app.openFile
+INFO 5/11/2021, 4:55:52 PM  addRecentDocument
+INFO 5/11/2021, 4:55:52 PM  [Raven] instanceKey = 359fe979-610c-4279-b0c1-ed1a70de0003
+INFO 5/11/2021, 4:55:52 PM  [focus] 1
+INFO 5/11/2021, 4:55:52 PM  [Raven] userId = c82dee21-cb82-4656-938c-b3be4827ee2c
+INFO 5/11/2021, 4:55:52 PM  handle document.loadInitData
+INFO 5/11/2021, 4:56:01 PM  [blur] 1
+INFO 5/11/2021, 4:56:03 PM  ----------------before-quit-----------------
+INFO 5/11/2021, 4:56:03 PM  ----------------before-quit-----------------
+INFO 5/11/2021, 4:56:03 PM  ------------------will-quit------------------
+INFO 5/11/2021, 4:56:09 PM  ------------------start------------------
+INFO 5/11/2021, 4:56:10 PM  typora version: 0.9.98
+DEBUG 5/11/2021, 4:56:10 PM  [ '/usr/share/typora/Typora', 'Readme.md' ]
+DEBUG 5/11/2021, 4:56:10 PM  app.openFile
+INFO 5/11/2021, 4:56:10 PM  addRecentDocument
+INFO 5/11/2021, 4:56:10 PM  [Raven] instanceKey = 1220ac96-754a-45b0-a85f-dfa9b77b9568
+INFO 5/11/2021, 4:56:10 PM  [focus] 1
+INFO 5/11/2021, 4:56:10 PM  [Raven] userId = c82dee21-cb82-4656-938c-b3be4827ee2c
+INFO 5/11/2021, 4:56:10 PM  handle document.loadInitData
+INFO 5/11/2021, 4:56:12 PM  [blur] 1
+INFO 5/11/2021, 4:57:27 PM  [focus] 1
+INFO 5/11/2021, 4:57:31 PM  [blur] 1
+INFO 5/11/2021, 5:00:56 PM  The system is going to sleep
+INFO 5/11/2021, 5:45:14 PM  ----------------before-quit-----------------
+INFO 5/11/2021, 5:45:14 PM  [focus] 1
+INFO 5/11/2021, 5:45:14 PM  [blur] 1
+INFO 5/11/2021, 5:45:14 PM  [focus] 1
+INFO 5/11/2021, 5:45:14 PM  [blur] 1
+INFO 5/11/2021, 5:45:14 PM  [focus] 1
+INFO 5/25/2021, 2:07:03 PM  ------------------start------------------
+INFO 5/25/2021, 2:07:03 PM  typora version: 0.9.98
+DEBUG 5/25/2021, 2:07:03 PM  [ '/usr/share/typora/Typora', 'Readme.md' ]
+DEBUG 5/25/2021, 2:07:03 PM  app.openFile
+INFO 5/25/2021, 2:07:03 PM  addRecentDocument
+INFO 5/25/2021, 2:07:03 PM  [Raven] instanceKey = 2553dbf2-d5c7-45b6-bec7-93d2fe0fc2f8
+INFO 5/25/2021, 2:07:03 PM  [Raven] userId = c82dee21-cb82-4656-938c-b3be4827ee2c
+INFO 5/25/2021, 2:07:03 PM  [focus] 1
+INFO 5/25/2021, 2:07:04 PM  handle document.loadInitData
+INFO 5/25/2021, 2:08:40 PM  [blur] 1
+INFO 5/25/2021, 2:09:16 PM  [focus] 1
+INFO 5/25/2021, 2:09:25 PM  [blur] 1
+INFO 5/25/2021, 2:14:31 PM  [focus] 1
+INFO 5/25/2021, 2:14:31 PM  [blur] 1
+INFO 5/25/2021, 2:18:27 PM  [focus] 1
+INFO 5/25/2021, 2:19:20 PM  [blur] 1
+INFO 5/25/2021, 2:36:25 PM  [focus] 1
+INFO 5/25/2021, 2:36:25 PM  [blur] 1
+INFO 5/25/2021, 2:36:36 PM  [focus] 1
+INFO 5/25/2021, 2:36:36 PM  [blur] 1
+INFO 5/25/2021, 2:36:47 PM  [focus] 1
+INFO 5/25/2021, 2:36:47 PM  [blur] 1
+INFO 5/25/2021, 2:37:13 PM  [focus] 1
+INFO 5/25/2021, 2:37:13 PM  [blur] 1
+INFO 5/25/2021, 2:44:01 PM  [focus] 1
+INFO 5/25/2021, 2:44:02 PM  [blur] 1
+INFO 5/25/2021, 2:51:13 PM  [focus] 1
+INFO 5/25/2021, 2:51:14 PM  [blur] 1
+INFO 5/25/2021, 2:51:15 PM  [focus] 1
+INFO 5/25/2021, 2:51:16 PM  [blur] 1
+INFO 5/25/2021, 3:05:38 PM  [focus] 1
+INFO 5/25/2021, 3:05:44 PM  [blur] 1
+INFO 5/25/2021, 3:05:48 PM  ----------------before-quit-----------------
+INFO 5/25/2021, 3:05:48 PM  ----------------before-quit-----------------
+INFO 5/25/2021, 3:05:48 PM  ------------------will-quit------------------
+INFO 5/29/2021, 1:56:58 PM  ------------------start------------------
+INFO 5/29/2021, 1:56:58 PM  typora version: 0.9.98
+DEBUG 5/29/2021, 1:56:58 PM  [ '/usr/share/typora/Typora', 'readme.md' ]
+DEBUG 5/29/2021, 1:56:58 PM  app.openFile
+INFO 5/29/2021, 1:56:58 PM  addRecentDocument
+INFO 5/29/2021, 1:56:59 PM  [Raven] instanceKey = ac85673a-d590-4762-92f9-3063dc988c08
+INFO 5/29/2021, 1:56:59 PM  [Raven] userId = c82dee21-cb82-4656-938c-b3be4827ee2c
+INFO 5/29/2021, 1:56:59 PM  [focus] 1
+INFO 5/29/2021, 1:56:59 PM  handle document.loadInitData
+INFO 5/29/2021, 1:57:11 PM  [blur] 1
+INFO 5/29/2021, 1:57:12 PM  [focus] 1
+INFO 5/29/2021, 1:57:59 PM  [blur] 1
+INFO 5/29/2021, 1:58:34 PM  [focus] 1
+INFO 5/29/2021, 1:58:59 PM  [blur] 1
+INFO 5/29/2021, 2:00:13 PM  [focus] 1
+INFO 5/29/2021, 2:00:21 PM  [blur] 1
+INFO 5/29/2021, 2:00:46 PM  [focus] 1
+INFO 5/29/2021, 2:01:36 PM  [blur] 1
+INFO 5/29/2021, 2:02:49 PM  [focus] 1
+INFO 5/29/2021, 2:02:56 PM  [blur] 1
+INFO 5/29/2021, 2:02:59 PM  [focus] 1
+INFO 5/29/2021, 2:03:21 PM  [blur] 1
+INFO 5/29/2021, 2:08:48 PM  [focus] 1
+INFO 5/29/2021, 2:10:15 PM  ----------------before-quit-----------------
+INFO 5/29/2021, 2:10:15 PM  ------------------will-quit------------------
+INFO 6/18/2021, 4:46:10 PM  ------------------start------------------
+INFO 6/18/2021, 4:46:10 PM  typora version: 0.9.98
+DEBUG 6/18/2021, 4:46:10 PM  [ '/usr/share/typora/Typora', 'readme.md' ]
+DEBUG 6/18/2021, 4:46:10 PM  app.openFile
+INFO 6/18/2021, 4:46:10 PM  addRecentDocument
+INFO 6/18/2021, 4:46:10 PM  [Raven] instanceKey = 9f830bd6-8a5d-46a3-a8e9-b3ae7da469f5
+INFO 6/18/2021, 4:46:10 PM  [Raven] userId = c82dee21-cb82-4656-938c-b3be4827ee2c
+INFO 6/18/2021, 4:46:10 PM  [focus] 1
+INFO 6/18/2021, 4:46:11 PM  handle document.loadInitData
+INFO 6/18/2021, 4:46:14 PM  [blur] 1
+INFO 6/18/2021, 4:46:15 PM  [focus] 1
+INFO 6/18/2021, 4:48:30 PM  [blur] 1
+INFO 6/18/2021, 4:48:38 PM  [focus] 1
+INFO 6/18/2021, 4:48:39 PM  [blur] 1
+INFO 6/18/2021, 4:48:40 PM  ----------------before-quit-----------------
+INFO 6/18/2021, 4:48:40 PM  ----------------before-quit-----------------
+INFO 6/18/2021, 4:48:40 PM  ------------------will-quit------------------
+INFO 6/18/2021, 4:48:55 PM  ------------------start------------------
+INFO 6/18/2021, 4:48:55 PM  typora version: 0.9.98
+DEBUG 6/18/2021, 4:48:55 PM  [ '/usr/share/typora/Typora', 'readme.md' ]
+DEBUG 6/18/2021, 4:48:55 PM  app.openFile
+INFO 6/18/2021, 4:48:55 PM  addRecentDocument
+INFO 6/18/2021, 4:48:55 PM  [Raven] instanceKey = 86265731-6460-4586-b4f8-d0fea33310b9
+INFO 6/18/2021, 4:48:55 PM  [focus] 1
+INFO 6/18/2021, 4:48:55 PM  [Raven] userId = c82dee21-cb82-4656-938c-b3be4827ee2c
+INFO 6/18/2021, 4:48:55 PM  handle document.loadInitData
+INFO 6/18/2021, 4:49:38 PM  ----------------before-quit-----------------
+INFO 6/18/2021, 4:49:38 PM  ------------------will-quit------------------
+INFO 8/5/2021, 4:45:12 PM  ------------------start------------------
+INFO 8/5/2021, 4:45:12 PM  typora version: 0.9.98
+DEBUG 8/5/2021, 4:45:12 PM  [ '/usr/share/typora/Typora', 'coreWars.md' ]
+DEBUG 8/5/2021, 4:45:12 PM  app.openFile
+INFO 8/5/2021, 4:45:12 PM  addRecentDocument
+INFO 8/5/2021, 4:45:12 PM  [Raven] instanceKey = 4385dd8c-b8c5-4b55-b096-c152967f82c3
+INFO 8/5/2021, 4:45:12 PM  [Raven] userId = c82dee21-cb82-4656-938c-b3be4827ee2c
+INFO 8/5/2021, 4:45:12 PM  [focus] 1
+INFO 8/5/2021, 4:45:12 PM  handle document.loadInitData
+INFO 8/5/2021, 4:45:20 PM  updateTheme
+INFO 8/5/2021, 4:45:28 PM  updateTheme
+INFO 8/5/2021, 4:45:36 PM  [blur] 1
+INFO 8/5/2021, 4:45:40 PM  ----------------before-quit-----------------
+INFO 8/5/2021, 4:45:40 PM  ----------------before-quit-----------------
+INFO 8/5/2021, 4:45:40 PM  ------------------will-quit------------------
+INFO 8/5/2021, 4:45:44 PM  ------------------start------------------
+INFO 8/5/2021, 4:45:44 PM  typora version: 0.9.98
+DEBUG 8/5/2021, 4:45:44 PM  [ '/usr/share/typora/Typora', 'coreWars.md' ]
+DEBUG 8/5/2021, 4:45:44 PM  app.openFile
+INFO 8/5/2021, 4:45:44 PM  addRecentDocument
+INFO 8/5/2021, 4:45:44 PM  [Raven] instanceKey = 8c8e3f8c-7511-4430-ac36-e9480010c185
+INFO 8/5/2021, 4:45:44 PM  [focus] 1
+INFO 8/5/2021, 4:45:44 PM  [Raven] userId = c82dee21-cb82-4656-938c-b3be4827ee2c
+INFO 8/5/2021, 4:45:44 PM  handle document.loadInitData
+INFO 8/5/2021, 4:45:47 PM  [blur] 1
+INFO 8/5/2021, 4:45:55 PM  [focus] 1
+INFO 8/5/2021, 4:47:28 PM  [blur] 1
+INFO 8/5/2021, 4:47:38 PM  [focus] 1
+INFO 8/5/2021, 4:48:23 PM  [blur] 1
+INFO 8/5/2021, 4:48:24 PM  [focus] 1
+INFO 8/5/2021, 4:48:27 PM  ----------------before-quit-----------------
+INFO 8/5/2021, 4:48:27 PM  ------------------will-quit------------------

@@ -1,0 +1,26 @@
+2021/04/13-15:09:05.021 dfa5 Reusing MANIFEST /home/taz/.config/google-chrome/Default/IndexedDB/https_www.letemps.ch_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/13-15:09:05.021 dfa5 Recovering log #6
+2021/04/13-15:09:05.021 dfa5 Reusing old log /home/taz/.config/google-chrome/Default/IndexedDB/https_www.letemps.ch_0.indexeddb.leveldb/000006.log 
+2021/04/13-15:09:05.360 d6f7 Level-0 table #11: started
+2021/04/13-15:09:05.361 d6f7 Level-0 table #11: 579 bytes OK
+2021/04/13-15:09:05.362 d6f7 Delete type=0 #6
+2021/04/13-15:09:05.362 d6f7 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/04/13-15:10:54.922 dbc6 Level-0 table #13: started
+2021/04/13-15:10:54.924 dbc6 Level-0 table #13: 3915 bytes OK
+2021/04/13-15:10:54.925 dbc6 Delete type=0 #10
+2021/04/13-15:10:54.925 dbc6 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01.\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x001\x000\x000\x008\x004\x003\x000\x004\x003\x003\x005\x004\x000\x00:\x00w\x00e\x00b\x00:\x000\x005\x000\x000\x006\x00f\x009\x002\x008\x008\x007\x007\x00e\x007\x00d\x00a' @ 159 : 1
+2021/04/13-15:10:54.925 dbc6 Compacting 1@0 + 1@1 files
+2021/04/13-15:10:54.927 dbc6 Generated table #14@0: 47 keys, 1516 bytes
+2021/04/13-15:10:54.927 dbc6 Compacted 1@0 + 1@1 files => 1516 bytes
+2021/04/13-15:10:54.928 dbc6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/04/13-15:10:54.928 dbc6 Delete type=2 #11
+2021/04/13-15:10:54.928 dbc6 Delete type=2 #13
+2021/04/13-15:10:54.929 dbc6 Manual compaction at level-0 from '\x00\x02\x01\x02\x01.\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x001\x000\x000\x008\x004\x003\x000\x004\x003\x003\x005\x004\x000\x00:\x00w\x00e\x00b\x00:\x000\x005\x000\x000\x006\x00f\x009\x002\x008\x008\x007\x007\x00e\x007\x00d\x00a' @ 159 : 1 .. (end); will stop at (end)
+2021/04/13-15:10:54.929 dbc6 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01.\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x001\x000\x000\x008\x004\x003\x000\x004\x003\x003\x005\x004\x000\x00:\x00w\x00e\x00b\x00:\x000\x005\x000\x000\x006\x00f\x009\x002\x008\x008\x007\x007\x00e\x007\x00d\x00a' @ 255 : 1
+2021/04/13-15:10:54.929 dbc6 Compacting 1@1 + 1@2 files
+2021/04/13-15:10:54.930 dbc6 Generated table #15@1: 20 keys, 1243 bytes
+2021/04/13-15:10:54.930 dbc6 Compacted 1@1 + 1@2 files => 1243 bytes
+2021/04/13-15:10:54.932 dbc6 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/04/13-15:10:54.932 dbc6 Delete type=2 #14
+2021/04/13-15:10:54.932 dbc6 Delete type=2 #8
+2021/04/13-15:10:54.932 dbc6 Manual compaction at level-1 from '\x00\x02\x01\x02\x01.\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x001\x000\x000\x008\x004\x003\x000\x004\x003\x003\x005\x004\x000\x00:\x00w\x00e\x00b\x00:\x000\x005\x000\x000\x006\x00f\x009\x002\x008\x008\x007\x007\x00e\x007\x00d\x00a' @ 255 : 1 .. (end); will stop at (end)

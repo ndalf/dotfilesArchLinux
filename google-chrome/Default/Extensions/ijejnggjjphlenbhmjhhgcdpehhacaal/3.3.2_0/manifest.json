@@ -1,0 +1,34 @@
+{
+   "background": {
+      "scripts": [ "./js/background.js" ]
+   },
+   "browser_action": {
+      "default_popup": "index.html",
+      "default_title": "__MSG_title__"
+   },
+   "content_scripts": [ {
+      "js": [ "./js/content-script.js" ],
+      "matches": [ "\u003Call_urls>" ]
+   }, {
+      "js": [ "./js/video-recorder-content.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_start"
+   } ],
+   "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_desc__",
+   "differential_fingerprint": "1.883f2f51809aeaf28652fa8539a13fcc1bbb15108366bf8c1ae974466d692d23",
+   "icons": {
+      "128": "assets/128.png",
+      "32": "assets/32.png",
+      "64": "assets/64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2PzyUdXLKBUT+SHZff7BGPnLI4uASCX501vtuliS6x1KdGkqjMFxUR0XXws18CaJWar78NUEsxyvEsMHeVf6PxYqXKdj5PqCf0CrWc3p1BlJkK56Ki9C8Abaxzps6nmaK/HPEeemoTxDU5nXna33p1KSF3uqFm7yjLaaWcay32U7MM5LJyR22t8BeYHhMJhZgv86ghXI0qa32ZqeLJDG/7Vdd6dACMUflChBEHlgSoJksGb1W5hp2+6O+GtOFKlPx5TuK7S7DALEQnUzIwRrk6OjWZpLawwoeGDaJQxA+LJnOmHr1Mm35lLAsUdCRP1No7QqVli9QhYnb4pemOqXhwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_name__",
+   "options_page": "./settings.html",
+   "permissions": [ "storage", "activeTab", "tabCapture", "unlimitedStorage", "debugger", "desktopCapture", "\u003Call_urls>" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.3.2",
+   "web_accessible_resources": [ "assets/*.svg", "assets/*.png", "assets/*.css", "assets/*.otf", "audio-devices.html" ]
+}

@@ -1,0 +1,5 @@
+2021/04/17-15:16:32.797 17f84 Reusing MANIFEST /home/taz/.config/google-chrome/Default/IndexedDB/https_talk.jekyllrb.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/17-15:17:37.471 17f84 Level-0 table #5: started
+2021/04/17-15:17:37.474 17f84 Level-0 table #5: 2655 bytes OK
+2021/04/17-15:17:37.475 17f84 Delete type=0 #3
+2021/04/17-15:17:37.475 17f84 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

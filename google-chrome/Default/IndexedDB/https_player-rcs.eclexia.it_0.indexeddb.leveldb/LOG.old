@@ -1,0 +1,5 @@
+2021/05/28-15:37:08.864 7571 Reusing MANIFEST /home/taz/.config/google-chrome/Default/IndexedDB/https_player-rcs.eclexia.it_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/28-15:37:36.260 6d14 Level-0 table #5: started
+2021/05/28-15:37:36.263 6d14 Level-0 table #5: 358 bytes OK
+2021/05/28-15:37:36.264 6d14 Delete type=0 #3
+2021/05/28-15:37:36.264 6d14 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
